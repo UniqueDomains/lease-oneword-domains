@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .lease one-word domains from Uniqu
 
 **Public extract:** 9,707 rows · **Live catalog:** 9,707 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/lease`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | silver.lease  | available | $73.98    | —             | 56             | 99     | 6      | namecheap        |
 | office.lease  | resell    | —         | —             | 100            | 58     | 6      | Porkbun LLC      |
 | data.lease    | premium   | $85.80    | $85.80        | 70             | 59     | 4      | namecheap        |
-| alpha.lease   | available | $14.99    | $71.99        | 90             | 54     | 5      | name.com         |
+| alpha.lease   | available | $14.99    | $71.99        | 90             | 53     | 5      | name.com         |
 | the.lease     | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc      |
 | live.lease    | premium   | $123.75   | $123.75       | 108            | 56     | 4      | name.com         |
 | snap.lease    | available | $14.99    | $71.99        | 90             | 46     | 4      | name.com         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LEASE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LEASE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
