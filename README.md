@@ -71,18 +71,18 @@ print(df.head())
 | the.lease     | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc      |
 | live.lease    | premium   | $123.75   | $123.75       | 108            | 56     | 4      | name.com         |
 | snap.lease    | available | $14.99    | $71.99        | 90             | 46     | 4      | name.com         |
-| design.lease  | resell    | —         | —             | 108            | 50     | 6      | Porkbun LLC      |
-| fast.lease    | premium   | $123.75   | $123.75       | 82             | 53     | 4      | name.com         |
+| design.lease  | resell    | —         | —             | 108            | 49     | 6      | Porkbun LLC      |
+| fast.lease    | premium   | $123.75   | $123.75       | 82             | 52     | 4      | name.com         |
 | pure.lease    | available | $14.99    | —             | 86             | 45     | 4      | name.com         |
 | real.lease    | resell    | —         | —             | 78             | 49     | 4      | Dynadot Inc      |
 | abc.lease     | premium   | $260      | $260          | 102            | 50     | 3      | namecheap        |
 | creator.lease | available | $14.99    | $71.99        | 70             | 45     | 7      | name.com         |
 | top.lease     | resell    | —         | —             | 82             | 48     | 3      | GoDaddy.com, LLC |
 | life.lease    | premium   | $260      | $260          | 84             | 50     | 4      | namecheap        |
-| forge.lease   | available | $14.99    | $71.99        | 62             | 45     | 5      | name.com         |
+| nice.lease    | available | $14.99    | $71.99        | 86             | 44     | 4      | name.com         |
 | brand.lease   | resell    | —         | —             | 66             | 47     | 5      | Dynadot Inc      |
 | air.lease     | premium   | $85.80    | $85.80        | 84             | 49     | 3      | namecheap        |
-| nice.lease    | available | $14.99    | $71.99        | 86             | 44     | 4      | name.com         |
+| pop.lease     | available | $14.99    | $71.99        | 82             | 44     | 3      | name.com         |
 | token.lease   | resell    | —         | —             | 114            | 46     | 5      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
