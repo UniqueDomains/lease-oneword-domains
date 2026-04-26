@@ -1,22 +1,22 @@
-# Available .LEASE One-Word Domains (9,707)
+# Available .LEASE One-Word Domains (12,155)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C707%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C707%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C155%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .lease one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .lease one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,155 domains** on the canonical page below.
 
-**Public extract:** 9,707 rows · **Live catalog:** 9,707 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,155 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/lease`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .LEASE one-word domain
 
 ### Files
 
-- `lease.csv` — public CSV extract (9,707 rows)
-- `lease.json` — public JSON extract (9,707 rows)
+- `lease.csv` — public CSV extract (1,000 rows)
+- `lease.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| silver.lease  | available | $73.98    | —             | 56             | 99     | 6      | namecheap        |
-| office.lease  | resell    | —         | —             | 100            | 58     | 6      | Porkbun LLC      |
-| data.lease    | premium   | $85.80    | $85.80        | 70             | 59     | 4      | namecheap        |
-| alpha.lease   | available | $14.99    | $71.99        | 90             | 53     | 5      | name.com         |
-| the.lease     | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc      |
-| live.lease    | premium   | $123.75   | $123.75       | 108            | 56     | 4      | name.com         |
-| snap.lease    | available | $14.99    | $71.99        | 90             | 46     | 4      | name.com         |
-| design.lease  | resell    | —         | —             | 108            | 49     | 6      | Porkbun LLC      |
-| fast.lease    | premium   | $123.75   | $123.75       | 82             | 52     | 4      | name.com         |
-| pure.lease    | available | $14.99    | —             | 86             | 45     | 4      | name.com         |
-| real.lease    | resell    | —         | —             | 78             | 49     | 4      | Dynadot Inc      |
-| abc.lease     | premium   | $260      | $260          | 102            | 50     | 3      | namecheap        |
-| creator.lease | available | $14.99    | $71.99        | 70             | 45     | 7      | name.com         |
-| top.lease     | resell    | —         | —             | 82             | 48     | 3      | GoDaddy.com, LLC |
-| life.lease    | premium   | $260      | $260          | 84             | 50     | 4      | namecheap        |
-| nice.lease    | available | $14.99    | $71.99        | 86             | 44     | 4      | name.com         |
-| brand.lease   | resell    | —         | —             | 66             | 47     | 5      | Dynadot Inc      |
-| air.lease     | premium   | $85.80    | $85.80        | 84             | 49     | 3      | namecheap        |
-| pop.lease     | available | $14.99    | $71.99        | 82             | 44     | 3      | name.com         |
-| token.lease   | resell    | —         | —             | 114            | 46     | 5      | Spaceship, Inc.  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| skills.lease      | available | $14.99    | —             | 58             | 47     | 6      | name.com                   |
+| monthly.lease     | resell    | —         | —             | 70             | 15     | 7      | Squarespace Domains II LLC |
+| homes.lease       | premium   | $500      | —             | 86             | 34     | 5      | name.com                   |
+| Ryan.lease        | available | $73.98    | —             | 60             | 44     | 4      | namecheap                  |
+| tickets.lease     | premium   | $118.80   | $118.80       | 64             | 34     | 7      | namesilo                   |
+| jobs.lease        | available | $14.99    | —             | 79             | 42     | 4      | name.com                   |
+| partners.lease    | premium   | $123.75   | —             | 61             | 32     | 8      | name.com                   |
+| matcha.lease      | available | $14.99    | —             | 86             | 39     | 6      | name.com                   |
+| reports.lease     | premium   | $123.75   | —             | 58             | 24     | 7      | name.com                   |
+| whynot.lease      | available | $14.99    | —             | 74             | 39     | 7      | name.com                   |
+| apartments.lease  | premium   | $242      | $242          | 60             | 21     | 10     | namesilo                   |
+| teams.lease       | available | $14.99    | —             | 62             | 32     | 5      | name.com                   |
+| studios.lease     | premium   | $250      | —             | 54             | 21     | 7      | name.com                   |
+| trends.lease      | available | $14.99    | —             | 60             | 32     | 6      | name.com                   |
+| trucks.lease      | premium   | $123.75   | —             | 55             | 19     | 6      | name.com                   |
+| letsgo.lease      | available | $14.99    | —             | 57             | 31     | 7      | name.com                   |
+| dont.lease        | premium   | $250      | —             | 42             | 18     | 4      | name.com                   |
+| maps.lease        | available | $14.99    | —             | 56             | 31     | 4      | name.com                   |
+| Automobiles.lease | premium   | $280      | $280          | 62             | 17     | 11     | namecheap                  |
+| inspiration.lease | available | $14.99    | —             | 88             | 30     | 11     | name.com                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,707-row public sample | 9,707 live domains                               |
+| 1,000-row public sample | 12,155 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LEASE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LEASE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
