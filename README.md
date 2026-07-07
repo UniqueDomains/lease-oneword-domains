@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .lease one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,673 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,673 domains · **Median ask:** $24.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,673 domains · **Median ask:** $24.22 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/lease`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/lease`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LEASE one-word domain
 
 ### Files
 
-- `lease.csv` — public CSV extract (1,000 rows)
-- `lease.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `lease.csv`, public CSV extract (1,000 rows)
+- `lease.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| girls.lease       | available | $14.99    | —             | 83             | 23     | 5      | name.com  |
-| barup.lease       | available | $14.99    | —             | 82             | 2      | 6      | name.com  |
-| matcha.lease      | available | $14.99    | —             | 86             | 39     | 6      | name.com  |
-| dogsit.lease      | available | $14.99    | —             | 96             | 2      | 6      | name.com  |
-| QandA.lease       | available | $73.98    | —             | 80             | 10     | 7      | namecheap |
-| toneup.lease      | available | $14.99    | —             | 80             | 5      | 7      | name.com  |
-| dogsick.lease     | available | $14.99    | —             | 90             | 1      | 7      | name.com  |
-| skills.lease      | available | $14.99    | —             | 58             | 47     | 6      | name.com  |
-| homes.lease       | premium   | $500      | —             | 86             | 34     | 5      | name.com  |
-| whynot.lease      | available | $14.99    | —             | 74             | 44     | 7      | name.com  |
-| partners.lease    | premium   | $123.75   | —             | 61             | 31     | 8      | name.com  |
-| Ryan.lease        | available | $73.98    | —             | 60             | 44     | 4      | namecheap |
-| reports.lease     | premium   | $123.75   | —             | 58             | 24     | 7      | name.com  |
-| apartments.lease  | premium   | $242      | $242          | 60             | 21     | 10     | namesilo  |
-| teams.lease       | available | $14.99    | —             | 62             | 32     | 5      | name.com  |
-| studios.lease     | premium   | $250      | —             | 54             | 21     | 7      | name.com  |
-| trends.lease      | available | $14.99    | —             | 60             | 32     | 6      | name.com  |
-| dont.lease        | premium   | $250      | —             | 42             | 18     | 4      | name.com  |
-| letsgo.lease      | available | $14.99    | —             | 57             | 31     | 7      | name.com  |
-| Automobiles.lease | premium   | $280      | $280          | 62             | 17     | 11     | namecheap |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| half.lease       | available | $14.99    | —             | high           | low    | 4      | name.com    |
+| ala.lease        | available | $14.99    | —             | high           | low    | 3      | name.com    |
+| lodge.lease      | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc |
+| aid.lease        | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo    |
+| axe.lease        | available | $14.99    | —             | medium         | low    | 3      | name.com    |
+| commercial.lease | resell    | —         | —             | high           | low    | 10     | Dynadot Inc |
+| air.lease        | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap   |
+| bce.lease        | available | $14.99    | —             | medium         | low    | 3      | name.com    |
+| and.lease        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo    |
+| bro.lease        | available | $14.99    | —             | medium         | low    | 3      | name.com    |
+| any.lease        | premium   | $123.75   | —             | high           | medium | 3      | name.com    |
+| bud.lease        | available | $14.99    | —             | high           | low    | 3      | name.com    |
+| apt.lease        | premium   | $250      | —             | high           | low    | 3      | name.com    |
+| cry.lease        | available | $14.99    | —             | high           | low    | 3      | name.com    |
+| big.lease        | premium   | $123.75   | $123.75       | high           | medium | 3      | name.com    |
+| DJI.lease        | available | $14.99    | —             | high           | low    | 3      | name.com    |
+| buy.lease        | premium   | $250      | —             | high           | medium | 3      | name.com    |
+| dna.lease        | available | $14.99    | —             | high           | medium | 3      | name.com    |
+| fan.lease        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo    |
+| gas.lease        | available | $14.99    | —             | high           | low    | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is focused entirely on one-word .lease domains. That makes the main question straightforward: does the word pair naturally with leasing activity, or does the extension feel forced? Strong candidates tend to be simple, memorable words that can plausibly support equipment, vehicle, property, or niche leasing use. Examples like Acup.lease and jewels.lease are specific, while names like getup.lease or forces.lease are broader and may need more interpretation. The median ask is 24.23, so price may not be the main filter. Instead, compare commercial relevance, clarity when spoken, and whether the exact word creates avoidable trademark or positioning risk.
+Every domain in this set uses the .lease extension and reads as a single, dashless word — names like getmoving.lease, gearup.lease, and coffeewoman.lease. With a median ask near $24 across 12,673 available names, this is a low-cost pool for anyone comparing short, memorable one-word options. Founders can shortlist names for lifestyle, fitness, or service-based brands, while investors can weigh entry price against renewal cost and the niche demand typical of a non-mainstream TLD.
 
-- Prioritize words that fit leasing use without explanation
-- Check if the word stays clear when paired with .lease
-- Low ask can help, but renewal fit still matters
-- Screen exact-match brands before treating a name as ownable
+- 12,673 available one-word .lease domains, updated daily
+- Median ask near $24 — low-cost entry across the board
+- Brandable picks like getmoving.lease and gearup.lease
+- Everyday-language names suited for lifestyle and service brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LEASE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LEASE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
