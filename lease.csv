@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 7bedc2f8-2f72-4f5b-a99c-d2661f0d9d4e,bloodplasma.lease,available,14.99,,high,low,12,name.com,,,
 4cf49e8f-9b13-4d98-b767-2e28f2acf7c4,grandfather.lease,available,14.99,,high,low,11,name.com,,,
-1b23386a-5c44-4209-a038-c5773439d9c2,favored.lease,available,14.99,,high,low,7,name.com,,,
+1b23386a-5c44-4209-a038-c5773439d9c2,favored.lease,available,58.98,73.98,medium,low,7,namecheap,,,22/09/2026 20:01
 0bc44416-6b6d-4284-9d1f-fb645f5e327d,aid.lease,premium,78.54,78.54,medium,low,3,namesilo,,,
 365e83d7-b26c-4fc8-aff8-d4b8f475e82f,soundbar.lease,available,14.99,,high,low,8,name.com,,,
 550f5778-f2ba-400f-af2e-881e1e28b240,granddaughter.lease,available,14.99,,high,low,13,name.com,,,
@@ -18,7 +18,7 @@ dfc95645-f87a-47db-8735-57b9476b248c,named.lease,available,14.99,,medium,low,5,n
 b90d77d1-dfc8-498c-96cf-3ccf37cf5835,loyal.lease,available,14.99,,high,low,5,name.com,,,
 7294e14b-45ef-40b8-b3f1-772a3a3bfc0f,achromous.lease,available,14.99,71.99,low,low,9,name.com,,,
 a17bd71a-3b82-41cf-b9c6-ae92223f951d,nwo.lease,available,14.99,,medium,low,3,name.com,,,
-76089393-10cb-46e7-8fcd-3809b8339bcf,auburn.lease,available,14.99,,medium,low,6,name.com,,,
+76089393-10cb-46e7-8fcd-3809b8339bcf,auburn.lease,available,56.99,56.99,low,low,6,namesilo,,,22/09/2026 12:02
 a2ccc634-e7d8-4287-8fc0-e0e64b86846d,aetiologic.lease,available,14.99,71.99,low,low,10,name.com,,,
 b61e73af-2ca3-40b0-8cc1-08fcc91b3408,apostolic.lease,available,14.99,71.99,low,low,9,name.com,,,06/08/2026 04:04
 86a4c800-4b55-4a5a-9289-d8d85402657c,sets.lease,available,14.99,,medium,low,4,name.com,,,
@@ -27,7 +27,7 @@ b61e73af-2ca3-40b0-8cc1-08fcc91b3408,apostolic.lease,available,14.99,71.99,low,l
 ffdfc416-5fd2-4583-8bf5-27d92353eded,liv.lease,available,14.99,71.99,low,low,3,name.com,,,
 33565f3a-e667-468c-bbcf-21cbc0d137eb,toiletpaper.lease,available,14.99,,high,low,12,name.com,,,
 8c2dc9a5-e164-4b43-b0f3-63716de40183,parkingattendant.lease,available,14.99,,medium,low,17,name.com,,,
-93c2fcbf-cfb8-4c84-8e70-cb51584cbc8f,stunned.lease,available,14.99,,medium,low,7,name.com,,,
+93c2fcbf-cfb8-4c84-8e70-cb51584cbc8f,stunned.lease,available,56.99,56.99,low,low,7,namesilo,,,22/09/2026 03:44
 9f2f3f42-346d-417f-b461-c8d830e3aa9d,frozen.lease,available,14.99,,high,low,6,name.com,,,
 0e2a6e1f-dbc9-4b15-aaed-951d5801c688,mouthwash.lease,available,14.99,,low,low,10,name.com,,,
 4cadb9e8-bf56-447c-86d8-6c29d541c69d,drseuss.lease,available,14.99,,high,low,9,name.com,,,
@@ -51,16 +51,16 @@ ba7cf360-ebf3-4ba9-9e24-2815a7cfd757,abulic.lease,available,14.99,71.99,low,low,
 e13e7fab-ee19-4bda-be93-ffea0de07212,cool.lease,premium,250,250,high,low,4,name.com,,,
 241327ba-a65c-40c7-94b1-ebc052c01c22,disorganized.lease,available,14.99,,medium,low,12,name.com,,,
 d6cb56ac-a7e7-4789-a80a-3e692edc62cb,feelfree.lease,available,14.99,,medium,low,9,name.com,,,
-fe68a188-ca73-4358-8ab5-a84785a7b093,stamp.lease,available,14.99,,medium,low,5,name.com,,,
+fe68a188-ca73-4358-8ab5-a84785a7b093,stamp.lease,available,56.99,56.99,low,low,5,namesilo,,,23/09/2026 01:04
 d955e0ca-fab9-4a5b-a6ac-f7f4b4bf3d52,actor.lease,premium,78.54,78.54,high,low,5,namesilo,,,
 b453b5f4-634c-4bba-b062-2091e77bafb1,ambiguous.lease,available,14.99,71.99,low,low,9,name.com,,,
 3b55e712-5282-4162-a27d-6f389eb61983,potatochip.lease,available,14.99,,high,low,11,name.com,,,
 32eb1c30-f102-4577-ab00-6c0ce284e593,waken.lease,available,14.99,71.99,medium,low,5,name.com,,,08/08/2026 00:08
 91eb98b3-c09d-4703-81f2-cb0bd085b9ad,kitschy.lease,available,14.99,71.99,low,low,7,name.com,,,09/08/2026 00:53
-6a915967-0a36-41bf-98ae-3524d22d923a,bizarre.lease,available,14.99,,high,low,7,name.com,,,
+6a915967-0a36-41bf-98ae-3524d22d923a,bizarre.lease,available,58.98,73.98,medium,low,7,namecheap,,,22/09/2026 21:11
 83cb3304-fd69-4b45-b8dc-791515693ebc,microwave.lease,available,14.99,,high,low,9,name.com,,,
 d9b2c638-fd7e-4685-82de-ced8602c3d7f,eyry.lease,available,14.99,71.99,low,low,4,name.com,,,
-61b36240-036d-4ebf-b2b0-20426d75308e,gas.lease,available,14.99,,high,low,3,name.com,,,
+61b36240-036d-4ebf-b2b0-20426d75308e,gas.lease,available,56.99,56.99,low,low,3,namesilo,,,23/09/2026 01:57
 4fdaf1f9-3e7f-4e1b-b042-8412b7074d2c,aslongas.lease,available,14.99,,medium,low,10,name.com,,,
 001d49b4-2d3f-487c-9057-d5e7e73716de,islands.lease,available,14.99,,high,low,7,name.com,,,
 ad98ec34-bc22-4e95-80ef-f900d936f63a,majestic.lease,available,14.99,,high,low,8,name.com,,,
@@ -71,12 +71,12 @@ c7eb9fe8-229f-435c-abdb-055cd7c9e1ce,saint.lease,available,14.99,,high,low,5,nam
 9ec56f5c-2ed4-48c8-9cf7-a14df089e580,fallen.lease,available,14.99,,high,low,6,name.com,,,
 ee6374ca-f76e-4755-a630-99773991be60,outdated.lease,available,14.99,,medium,low,8,name.com,,,
 9a5d620f-176f-4334-8dbe-2a366406023e,taxassessment.lease,available,14.99,,medium,low,14,name.com,,,
-e6f8e885-f7e6-4bed-a026-44951dc870c1,automatic.lease,available,14.99,,high,low,9,name.com,,,
+e6f8e885-f7e6-4bed-a026-44951dc870c1,automatic.lease,available,56.99,56.99,medium,low,9,namesilo,,,22/09/2026 14:02
 8f5e7754-3d0b-4f1a-821e-fc0ed9dfd7ba,took.lease,available,14.99,,low,low,4,name.com,,,
 2a029e1f-08b6-465e-8062-5257150a4ccf,flowerbox.lease,available,14.99,,high,low,10,name.com,,,
 a9278121-f14a-4354-a909-4ff875f56c49,prose.lease,available,14.99,,medium,low,5,name.com,,,
 6354461b-1ea8-4ac4-92f5-eca9a84c8cdf,recoveredmemory.lease,available,14.99,,high,low,16,name.com,,,
-224681b7-872b-4074-842d-d4ba98e762f0,above.lease,available,14.99,71.99,high,low,5,name.com,,,
+224681b7-872b-4074-842d-d4ba98e762f0,above.lease,available,56.99,56.99,medium,low,5,namesilo,,,21/09/2026 14:29
 22f9985c-51e5-45f3-9ff7-0e86c544be37,callcentre.lease,available,14.99,,medium,low,11,name.com,,,
 2e0549b3-d712-4460-b926-9167880784f0,shakira.lease,available,14.99,,high,low,7,name.com,,,
 b14df676-fc40-45d9-91e9-75979d6140cb,columbia.lease,available,,,medium,low,8,,,,
@@ -118,7 +118,7 @@ d9ecbfc8-7182-4eb3-af92-23c7161fbeb6,maintained.lease,premium,78.54,78.54,medium
 7bcf676a-fa1d-47f7-8fb6-62781a51844e,letterspatents.lease,available,14.99,,medium,low,15,name.com,,,
 f89e1edb-cc53-43b5-b3df-ea9a21e6c781,uniform.lease,premium,118.8,118.8,medium,low,7,namesilo,,,19/09/2026 05:41
 34452cee-f03a-484a-9068-c87253e80b87,incentive.lease,available,14.99,,high,low,9,name.com,,,
-86729eb9-4697-4e51-9c85-d4c75008f1f9,apt.lease,premium,250,,high,low,3,name.com,,,
+86729eb9-4697-4e51-9c85-d4c75008f1f9,apt.lease,premium,242,242,low,low,3,namesilo,,,22/09/2026 07:23
 0526fc21-984b-486e-91c2-1882f303f7a8,tierce.lease,available,14.99,71.99,low,low,6,name.com,,,
 376a7658-93b9-4bb5-b0c3-4416110668d0,camping.lease,available,14.99,,high,low,7,name.com,,,
 a0c55f6f-9ac2-444e-9507-497c19fc6b9e,proven.lease,available,14.99,,high,low,6,name.com,,,
@@ -128,16 +128,16 @@ d7836c9e-5a6b-4f16-81a3-7d8f84ae69d9,ninety.lease,available,14.99,71.99,low,low,
 0688a020-322c-4dd1-9749-fe4ed99e6c17,throw.lease,available,14.99,,high,low,5,name.com,,,
 bdb91df4-1508-4d43-9ea1-9174ffd5c121,giveway.lease,available,14.99,,medium,low,8,name.com,,,
 6dc178ff-4eca-4681-baee-5d7f450ea9b7,holdopen.lease,available,14.99,,high,low,9,name.com,,,
-9920bd4e-a39f-42ec-b008-c7aac3bf944b,leading.lease,available,14.99,71.99,high,low,7,name.com,,,
-390681d8-7b35-44a7-9ac7-474ff4cedcc0,advanced.lease,available,14.99,71.99,high,low,8,name.com,,,
+9920bd4e-a39f-42ec-b008-c7aac3bf944b,leading.lease,available,56.99,56.99,medium,low,7,namesilo,,,21/09/2026 23:23
+390681d8-7b35-44a7-9ac7-474ff4cedcc0,advanced.lease,available,58.98,73.98,medium,low,8,namecheap,,,21/09/2026 20:46
 2b7873a3-852b-421f-aba1-931abd12b555,sickly.lease,available,14.99,71.99,low,low,6,name.com,,,
 73f45e17-613a-416b-b497-e9ca145a601c,les.lease,available,14.99,,medium,low,3,name.com,,,
-dcb59e35-30d8-45b0-8d1a-82a6b394bcac,courageous.lease,available,14.99,,high,low,10,name.com,,,
+dcb59e35-30d8-45b0-8d1a-82a6b394bcac,courageous.lease,available,56.99,56.99,medium,low,10,namesilo,,,23/09/2026 02:25
 34449f03-b9ac-45b9-8444-a708017f3c81,bychance.lease,available,14.99,,medium,low,9,name.com,,,
-8c296025-6b0c-48ae-8baa-875df61591c5,aboveabit.lease,available,14.99,,medium,low,11,name.com,,,
+8c296025-6b0c-48ae-8baa-875df61591c5,aboveabit.lease,available,14.99,,low,low,11,name.com,,,
 0db0d9e5-4dce-4eb9-8013-da8583652d29,careful.lease,available,14.99,,high,low,7,name.com,,,
 362a4dc4-894b-4d69-8419-f41f6172dc56,bilious.lease,available,14.99,71.99,low,low,7,name.com,,,07/08/2026 14:09
-2cb0912d-9f57-4b0d-b651-9dcd888057da,premarital.lease,available,14.99,,high,low,10,name.com,,,
+2cb0912d-9f57-4b0d-b651-9dcd888057da,premarital.lease,available,56.99,56.99,medium,low,10,namesilo,,,22/09/2026 06:09
 922cf23a-ecf8-4cec-97d4-8babd6d8cac1,lol.lease,premium,118.8,118.8,high,low,3,namesilo,,,
 5f8578bd-cf8e-4b19-ac40-00624b33979a,burger.lease,available,14.99,,high,low,6,name.com,,,
 923f8cfc-1e39-4154-b3ff-a57231b5a5d4,lowtech.lease,available,14.99,,medium,low,8,name.com,,,
@@ -146,14 +146,14 @@ dcb59e35-30d8-45b0-8d1a-82a6b394bcac,courageous.lease,available,14.99,,high,low,
 5fadd31b-f27b-4156-8e3b-05c90930166c,birds.lease,available,14.99,,high,low,5,name.com,,,
 81cc2043-30e0-4eab-ac9f-7a1e3a528099,antenna.lease,available,14.99,,high,low,7,name.com,,,
 13a4371d-0c3b-4231-b8ef-5a806b92155c,areolate.lease,available,14.99,71.99,low,low,8,name.com,,,06/08/2026 17:47
-d3fcf559-8059-4471-9239-4814049063a3,ethereal.lease,available,14.99,71.99,high,low,8,name.com,,,
+d3fcf559-8059-4471-9239-4814049063a3,ethereal.lease,available,58.98,73.98,medium,low,8,namecheap,,,21/09/2026 21:04
 9dd3bf08-7229-4503-bb59-5dcb13b9ed89,cheerily.lease,available,14.99,,medium,low,8,name.com,,,
 a6469154-dd0e-469f-a9e5-d75e515a1f43,thinkagain.lease,available,14.99,,low,low,11,name.com,,,
 fe9e8b17-8c4e-429f-bc39-28fd8fd0b7cd,clerk.lease,available,14.99,,medium,low,5,name.com,,,
 c45490f6-cae9-4078-838c-86b64b220379,laws.lease,available,14.99,,high,low,4,name.com,,,
 f10a1d16-79ba-4374-b62d-ad1e3af5aa61,excusatory.lease,available,14.99,71.99,low,low,10,name.com,,,06/08/2026 02:16
 4cd2ae2d-3f2e-4f51-b757-1dff0e8aeca1,shavingoil.lease,available,14.99,,low,low,11,name.com,,,
-713debb0-5f46-44a6-a481-18c42eee4209,actionable.lease,available,14.99,71.99,high,low,10,name.com,,,
+713debb0-5f46-44a6-a481-18c42eee4209,actionable.lease,available,56.99,56.99,medium,low,10,namesilo,,,21/09/2026 16:28
 bc5eb3fc-0ef7-450a-acfe-39d3066b8b0e,bargain.lease,available,14.99,,high,low,7,name.com,,,
 848c5185-fcdc-491f-8beb-0fc213f79462,underwear.lease,available,14.99,,medium,low,9,name.com,,,
 f802926f-7934-444f-ac11-0ddd6272447d,fruitwine.lease,available,14.99,,high,low,10,name.com,,,
@@ -163,14 +163,13 @@ e683f364-8892-41eb-b907-ffa2268419a0,leaveofabsence.lease,available,14.99,,high,
 86620d05-cc57-4fe1-97d9-360546fc32a1,chose.lease,available,14.99,,high,low,5,name.com,,,
 64b5bb08-4588-4740-a2b0-dcd7c0954b58,indisposed.lease,available,14.99,71.99,low,low,10,name.com,,,
 98879a9d-7f67-4a71-918c-0621712d1d51,kissmyass.lease,available,14.99,,medium,low,11,name.com,,,
-2b29dc3b-e85e-4554-9975-78a606805f76,aggressive.lease,available,14.99,71.99,high,low,10,name.com,,,
-e09287f1-1e24-4c6f-a655-205e8fa0b5e8,clear.lease,available,14.99,,high,medium,5,name.com,,,
+2b29dc3b-e85e-4554-9975-78a606805f76,aggressive.lease,available,56.99,56.99,medium,low,10,namesilo,,,21/09/2026 22:59
 c753a3a2-89f5-48fc-971b-90469ab69848,warranty.lease,available,14.99,,high,low,8,name.com,,,
 4b3a2de9-ea6a-4d77-a8c6-19184be9fcfe,spanish.lease,available,14.99,,medium,low,7,name.com,,,
 2b144d1d-193e-487e-996d-3cc621bddb7f,aculeate.lease,available,14.99,71.99,low,low,8,name.com,,,
 d76ce28a-bed3-4478-850b-46485180d90c,apopemptic.lease,available,14.99,71.99,low,low,10,name.com,,,06/08/2026 02:22
 3d003210-3d75-4dff-9ef8-f814e94f0d7f,havingsaidthat.lease,available,14.99,,medium,low,16,name.com,,,
-c0f0655b-b488-45b3-8b47-63c348de593f,attractive.lease,available,14.99,,high,low,10,name.com,,,
+c0f0655b-b488-45b3-8b47-63c348de593f,attractive.lease,available,56.99,56.99,medium,low,10,namesilo,,,22/09/2026 11:44
 a510481f-700d-49c2-80df-cd80a08a3794,ascending.lease,available,14.99,71.99,low,low,9,name.com,,,07/08/2026 00:51
 19579db9-6c3c-48d7-9bb2-744034b6d228,mothafuggah.lease,available,14.99,,medium,low,11,name.com,,,
 c86fb796-75da-4b35-aa57-49274604cf1b,critical.lease,available,14.99,71.99,high,low,8,name.com,,,
@@ -186,7 +185,7 @@ f4e91531-b5e5-455e-bb12-f63bda308479,endurance.lease,available,14.99,,high,low,9
 77439c87-ab1f-4ea1-8ebb-4f3105457684,demo.lease,premium,242,242,high,medium,4,namesilo,,,
 b0651f08-e005-4b3e-89e6-7a5b5d98059d,concoct.lease,available,14.99,,high,low,7,name.com,,,
 3d48df4a-6215-4ad1-a50f-779250d5be51,wonderful.lease,available,14.99,,high,low,9,name.com,,,
-f6f38d97-0809-42a3-83c0-1590b115874e,dressed.lease,available,14.99,,high,low,7,name.com,,,
+f6f38d97-0809-42a3-83c0-1590b115874e,dressed.lease,available,56.99,56.99,low,low,7,namesilo,,,22/09/2026 07:16
 96ebae01-fa2f-46e5-9c59-37ed0fab8635,inhale.lease,available,14.99,,high,low,6,name.com,,,
 01f3e092-323f-4011-beb4-b27063e170fa,treehugger.lease,available,14.99,,medium,low,11,name.com,,,
 e6cb9d93-4b8d-4bbc-8053-a18e25f7873b,twatabout.lease,available,14.99,,low,low,10,name.com,,,
@@ -196,13 +195,13 @@ b4e14a3b-b271-4476-9f42-508ba99f0a50,surprising.lease,available,14.99,,high,low,
 0fb4de4e-2554-41e0-b44d-75d8847b0063,bury.lease,available,14.99,,medium,low,4,name.com,,,
 c8bc0612-3b44-4d4f-86ac-d5ee0f846dfa,trace.lease,available,14.99,,medium,low,5,name.com,,,
 77c6eabd-eb95-4a25-80f1-770a61942b39,wine.lease,premium,118.8,118.8,high,low,4,namesilo,,,
-2adbaa29-8989-4c4f-83a2-88d84459c9d7,totally.lease,available,14.99,71.99,high,low,7,name.com,,,
+2adbaa29-8989-4c4f-83a2-88d84459c9d7,totally.lease,available,56.99,56.99,low,low,7,namesilo,,,22/09/2026 00:22
 5ee3165c-a5c1-4f3e-a224-df8ee574b542,insist.lease,available,14.99,,high,low,6,name.com,,,
 5e1250c5-39b4-49ae-bd44-ac0da32221c4,otic.lease,available,14.99,71.99,low,low,4,name.com,,,07/08/2026 17:41
 c7452b9e-5788-4255-b191-b7bc35e3d918,jazz.lease,available,14.99,,high,low,4,name.com,,,
 cdd4be58-ccff-4436-b324-c44f16de3c00,asteriated.lease,available,14.99,71.99,low,low,10,name.com,,,07/08/2026 08:42
 3f46ccd1-0977-4575-a3eb-a6c2b849f3a7,atmost.lease,available,14.99,,medium,low,7,name.com,,,
-5ebf8d4d-e7ba-497e-867e-9d2bf4087e4f,astute.lease,available,14.99,,high,low,6,name.com,,,
+5ebf8d4d-e7ba-497e-867e-9d2bf4087e4f,astute.lease,available,56.99,56.99,low,low,6,namesilo,,,22/09/2026 10:35
 8ddd3197-e7f7-45c6-b99a-bbdb3f975a69,commodity.lease,available,14.99,,high,low,9,name.com,,,
 5cd60e1d-ba1e-4c87-bab4-ef287cc7108a,anosmic.lease,available,14.99,71.99,low,low,7,name.com,,,
 e59017ec-9c14-447c-9f9d-3459d8b06caa,barbate.lease,available,14.99,71.99,low,low,7,name.com,,,08/08/2026 16:10
@@ -224,7 +223,7 @@ ea0621db-e453-429a-b421-c141d232f2f7,cinque.lease,available,14.99,71.99,low,low,
 1a2bf4f0-f1a1-404a-a390-48edb2a411c5,rapmusic.lease,available,14.99,,medium,low,9,name.com,,,
 95009d47-748d-43fb-b079-ec7743eac4f1,directing.lease,available,14.99,71.99,medium,low,9,name.com,,,
 f9270822-b249-4b24-ba05-d5be86ab9e36,they.lease,available,14.99,,high,low,4,name.com,,,
-147f4cf6-4469-43e1-9e65-1ee0f1e7299d,augratin.lease,available,14.99,,high,low,9,name.com,,,
+147f4cf6-4469-43e1-9e65-1ee0f1e7299d,augratin.lease,available,56.99,56.99,medium,low,9,namesilo,,,22/09/2026 11:47
 0ed9db8b-47dc-458b-89de-fd4692a27bf1,spin.lease,available,14.99,,high,low,4,name.com,,,
 466a3ea9-1da1-4bbc-86b5-2ed6906b42d8,vein.lease,available,14.99,,high,low,4,name.com,,,
 7dda9835-3914-482c-afbf-9252999e4090,animal.lease,available,14.99,71.99,medium,low,6,name.com,,,08/09/2026 11:39
@@ -232,7 +231,7 @@ f9270822-b249-4b24-ba05-d5be86ab9e36,they.lease,available,14.99,,high,low,4,name
 c5f46294-dbad-4c0a-b39a-d508e4433a3a,firstrate.lease,available,14.99,71.99,low,low,10,name.com,,,
 88dc44dd-cc77-4b15-81db-dd03037e8a76,hill.lease,available,14.99,,medium,low,4,name.com,,,
 018ce69a-20b1-4b52-986a-3e5b38a73489,insuranceagent.lease,available,14.99,,medium,low,15,name.com,,,
-ae9ef31e-73bc-4930-8b49-c0250793e478,aujus.lease,available,14.99,,medium,low,6,name.com,,,
+ae9ef31e-73bc-4930-8b49-c0250793e478,aujus.lease,available,56.99,56.99,low,low,6,namesilo,,,22/09/2026 11:49
 1edf4816-b466-4d6c-b535-0c60d228402b,senescent.lease,available,14.99,71.99,low,low,9,name.com,,,
 e7e26f7d-c45c-4d93-bfac-dbf69a6200e0,grin.lease,available,14.99,,high,low,4,name.com,,,
 8ee5044f-9e10-4197-8418-e511758db703,owe.lease,available,14.99,,high,low,3,name.com,,,
@@ -247,9 +246,9 @@ c12b064b-194a-4003-b924-b51062d3c501,newatheism.lease,available,14.99,,low,low,1
 57b89b07-50a0-4533-8f6a-8474da5ef27a,nowhile.lease,available,14.99,,low,low,8,name.com,,,
 2292649f-1d66-4b1d-ac62-5ee7b2c9211d,lorditover.lease,available,14.99,,medium,low,12,name.com,,,
 9e18379d-90bd-4153-a39d-65fb59b72eb6,andalusian.lease,available,14.99,71.99,low,low,10,name.com,,,
-a4adec4f-c11b-4635-8d81-1bda9d92f49b,best.lease,premium,854,854,high,medium,4,namesilo,,,
+a4adec4f-c11b-4635-8d81-1bda9d92f49b,best.lease,premium,1040,1040,medium,low,4,namecheap,,,22/09/2026 19:49
 f6e20fd4-430d-45de-a4ab-7c3d9e6d8f06,characters.lease,available,14.99,,medium,low,10,name.com,,,
-bd9d855c-6856-41d4-8e22-47fcb852ef7f,rise.lease,available,14.99,,medium,medium,4,name.com,,,
+bd9d855c-6856-41d4-8e22-47fcb852ef7f,rise.lease,available,56.99,56.99,low,low,4,namesilo,,,22/09/2026 09:12
 706d368a-7041-4c3f-8f14-7e80847de361,saw.lease,available,14.99,,high,low,3,name.com,,,
 b660d9a7-93f1-4324-9bfe-4af9fb3811ce,enhance.lease,available,14.99,,high,low,7,name.com,,,
 c1e7f5da-500a-4b45-a13b-315450df3c95,anecdotal.lease,available,14.99,71.99,low,low,9,name.com,,,
@@ -274,7 +273,7 @@ e3807ba6-77f1-42d6-918a-24b0ab883960,shopworn.lease,available,14.99,71.99,low,lo
 babab3d4-e43d-4fdd-9753-63fcb8b164ca,trousers.lease,available,14.99,,medium,low,8,name.com,,,
 49132557-3970-4549-a862-f0bbda180700,thanksabunch.lease,available,14.99,,low,low,14,name.com,,,
 6c526b46-4a29-4c26-9097-67a9aaf29693,howlong.lease,available,14.99,,medium,low,8,name.com,,,
-faa5a0ae-1972-4140-9c40-c5cc16fb018a,big.lease,premium,123.75,123.75,high,medium,3,name.com,,,
+faa5a0ae-1972-4140-9c40-c5cc16fb018a,big.lease,premium,128.7,128.7,medium,low,3,namecheap,,,21/09/2026 20:03
 d9d07123-c061-44bc-a73c-9bfaedf2156c,takebystorm.lease,available,14.99,,low,low,13,name.com,,,
 b6c3472f-1246-463f-88bd-475f83842be4,boards.lease,available,14.99,,medium,low,6,name.com,,,
 4a0507bc-2043-447e-894b-6c266dc7490a,manmade.lease,available,14.99,,medium,low,8,name.com,,,
@@ -287,7 +286,7 @@ f34e8f36-80d3-4a14-87d1-e55b949ff184,algore.lease,available,14.99,,high,low,7,na
 020e0a85-f4a4-4a89-a6ac-3bb713756aff,hairfollicle.lease,available,14.99,,high,low,13,name.com,,,
 044dcdd0-7cd4-4f61-8592-466b26011ae0,lightbulb.lease,available,14.99,,high,low,10,name.com,,,
 3f401281-b5ee-41cc-9225-81f05e97fa94,orbicular.lease,available,14.99,71.99,low,low,9,name.com,,,08/08/2026 10:11
-2f097134-9067-4c62-9685-565931c5f63e,ambitious.lease,available,14.99,,medium,low,9,name.com,,,
+2f097134-9067-4c62-9685-565931c5f63e,ambitious.lease,available,56.99,56.99,low,low,9,namesilo,,,22/09/2026 03:59
 9b58bbbe-360f-4d31-ade2-c56acb35dec1,gallon.lease,available,14.99,,medium,low,6,name.com,,,
 37e861a7-ddcc-4e4f-8d51-134c0d1b3abb,occurrence.lease,available,14.99,,medium,low,10,name.com,,,
 2fe5910f-fd05-4471-a4e0-be62c2f78449,archeozoic.lease,available,14.99,71.99,low,low,10,name.com,,,06/08/2026 15:16
@@ -326,7 +325,7 @@ cd47e2ae-49e2-4bc7-b38a-1718b16e2582,oxygen.lease,available,14.99,,medium,low,6,
 9714cea5-8ffd-4d3f-ab8b-ac429d746be6,what.lease,available,14.99,,high,low,4,name.com,,,
 5ccd5a77-f4ff-42f7-9306-582ede841495,instruct.lease,available,14.99,,high,low,8,name.com,,,
 d75d9093-7d04-4647-aac7-0ccefeab9d03,headteacher.lease,available,14.99,,high,low,12,name.com,,,
-52568543-871b-401c-9072-48008d44f5c8,actual.lease,available,14.99,71.99,high,low,6,name.com,,,
+52568543-871b-401c-9072-48008d44f5c8,actual.lease,available,56.99,56.99,medium,low,6,namesilo,,,21/09/2026 16:37
 baa6c210-bc96-4061-b770-52eb22e75ae5,hannukah.lease,available,14.99,,medium,low,8,name.com,,,
 d4448623-3dcc-4836-8cab-58985d82101e,behaviouralscience.lease,available,14.99,,high,low,19,name.com,,,
 d48d1f8f-bafe-4da6-95da-29536c4e3c0e,stopping.lease,available,14.99,,medium,low,8,name.com,,,
@@ -334,8 +333,8 @@ d48d1f8f-bafe-4da6-95da-29536c4e3c0e,stopping.lease,available,14.99,,medium,low,
 79100888-7cdb-4c94-bb57-e1dcc352d158,respecting.lease,available,14.99,,medium,low,10,name.com,,,
 5f885325-35fe-4d91-b5e3-20028da3c82f,something.lease,available,14.99,,high,low,9,name.com,,,
 d1c17bd2-bbae-4a2b-9d33-0955792ae7aa,completed.lease,available,14.99,71.99,high,low,9,name.com,,,
-c0f8e5db-835a-4f63-acd8-72c102ff1508,adjusted.lease,available,14.99,71.99,high,low,8,name.com,,,
-620eb8b6-6acc-408b-baa0-08d073abb0fc,blink.lease,premium,854,854,high,medium,5,namesilo,,,
+c0f8e5db-835a-4f63-acd8-72c102ff1508,adjusted.lease,available,58.98,73.98,medium,low,8,namecheap,,,21/09/2026 18:42
+620eb8b6-6acc-408b-baa0-08d073abb0fc,blink.lease,premium,1040,1040,medium,low,5,namecheap,,,22/09/2026 22:02
 7950c3d1-9071-4ad6-8529-f892847be8d9,amount.lease,available,14.99,,high,low,6,name.com,,,
 f4a0692c-0941-4dc5-899e-f568aba0829e,utmost.lease,available,14.99,,high,low,6,name.com,,,
 b4205fa8-73c5-49ce-b891-01510bef2bd2,commercial.lease,resell,,,medium,low,10,Dynadot Inc,11/11/2019 09:34,11/11/2026 09:34,19/09/2026 10:28
@@ -345,8 +344,8 @@ da55aefb-3fd3-47a3-b006-1ef446f150a1,powerstrip.lease,available,14.99,,high,low,
 2f747d2f-a2bc-49e2-8513-a1808ebf4f9a,preceding.lease,available,14.99,,low,low,9,name.com,,,
 c5b24cd4-7abc-43df-ba4f-0b272d2e7ef8,badness.lease,available,14.99,71.99,low,low,7,name.com,,,08/08/2026 07:23
 0f1bff73-aa5d-474a-b4ee-985d7bcf033b,purgative.lease,available,14.99,71.99,low,low,9,name.com,,,05/08/2026 22:14
-90b4f960-1b7b-4259-8405-1113e2345844,absorbing.lease,available,14.99,71.99,high,low,9,name.com,,,
-6e6d6825-0062-496b-888e-4e8863665145,accident.lease,available,14.99,,medium,low,8,name.com,,,
+90b4f960-1b7b-4259-8405-1113e2345844,absorbing.lease,available,56.99,56.99,medium,low,9,namesilo,,,21/09/2026 15:02
+6e6d6825-0062-496b-888e-4e8863665145,accident.lease,available,14.99,,low,low,8,name.com,,,
 6cf262f2-439c-4793-abc8-09e8f369fc08,westcott.lease,available,14.99,,low,low,8,name.com,,,
 0d55a023-1b60-4119-b4ef-6941a4bea395,everything.lease,available,14.99,,medium,medium,10,name.com,,,
 fde8e83a-496a-4ec1-8f89-3873a2fa32dc,terminated.lease,available,56.99,56.99,low,low,10,namesilo,,,19/09/2026 16:25
@@ -364,7 +363,6 @@ d0a8f36e-d587-4e4f-a213-305ab29e0b2f,pussy.lease,available,14.99,,medium,low,5,n
 b611459b-f9fa-4c2a-96d6-444a12bb8706,british.lease,premium,118.8,118.8,high,low,7,namesilo,,,
 00882460-8de1-4ff2-a9bc-a3248d8b7f71,amyloid.lease,available,14.99,71.99,low,low,7,name.com,,,
 f48cf55f-e2b1-4d33-897a-85d9bedd9204,several.lease,available,14.99,,high,low,7,name.com,,,
-59337e43-7dac-400e-a93d-34ada3ebb94e,discover.lease,available,,,medium,low,8,,,,
 e22c7a50-a607-4246-8b42-fd31738f0db1,courses.lease,premium,118.8,118.8,high,low,7,namesilo,,,
 c52661ce-78e5-4577-b566-5009f3cba642,policeofficer.lease,available,14.99,,high,low,14,name.com,,,
 fb31a05e-aa91-4003-a571-72b6a23995be,xcvi.lease,available,14.99,71.99,low,low,4,name.com,,,
@@ -383,9 +381,9 @@ d28db2e4-5aee-48e5-88bd-212c75096532,congregation.lease,available,14.99,,high,lo
 7216411e-70ed-4c1b-a94d-341c665d3ec6,algonquin.lease,available,14.99,71.99,low,low,9,name.com,,,
 e4852adc-2ca0-461e-8d5e-fd9f78d73e16,producing.lease,available,14.99,,low,low,9,name.com,,,
 9c528ca8-6acd-407f-bcd6-646289013143,communicate.lease,available,14.99,,high,low,11,name.com,,,
-fd97ffe0-0eb2-4514-b9e5-bc3d96c9b876,tenth.lease,available,14.99,71.99,high,low,5,name.com,,,
-aaffc9c3-83e9-4eb5-82cf-29ac2c397e97,behind.lease,available,14.99,,high,low,6,name.com,,,
-22d6fb65-53bd-4686-a8f0-ba93dcbc823e,absent.lease,available,14.99,71.99,high,low,6,name.com,,,
+fd97ffe0-0eb2-4514-b9e5-bc3d96c9b876,tenth.lease,available,56.99,56.99,medium,low,5,namesilo,,,21/09/2026 11:17
+aaffc9c3-83e9-4eb5-82cf-29ac2c397e97,behind.lease,available,58.98,73.98,medium,low,6,namecheap,,,22/09/2026 18:54
+22d6fb65-53bd-4686-a8f0-ba93dcbc823e,absent.lease,available,56.99,56.99,low,low,6,namesilo,,,21/09/2026 14:37
 527a9dfa-c70f-4b84-8c36-cb079e791005,gettothepoint.lease,available,14.99,,high,low,16,name.com,,,
 cd95c8bf-8170-4808-a3af-abc4f6349c2d,powerful.lease,available,14.99,,high,low,8,name.com,,,
 cf657a79-bca3-458e-874f-7e2f68d25046,intheraw.lease,available,56.99,56.99,low,low,10,namesilo,,,16/09/2026 08:01
@@ -407,12 +405,12 @@ f61af3ab-4c45-498c-b716-54c0a2a2ffea,spine.lease,available,14.99,,high,low,5,nam
 8cd1ad8d-abc1-43ac-9b43-266e0483035b,bush.lease,available,14.99,,medium,low,4,name.com,,,
 b1d2df0e-fbd1-4169-9159-5d353e19d1c9,dominance.lease,available,14.99,,medium,low,9,name.com,,,
 9d2c748f-351f-4255-87d0-5e2d2c2a73f2,irritating.lease,available,14.99,71.99,low,low,10,name.com,,,
-e1c1ba75-2680-4c79-a511-80a9acf3b2de,booted.lease,available,14.99,,medium,low,6,name.com,,,
+e1c1ba75-2680-4c79-a511-80a9acf3b2de,booted.lease,available,56.99,56.99,low,low,6,namesilo,,,22/09/2026 23:43
 413e05a5-c189-475a-a261-f3ae3f043676,marijuana.lease,available,14.99,,medium,low,9,name.com,,,
 fecf5769-aa0c-4b53-a235-6c9b1cec64e3,educated.lease,available,14.99,71.99,medium,low,8,name.com,,,
 6936c1d5-7c24-4dde-b1a2-9e19a544d89f,contact.lease,premium,118.8,118.8,high,medium,7,namesilo,,,
 5bbd49ca-7685-4c96-90e1-8e47ab4f508c,gettofirstbase.lease,available,14.99,,high,low,17,name.com,,,
-fb1bc45b-1ee4-4e23-9efc-195c5de303d6,authorised.lease,available,14.99,,high,low,10,name.com,,,
+fb1bc45b-1ee4-4e23-9efc-195c5de303d6,authorised.lease,available,56.99,56.99,medium,low,10,namesilo,,,22/09/2026 13:51
 d4e534c2-d3bd-4369-9a0c-aa437dbbf5e5,environmentally.lease,available,14.99,,medium,low,15,name.com,,,
 aa43068b-3568-42ea-9fa7-430dc14e5891,addible.lease,available,14.99,71.99,low,low,7,name.com,,,
 392d3651-afee-49ff-b585-6f6550b7ddc8,macbook.lease,available,,,high,low,7,,,,
@@ -425,37 +423,37 @@ a0aea0fb-6b5c-47b8-9fe6-c140699faa23,engine.lease,available,56.99,56.99,medium,l
 5518e76d-a574-4d93-b4b7-a7aa17f25e92,backstage.lease,available,14.99,71.99,medium,low,9,name.com,,,08/08/2026 06:18
 24e5ca7a-0c49-4d57-8f97-3d4f7f28e33f,bristled.lease,available,14.99,71.99,low,low,8,name.com,,,08/08/2026 17:13
 3ec14074-3d89-4ace-acd9-1471f01d2d68,tieup.lease,available,56.99,56.99,low,low,6,namesilo,,,17/09/2026 14:23
-8cfda87c-fdca-498b-8190-f6e4dba95be5,mean.lease,available,14.99,,medium,low,4,name.com,,,
+8cfda87c-fdca-498b-8190-f6e4dba95be5,mean.lease,available,58.98,73.98,low,low,4,namecheap,,,22/09/2026 18:47
 e40e022d-9590-49ec-a734-7e1cd5d0e629,getupearly.lease,available,14.99,,high,low,12,name.com,,,
 6dbd2550-f119-4f81-ba38-6e7fa83823a6,broaden.lease,available,14.99,,medium,low,7,name.com,,,
 490da195-990a-4d4f-97fe-2c3f40cd27ed,keepon.lease,available,14.99,,high,low,7,name.com,,,
 59d44cc9-3965-488c-87f1-24514da09683,occurring.lease,available,14.99,,high,low,9,name.com,,,
-e07c230a-5bfa-43c5-b114-f74fa8c270a3,grand.lease,available,14.99,71.99,high,low,5,name.com,,,
+e07c230a-5bfa-43c5-b114-f74fa8c270a3,grand.lease,available,56.99,56.99,low,low,5,namesilo,,,21/09/2026 11:05
 733d1167-45ee-4b9d-9027-9737c5d8c6fd,fourteenth.lease,available,14.99,71.99,low,low,10,name.com,,,
 a1677dce-cdbc-4ef1-873f-2919ba24a5b8,coverup.lease,available,14.99,,medium,low,8,name.com,,,
 17d504ac-e4d9-4f46-ac19-5db711d16af4,item.lease,available,14.99,,high,low,4,name.com,,,
 87d96f10-1dae-4b1f-b8ff-66673431d98d,prochoice.lease,available,14.99,,medium,low,10,name.com,,,
 a517835f-35e6-4e4c-9f90-9f8268a13034,speech.lease,available,14.99,,high,low,6,name.com,,,
-a6b5715c-116b-47fa-8010-08886038abac,brief.lease,available,14.99,71.99,high,low,5,name.com,,,
+a6b5715c-116b-47fa-8010-08886038abac,brief.lease,available,56.99,56.99,medium,low,5,namesilo,,,21/09/2026 13:42
 8d9bc389-461a-4583-bbde-3ebfe8b60d2d,getopen.lease,available,14.99,,high,low,8,name.com,,,
 e666d957-426f-4260-8a53-7347e16a1924,tolerable.lease,available,14.99,,medium,low,9,name.com,,,
 cdf46e6a-fb1e-47f1-a827-0d5aea81d768,crystal.lease,available,14.99,,high,low,7,name.com,,,
 21b857d9-1713-4f07-9ead-34e0629b2691,solution.lease,available,14.99,,high,low,8,name.com,,,
 a888e667-3ea7-4946-85b9-27d91b79ad51,queen.lease,available,14.99,,high,low,5,name.com,,,
-22bd1643-68a1-466e-ae43-7063c2dd8553,inspire.lease,available,14.99,,high,low,7,name.com,,,
+22bd1643-68a1-466e-ae43-7063c2dd8553,inspire.lease,available,56.99,56.99,medium,low,7,namesilo,,,22/09/2026 04:50
 5b981816-daf6-4e05-88bc-545f99790045,nightmare.lease,available,14.99,,high,low,9,name.com,,,
 08e30e1b-bc4b-4853-8f59-6a5715236229,protect.lease,available,14.99,,high,low,7,name.com,,,
 9a3e92fa-e516-481b-9ace-006e4a9988db,adjectival.lease,available,14.99,71.99,low,low,10,name.com,,,
 f47c3b77-db5d-44e0-8f96-9be5554dc458,yourhead.lease,available,14.99,,low,low,9,name.com,,,
 eee07030-791f-4ef3-8649-1e96f54c7728,parkingticket.lease,available,14.99,,medium,low,14,name.com,,,
-e5a83dda-8613-4494-b6cb-0eedaed2d34b,close.lease,available,14.99,71.99,high,low,5,name.com,,,
+e5a83dda-8613-4494-b6cb-0eedaed2d34b,close.lease,available,58.98,73.98,medium,low,5,namecheap,,,21/09/2026 23:48
 e23d1e75-7599-4718-ba13-5cc5dd938a34,report.lease,available,14.99,,high,low,6,name.com,,,
-09c96b47-587d-469a-a94d-7abc1a812ff0,trade.lease,premium,118.8,118.8,medium,low,5,namesilo,,,19/09/2026 03:40
+09c96b47-587d-469a-a94d-7abc1a812ff0,trade.lease,premium,118.8,118.8,medium,low,5,namesilo,,,23/09/2026 03:15
 a384ae94-ce6d-4ece-b44c-4877ba162730,filming.lease,available,14.99,,high,low,7,name.com,,,
 5c2ac160-ab70-4ab8-a4bf-484e2126b274,antiviral.lease,available,14.99,71.99,low,low,9,name.com,,,05/08/2026 20:06
-b15e08d1-4867-4dda-bd23-25528a26677d,any.lease,premium,123.75,,high,medium,3,name.com,,,
+b15e08d1-4867-4dda-bd23-25528a26677d,any.lease,premium,123.75,123.75,medium,low,3,name.com,,,22/09/2026 07:02
 33f0085b-977e-442f-882d-d96fff455810,oncemore.lease,available,58.98,73.98,low,low,9,namecheap,,,13/09/2026 18:09
-5f973597-1532-43a2-a2ee-92cff0b4251e,branded.lease,available,14.99,,high,low,7,name.com,,,
+5f973597-1532-43a2-a2ee-92cff0b4251e,branded.lease,available,56.99,56.99,low,low,7,namesilo,,,23/09/2026 02:22
 214decbf-8283-4b9e-90f6-d6d855854e8b,unusual.lease,available,14.99,,high,low,7,name.com,,,
 556569d0-d5f8-4dce-8d1a-b0c86c1f69d7,fivestar.lease,available,14.99,,high,low,9,name.com,,,
 161b3248-7a63-4d53-a574-ad811ec1147d,elvis.lease,available,14.99,,high,low,5,name.com,,,
@@ -481,7 +479,7 @@ f1ec3795-8317-4e7b-b1f4-bb1ee8a375ef,apodeictic.lease,available,14.99,71.99,low,
 7d1e77c5-1a75-4c7b-84b5-52140c29a7c1,flak.lease,available,14.99,71.99,low,low,4,name.com,,,
 866930aa-5002-454c-9c18-67630b4543bd,fatal.lease,available,14.99,,high,low,5,name.com,,,
 3f77013a-31ba-4630-ba6f-b8ad5bbb86ad,gang.lease,available,14.99,,high,low,4,name.com,,,
-61767696-fc0b-41ad-a1f7-8150785d32ab,american.lease,premium,118.8,118.8,high,low,8,namesilo,,,
+61767696-fc0b-41ad-a1f7-8150785d32ab,american.lease,premium,128.7,128.7,medium,low,8,namecheap,,,22/09/2026 04:09
 375e171d-660f-4a56-bd92-96113630a633,asat.lease,available,14.99,71.99,low,low,4,name.com,,,05/08/2026 19:31
 d855d61e-a5f0-4a33-94e4-6804a38ba6bc,youwhat.lease,available,14.99,,low,low,8,name.com,,,
 6d9dc813-9371-474a-a63f-1554c8ffadfc,useful.lease,available,14.99,,high,low,6,name.com,,,
@@ -489,11 +487,11 @@ d855d61e-a5f0-4a33-94e4-6804a38ba6bc,youwhat.lease,available,14.99,,low,low,8,na
 cbb2b4df-4d6a-4ca3-b438-964623a75c0b,albinal.lease,available,14.99,71.99,low,low,7,name.com,,,
 247c204a-6c13-4312-b106-81cb92162b0d,uncle.lease,available,14.99,,high,low,5,name.com,,,
 a26d95ed-05d6-410f-9b97-30fd85df98d3,oval.lease,available,14.99,71.99,medium,low,4,name.com,,,
-f3d5834c-97de-4218-aeac-4b7c6f261ef1,available.lease,premium,118.8,118.8,high,low,9,namesilo,,,
+f3d5834c-97de-4218-aeac-4b7c6f261ef1,available.lease,premium,128.7,128.7,medium,low,9,namecheap,,,22/09/2026 14:22
 795c6b88-2b71-46f5-9b63-3a7c1994f2e7,spacious.lease,available,14.99,,medium,low,8,name.com,,,
 a010bb1f-c299-4cdd-b61e-1c271701d267,askant.lease,available,14.99,71.99,low,low,6,name.com,,,07/08/2026 03:05
 bedad80a-9061-4610-9c6e-e37cd3834442,hipaa.lease,available,14.99,,medium,low,5,name.com,,,
-1ca79975-9121-4c61-8dc6-f75add77eb81,aboveboard.lease,available,14.99,71.99,low,low,10,name.com,,,
+1ca79975-9121-4c61-8dc6-f75add77eb81,aboveboard.lease,available,14.99,71.99,medium,low,10,name.com,,,
 67f0d9d0-fb47-4022-a4c6-d9fb451745f0,instantmessage.lease,available,14.99,,high,low,15,name.com,,,
 8361b775-57d4-4e9c-a968-2cc2c86ac708,giddy.lease,available,14.99,71.99,low,low,5,name.com,,,
 132e8fab-a00e-48f0-a84d-bbdfb110c786,leadership.lease,available,14.99,,high,low,10,name.com,,,
@@ -502,14 +500,14 @@ aa0f0633-f4b6-4542-a9fa-2807a64c24de,subscribe.lease,available,14.99,,high,low,9
 b55cea94-daf0-46e1-a388-39291634cfa2,perpetual.lease,available,14.99,71.99,medium,low,9,name.com,,,
 3b677682-c254-4929-b7e4-e86770f1876a,bedless.lease,available,14.99,71.99,low,low,7,name.com,,,09/08/2026 07:23
 0581c04a-93be-41ab-afb6-ec0c74341b37,bce.lease,available,14.99,,medium,low,3,name.com,,,
-dae666a9-abf7-4e76-a702-6bd925f92f87,biological.lease,available,14.99,,high,low,10,name.com,,,
+dae666a9-abf7-4e76-a702-6bd925f92f87,biological.lease,available,14.99,71.99,medium,low,10,name.com,,,22/09/2026 20:55
 badcc221-b4a2-4f02-a9c9-88cb1a1ee018,work.lease,available,14.99,,high,medium,4,name.com,,,
-4d2fb9fa-032a-4fd8-9d4e-5c4d005233ff,wacky.lease,available,14.99,,high,low,5,name.com,,,
+4d2fb9fa-032a-4fd8-9d4e-5c4d005233ff,wacky.lease,available,56.99,56.99,low,low,5,namesilo,,,22/09/2026 08:23
 0d7c6527-944e-47b7-9b8b-22d1eb4e9afd,steam.lease,available,14.99,,medium,medium,5,name.com,,,
 7619f83d-37b9-4527-a3ad-66c519594866,achenial.lease,available,14.99,71.99,low,low,8,name.com,,,
 06c41211-6dc0-488f-9e9f-37654ce9236a,balky.lease,available,14.99,71.99,low,low,5,name.com,,,08/08/2026 09:55
 ca2bb744-1b0c-4e3e-afbc-c4dde6de860d,disney.lease,available,,,high,low,6,,,,
-cb73ddc3-7bb5-4ff2-b91a-3c6348aa1cbb,amalgamate.lease,available,14.99,71.99,high,low,10,name.com,,,
+cb73ddc3-7bb5-4ff2-b91a-3c6348aa1cbb,amalgamate.lease,available,56.99,56.99,low,low,10,namesilo,,,22/09/2026 03:01
 e7b6d887-6da1-478e-8557-f5e59fd7288a,consummate.lease,available,14.99,71.99,high,low,10,name.com,,,
 cfdec0b1-c970-403b-9ae8-71416c264076,apogametic.lease,available,56.99,56.99,low,low,10,namesilo,,,08/09/2026 09:07
 450f54eb-e2ca-4a19-b1d3-14be87615bb4,ticket.lease,available,14.99,,high,low,6,name.com,,,
@@ -550,12 +548,12 @@ c9bce8fc-2c1c-4ab0-a8cc-890266810256,eolotropic.lease,available,14.99,71.99,low,
 25780f7c-ac02-4994-b61e-ede58e80ceba,sue.lease,available,14.99,,high,low,3,name.com,,,
 0c8b2d93-beb3-4158-8416-f28b9a505fd8,implied.lease,available,14.99,,high,low,7,name.com,,,
 d731a6ae-7096-4cd6-a163-f38cbc1c2cdd,stripling.lease,available,14.99,71.99,low,low,9,name.com,,,
-0564eaa8-d805-403b-9b04-8a5751db71ae,adaptative.lease,available,14.99,71.99,high,low,10,name.com,,,
+0564eaa8-d805-403b-9b04-8a5751db71ae,adaptative.lease,available,56.99,56.99,medium,low,10,namesilo,,,21/09/2026 16:59
 fb3ea8eb-3a2b-4a74-9ae7-9200ce7dc529,hellothere.lease,available,14.99,,high,low,11,name.com,,,
 c0357ef7-d517-492a-8a16-942de76cb7f5,pitfall.lease,available,14.99,,medium,low,7,name.com,,,
 2c2417ec-4d66-4cbc-9871-9769e944c445,greatgranddaughter.lease,available,14.99,,high,low,19,name.com,,,
 dcc6fcc7-ed39-4acd-b281-8a3105d46dd3,monstrous.lease,available,14.99,71.99,low,low,9,name.com,,,07/08/2026 14:47
-b65124d6-faae-4c6c-8be4-48d1b806edf2,adaptable.lease,available,14.99,71.99,high,low,9,name.com,,,
+b65124d6-faae-4c6c-8be4-48d1b806edf2,adaptable.lease,available,58.98,73.98,medium,low,9,namecheap,,,21/09/2026 16:52
 937c4137-a714-4731-a1e7-38204d32d990,pat.lease,available,14.99,,high,low,3,name.com,,,
 0fd6e6ed-5d16-4740-a27b-813ddec472d7,rearward.lease,available,14.99,71.99,low,low,8,name.com,,,08/08/2026 06:51
 d5e379c5-c7f5-40fb-a8de-1cf5b02ad729,giveback.lease,available,14.99,,high,low,9,name.com,,,
@@ -564,7 +562,7 @@ f6a1a9bf-8b36-4e11-9a43-592da8c26ccf,cent.lease,available,14.99,71.99,medium,low
 e31a241f-6e4c-42aa-9b6d-869ae2e7c9bd,allopatric.lease,available,14.99,71.99,low,low,10,name.com,,,
 e48f5ca7-60d8-438a-8aec-f8ef5d035c2a,oxfam.lease,available,14.99,,high,low,5,name.com,,,
 384e6991-e8c8-4858-b951-b4904ff49e7e,apetalous.lease,available,14.99,71.99,low,low,9,name.com,,,05/08/2026 22:35
-e1320e72-5d99-4ab2-8d63-de8284c56c2f,break.lease,premium,854,854,high,low,5,namesilo,,,
+e1320e72-5d99-4ab2-8d63-de8284c56c2f,break.lease,premium,854,854,low,low,5,namesilo,,,22/09/2026 17:01
 916702a6-0b99-4b49-aa91-07bce3e924e3,underestimate.lease,available,14.99,,high,low,13,name.com,,,
 aae24f2d-01ea-440e-a79f-4c1dfedde89e,midseptember.lease,available,14.99,,high,low,13,name.com,,,
 bd0d3dfc-f218-4646-afb3-f1402fe0ae40,developing.lease,available,14.99,71.99,high,low,10,name.com,,,
@@ -572,7 +570,7 @@ bd0d3dfc-f218-4646-afb3-f1402fe0ae40,developing.lease,available,14.99,71.99,high
 72ffcac8-e641-4cc8-b085-5b6d94d7dbc7,capitalise.lease,available,14.99,,high,low,10,name.com,,,
 8865a551-48a0-4730-9474-e16bb9c28a88,potentiality.lease,available,14.99,,low,low,12,name.com,,,
 a1046b71-a8e6-4865-976b-f466a1769284,division.lease,available,14.99,,medium,low,8,name.com,,,
-b7861268-260f-4a8b-8ef0-4055f05f9ee4,weather.lease,available,14.99,,high,medium,7,name.com,,,
+b7861268-260f-4a8b-8ef0-4055f05f9ee4,weather.lease,available,58.98,73.98,medium,low,7,namecheap,,,23/09/2026 02:29
 a4e6f757-8ca3-4140-a323-154da93a4995,xxx.lease,premium,500,500,low,medium,3,name.com,,,
 f90de512-a17c-499a-bf78-d63e6d53a387,rockbottom.lease,available,14.99,,high,low,11,name.com,,,
 12f8d569-502d-413c-9e52-51a65a6cf707,apodictic.lease,available,14.99,71.99,low,low,9,name.com,,,06/08/2026 01:27
@@ -616,9 +614,9 @@ b6330657-156d-46f2-acbd-c6c1333e8f68,pleaseexplain.lease,available,14.99,,high,l
 dac573a0-9d51-48a5-bef0-59d95bbe1134,mist.lease,available,14.99,,medium,low,4,name.com,,,
 7c481238-5c4d-40d0-872d-5bfd21d9d408,pontifical.lease,available,14.99,71.99,low,low,10,name.com,,,06/08/2026 04:15
 38078860-4e01-4feb-8e6b-13964f47581d,phantasmal.lease,available,14.99,71.99,low,low,10,name.com,,,06/08/2026 05:33
-2a0e9d3c-d19f-49e6-8098-073e9f4e2206,skillful.lease,available,14.99,71.99,high,low,8,name.com,,,
+2a0e9d3c-d19f-49e6-8098-073e9f4e2206,skillful.lease,available,56.99,56.99,medium,low,8,namesilo,,,21/09/2026 17:27
 a8c421e1-97fe-48a9-b6e0-dfa73873e8c7,garage.lease,available,14.99,,high,low,6,name.com,,,
-12fcfb77-0dc0-4d3c-9bd8-c18ee38a954a,closeto.lease,available,14.99,71.99,medium,low,8,name.com,,,
+12fcfb77-0dc0-4d3c-9bd8-c18ee38a954a,closeto.lease,available,56.99,56.99,low,low,8,namesilo,,,21/09/2026 14:09
 b7a4cd5b-d5b8-4c25-ae62-b0296485528a,butterfly.lease,available,14.99,,high,low,9,name.com,,,
 87c3f420-9e35-4a6a-aa64-16d0b6dfb0f3,logo.lease,available,14.99,,medium,low,4,name.com,,,
 e6794b57-5cbb-4e14-b187-7e0cce7b3cdf,coral.lease,available,14.99,71.99,medium,low,5,name.com,,,
@@ -681,7 +679,6 @@ aaa99727-b836-4d3e-9773-6fc8894a5bff,vexing.lease,available,14.99,71.99,low,low,
 66cc40e2-98eb-462d-b04e-605d7adceb87,apivorous.lease,available,14.99,71.99,low,low,9,name.com,,,06/08/2026 00:18
 8e3e6cb3-6e0a-4ddb-a6c5-19fa9cb30ebd,dna.lease,available,14.99,,high,medium,3,name.com,,,
 899f203f-9952-4f9a-86e6-c1e164278a4b,forced.lease,available,14.99,71.99,medium,low,6,name.com,,,
-31c3d779-751e-4f7e-b2b6-e63bf5aa6a42,mail.lease,available,56.99,56.99,medium,low,4,namesilo,,,19/09/2026 05:07
 34948976-e666-4bed-88d9-61abe720043f,into.lease,available,14.99,,medium,low,4,name.com,,,
 e52ae640-9451-4909-a701-12a39cee6f45,getworkdone.lease,available,14.99,,high,low,13,name.com,,,
 be596e1e-3744-4dc5-aab0-9504643facb9,cookie.lease,available,14.99,,high,low,6,name.com,,,
@@ -713,7 +710,7 @@ e279ca6f-3bac-4faf-81f7-cab80e0c20f7,pretend.lease,available,14.99,,high,low,7,n
 add5278b-267d-43dc-93db-5b5d1b432f33,speaker.lease,available,14.99,,high,low,7,name.com,,,
 32176454-8f02-41ca-b9ad-7e45bac2f5bf,kleenex.lease,available,14.99,,high,low,7,name.com,,,
 8db8f9df-7d08-4289-9bf9-45e6c74cc5ef,strip.lease,available,14.99,71.99,high,low,5,name.com,,,
-f70e89c1-cf44-4866-9310-6e431d501966,articulate.lease,available,14.99,,high,low,10,name.com,,,
+f70e89c1-cf44-4866-9310-6e431d501966,articulate.lease,available,56.99,56.99,medium,low,10,namesilo,,,22/09/2026 08:42
 97c190aa-0795-41be-8dc4-b66e0c9bdff5,namedafter.lease,available,14.99,,low,low,11,name.com,,,
 3b69f65b-a5a6-4649-8430-acb65bc3073d,stockexchange.lease,available,14.99,,high,low,14,name.com,,,
 591c2b47-76cb-418f-96f5-26d264f6d52c,somewhat.lease,available,14.99,,high,low,8,name.com,,,
@@ -742,11 +739,11 @@ e3e5d71c-ebd4-48fa-a116-0164bb30c518,shooting.lease,premium,78.54,78.54,medium,l
 35d761ca-3a20-4e4d-b60c-0a3d1cfeced9,minutes.lease,available,14.99,,high,low,7,name.com,,,
 55eee755-b650-4e48-abe9-2da601f247b1,preference.lease,available,14.99,,high,low,10,name.com,,,
 1bb3e259-9d27-48d6-984a-09dd2ed5bbab,pour.lease,available,14.99,,high,low,4,name.com,,,
-27d8476e-28e7-492a-8c76-62fe9df8033c,glad.lease,available,14.99,,high,low,4,name.com,,,
+27d8476e-28e7-492a-8c76-62fe9df8033c,glad.lease,available,58.98,73.98,medium,low,4,namecheap,,,22/09/2026 18:28
 303b7b1b-13ce-40db-bd47-f712c05b3d22,union.lease,available,14.99,,high,low,5,name.com,,,
 08f3bdb0-c369-478c-9672-883224b8173d,byhand.lease,available,14.99,,medium,low,7,name.com,,,
 60e1cd0f-2fde-4a4f-bbc8-e896286f0310,grilled.lease,available,14.99,71.99,low,low,7,name.com,,,08/08/2026 16:31
-e4f10a31-251e-4dd2-9064-6c7f9522076f,backbone.lease,available,14.99,,medium,low,9,name.com,,,
+e4f10a31-251e-4dd2-9064-6c7f9522076f,backbone.lease,available,56.99,56.99,medium,low,9,namesilo,,,21/09/2026 15:14
 0b2247bf-d02c-448d-8e6f-2d92b3d7051f,maternal.lease,available,14.99,,high,low,8,name.com,,,
 e99a9f79-2395-4847-b9a4-b9454796e680,breakinto.lease,available,14.99,,medium,low,10,name.com,,,
 0b40d624-3883-4b32-a6dc-9565e55171d7,oddnumbered.lease,available,14.99,,low,low,12,name.com,,,
@@ -787,16 +784,16 @@ fd947dca-9911-423f-a98d-ecbeb7d5d04e,library.lease,premium,118.8,118.8,medium,lo
 9b88d6e1-78a6-46ad-bf76-f2f5d633d7ae,facet.lease,available,14.99,,high,low,5,name.com,,,
 45dd81ad-2f6c-4fac-9602-0710abb74af1,particular.lease,available,14.99,,high,low,10,name.com,,,
 b1471e56-507b-40ea-820e-c1cc3abc668d,feminine.lease,available,14.99,,high,low,8,name.com,,,
-e339679a-a633-499b-b11c-7798e872983d,acid.lease,available,14.99,71.99,low,low,4,name.com,,,
+e339679a-a633-499b-b11c-7798e872983d,acid.lease,available,14.99,71.99,medium,low,4,name.com,,,
 a62ab5f3-37cc-45da-84ac-0c755bc2f4a7,shoes.lease,available,14.99,,high,low,5,name.com,,,
 da703008-6cb6-4b45-b758-b82d2e79b5b2,anymore.lease,available,14.99,,medium,low,7,name.com,,,
 5905a722-954b-4310-a3c4-d50a4903fc87,bbc.lease,available,,,high,low,3,,,,
 279df60c-d231-492e-9e36-0fe2dd0e3492,pepsicola.lease,available,14.99,,high,low,10,name.com,,,
-c1684d4e-b284-46f3-a5de-a18b420a3acc,ten.lease,available,14.99,71.99,high,low,3,name.com,,,
+c1684d4e-b284-46f3-a5de-a18b420a3acc,ten.lease,available,56.99,56.99,medium,low,3,namesilo,,,21/09/2026 10:51
 bdd82fda-478d-477c-9480-64800afce96b,bedandbreakfast.lease,available,14.99,,high,low,17,name.com,,,
 b228fb62-1873-483c-b4d7-a5b1ba46713c,lush.lease,available,,,medium,low,4,,,,
 ab8b207e-ee0b-42e4-9b93-c1118609db4d,disrespect.lease,available,14.99,,high,low,10,name.com,,,
-dc4cb29a-3c12-4fff-8d94-b413b52b8682,blurred.lease,available,14.99,,medium,low,7,name.com,,,
+dc4cb29a-3c12-4fff-8d94-b413b52b8682,blurred.lease,available,56.99,56.99,low,low,7,namesilo,,,22/09/2026 23:21
 3758f381-d4db-40e8-b2d9-14e08238ffc4,erase.lease,available,14.99,,high,low,5,name.com,,,
 0857aa31-2271-4c77-874c-d4c5ad6b92ba,screenshot.lease,available,14.99,,high,low,10,name.com,,,
 0e5546ab-26ba-4909-bc97-d16a174f5ef6,cheeses.lease,available,14.99,,high,low,7,name.com,,,
@@ -809,10 +806,10 @@ cda719f0-c56b-4add-9ca1-f8214430e9bb,remotecontrol.lease,available,14.99,,medium
 7cb43160-e2e7-4c20-9f57-3413d157b040,oneortwo.lease,available,14.99,,low,low,10,name.com,,,
 efbd8fa6-bf6a-42bb-b29c-a81c54de40ee,men.lease,premium,82.5,,high,low,3,name.com,,,
 279ca026-72a8-448e-b11e-5f952fe8b439,promising.lease,available,14.99,,high,low,9,name.com,,,
-64b8cfa1-b7a4-4ad8-93bc-5a944e63c31f,accustomed.lease,available,14.99,71.99,high,low,10,name.com,,,
-6377b0fd-abe1-4590-80c0-8de54fa17d9a,battered.lease,available,14.99,,medium,low,8,name.com,,,
+64b8cfa1-b7a4-4ad8-93bc-5a944e63c31f,accustomed.lease,available,56.99,56.99,medium,low,10,namesilo,,,21/09/2026 16:02
+6377b0fd-abe1-4590-80c0-8de54fa17d9a,battered.lease,available,58.98,73.98,low,low,8,namecheap,,,22/09/2026 18:12
 31eb5f0b-21c5-4d79-ae13-634b392df95a,mothafukka.lease,available,14.99,,medium,low,10,name.com,,,
-cc009bba-3007-4630-b146-51b1899c7710,autonomous.lease,available,14.99,,high,medium,10,name.com,,,
+cc009bba-3007-4630-b146-51b1899c7710,autonomous.lease,available,56.99,56.99,medium,low,10,namesilo,,,22/09/2026 14:12
 7172cfc4-d779-40fc-8ca5-977ff26f9adb,ateleiotic.lease,available,14.99,71.99,low,low,10,name.com,,,07/08/2026 12:59
 7515bdda-9bd0-454f-8b91-4d23d50441a0,earlyadopter.lease,available,14.99,,high,low,13,name.com,,,
 ae3145ac-6afc-4475-8a92-897c33b68922,jewbaiter.lease,available,14.99,71.99,low,low,10,name.com,,,
@@ -825,7 +822,7 @@ a6e7bff7-5124-43f3-8d9d-e05d279270d7,athletics.lease,available,,,medium,low,9,,,
 6ce904bc-411f-4b6b-84f4-cea9881120d8,bellyshirt.lease,available,14.99,,high,low,11,name.com,,,
 7aac7d6c-21bf-4c99-8d07-b8bdb75f7669,continuing.lease,available,14.99,71.99,high,low,10,name.com,,,
 6440331b-108e-420a-b35e-bf4940bc526c,speed.lease,available,14.99,,high,low,5,name.com,,,
-7b6cd650-4bc4-49a1-a37f-2c04e921074d,bestloved.lease,available,14.99,,high,low,10,name.com,,,
+7b6cd650-4bc4-49a1-a37f-2c04e921074d,bestloved.lease,available,58.98,73.98,medium,low,10,namecheap,,,22/09/2026 20:06
 d794b4b7-03ca-47f3-88d8-1b273ad1cd43,appoint.lease,available,14.99,,high,low,7,name.com,,,
 33a8727f-e6ad-4736-beb4-3d6260aec5eb,question.lease,available,14.99,,high,low,8,name.com,,,
 01eb24c8-0a95-4e08-9f5f-1c09705eeb0b,pertinent.lease,available,14.99,71.99,low,low,9,name.com,,,06/08/2026 07:59
@@ -854,7 +851,7 @@ c4e780e0-934f-400d-baf3-beee5c44ded2,organised.lease,available,14.99,,high,low,9
 a10cf12c-2f92-44f4-ad89-fb445a520d7d,antigenic.lease,available,14.99,71.99,low,low,9,name.com,,,
 28f26fa0-a6dd-4591-a5ee-312ab9c3125f,aegean.lease,available,14.99,71.99,low,low,6,name.com,,,
 482aef6f-8a6f-4e9e-83d7-484d5e4fdf0a,bestwishes.lease,available,14.99,,high,low,11,name.com,,,
-d933bcc0-bbff-4f1b-b47d-ac28e82ab049,faded.lease,available,14.99,,medium,low,5,name.com,,,
+d933bcc0-bbff-4f1b-b47d-ac28e82ab049,faded.lease,available,56.99,56.99,low,low,5,namesilo,,,22/09/2026 11:25
 0905b2a4-3cfb-4ff0-a50e-44fe5a76978a,recordcompany.lease,available,14.99,,high,low,14,name.com,,,
 0c981b52-e04c-408e-85b8-5bde2187643d,anesthesia.lease,available,14.99,,high,low,10,name.com,,,
 3152440d-6a07-4f36-bfca-082ce88585f5,sweat.lease,available,14.99,,medium,low,5,name.com,,,
@@ -867,7 +864,7 @@ d2dcd169-ea46-49ba-886d-d6c4e9a01965,certain.lease,available,14.99,,high,low,7,n
 70a8dd38-cf3b-473e-9be2-7e4464fe830c,artmusic.lease,available,14.99,,high,low,9,name.com,,,
 07374c60-db37-44e0-bcbb-6b7df1a50142,astringent.lease,available,14.99,71.99,low,low,10,name.com,,,
 01c03a5e-9773-481b-94e7-dfc42ab89504,thehardway.lease,available,14.99,,low,low,12,name.com,,,
-d08cec67-7c31-4c20-a018-c64af66cf431,second.lease,available,14.99,71.99,high,low,6,name.com,,,
+d08cec67-7c31-4c20-a018-c64af66cf431,second.lease,available,56.99,56.99,medium,low,6,namesilo,,,21/09/2026 12:59
 b24d6a39-2659-4ef4-9820-0b3b4a36dc05,aquatic.lease,available,14.99,71.99,low,low,7,name.com,,,06/08/2026 10:45
 e6abe593-33b4-4341-bbec-3e7f598edfaa,relapse.lease,available,14.99,,high,low,7,name.com,,,
 104488cb-956d-4528-9d13-01ba69bd6d0d,destroyed.lease,available,14.99,71.99,medium,low,9,name.com,,,
@@ -909,7 +906,7 @@ f31e45b8-050b-4bfa-8e5d-95d52592711a,hat.lease,available,56.99,56.99,low,low,3,n
 672f5f52-9a26-4c0b-921d-22479c4f9e54,aplanatic.lease,available,14.99,71.99,low,low,9,name.com,,,06/08/2026 00:29
 8b9d7b79-01cd-4c94-8a97-942c18f052ed,half.lease,available,14.99,,high,low,4,name.com,,,
 3e9a11a3-1508-49b9-96f0-9f3b28813085,through.lease,available,14.99,71.99,high,low,7,name.com,,,
-78d5c38c-d942-4a3e-bf69-690daf7f1e80,beatup.lease,available,14.99,,medium,low,7,name.com,,,
+78d5c38c-d942-4a3e-bf69-690daf7f1e80,beatup.lease,available,58.98,73.98,low,low,7,namecheap,,,22/09/2026 18:16
 d544cd4e-accb-4bcd-9ae0-0e9d9032b7ba,acapnic.lease,available,14.99,71.99,low,low,7,name.com,,,
 6e1d87ea-f498-442d-a6f9-346daf2c3277,sevenup.lease,available,14.99,,high,low,8,name.com,,,
 d5b2a817-7b43-4e9a-8ab5-0ea15c799506,blackmailing.lease,available,14.99,,medium,low,12,name.com,,,
@@ -920,15 +917,15 @@ e5e03fdd-1db5-4256-a73f-1b18314bd6f8,contrast.lease,available,14.99,,high,low,8,
 60efde5f-6d19-4f5a-8fdc-27d114d2b466,bowleg.lease,available,14.99,71.99,low,low,6,name.com,,,08/08/2026 11:50
 c4b41735-5b38-4a81-a2f0-40b142badbe1,countryoforigin.lease,available,14.99,,medium,low,17,name.com,,,
 38c64ff7-f147-4a2d-a41b-a5f9554ed004,weight.lease,available,58.98,73.98,low,low,6,namecheap,,,19/09/2026 19:07
-6389ae00-ed17-48a0-ae59-a8e2c84f4a48,hundred.lease,available,14.99,71.99,high,low,7,name.com,,,
-7382c1bc-055f-4aba-8989-fd297948d6a5,dauntless.lease,available,14.99,,medium,low,9,name.com,,,
+6389ae00-ed17-48a0-ae59-a8e2c84f4a48,hundred.lease,available,56.99,56.99,medium,low,7,namesilo,,,21/09/2026 11:00
+7382c1bc-055f-4aba-8989-fd297948d6a5,dauntless.lease,available,56.99,56.99,low,low,9,namesilo,,,22/09/2026 12:12
 676df84d-a501-4049-86e7-beb2f2281edd,supermarket.lease,available,14.99,,high,low,11,name.com,,,
 743a3b2a-136e-4ae9-8615-913e35b28091,nearest.lease,available,14.99,,medium,low,7,name.com,,,
 e9e0f8c2-40d7-4fa7-ade0-8807e1ead351,cleverly.lease,available,14.99,,medium,low,8,name.com,,,
 90f45d88-5df9-467e-9a02-abce2d617190,stockupon.lease,available,14.99,,low,low,11,name.com,,,
 fd7be21b-56a7-40cc-8382-b26f820cca3c,brushing.lease,available,14.99,,high,low,8,name.com,,,
 6e6d1544-4cbf-4002-8c1d-dc0cc8968aae,unhandy.lease,available,14.99,,low,low,7,name.com,,,
-29560d83-f861-4f9b-a7c3-bacf12fda53d,overnight.lease,available,14.99,71.99,high,low,9,name.com,,,
+29560d83-f861-4f9b-a7c3-bacf12fda53d,overnight.lease,available,56.99,56.99,medium,low,9,namesilo,,,22/09/2026 00:44
 02c08040-424e-4ff2-be5c-eb64bf5288bd,silverish.lease,available,14.99,71.99,low,low,9,name.com,,,06/08/2026 18:01
 282c1c2c-e60b-4c9e-8595-19bffb7a2375,astrocytic.lease,available,14.99,71.99,low,low,10,name.com,,,07/08/2026 10:06
 fc3835cd-4169-4b8d-93cc-e253a93d9a77,hotsauce.lease,available,14.99,,high,low,9,name.com,,,
@@ -961,12 +958,12 @@ ef3c685d-661b-4857-81ef-24b72816c5de,convinced.lease,available,14.99,,medium,low
 9cc908a5-f688-4b1b-9cb2-ac1f9a836d77,bro.lease,available,14.99,,medium,low,3,name.com,,,
 055052cb-4471-4342-ac3d-f9e03be3bc17,furtive.lease,available,14.99,71.99,low,low,7,name.com,,,08/08/2026 06:32
 4ba4d2a7-b159-4e04-a90a-569492f8da7d,ambulacral.lease,available,14.99,71.99,low,low,10,name.com,,,
-76fab211-3730-4841-9867-12acfc087c3b,broadcast.lease,available,56.99,56.99,medium,low,9,namesilo,,,19/09/2026 05:03
+76fab211-3730-4841-9867-12acfc087c3b,broadcast.lease,available,58.98,73.98,medium,low,9,namecheap,,,23/09/2026 04:24
 84ce1aac-890c-4897-8ea7-4439938d5861,creation.lease,available,14.99,,high,low,8,name.com,,,
-a9dc5685-b6d7-4f69-a74b-289102f7694f,abouttime.lease,available,14.99,,medium,low,10,name.com,,,
+a9dc5685-b6d7-4f69-a74b-289102f7694f,abouttime.lease,available,14.99,,low,low,10,name.com,,,
 25fa49d6-03c2-4adf-b70c-606629269db3,aufait.lease,available,14.99,71.99,low,low,7,name.com,,,
 4b310eba-09ac-4b29-8d6c-c4bb65afe41e,volatile.lease,available,14.99,,high,low,8,name.com,,,
-d9286322-d101-4173-929e-19ee666276ac,announced.lease,available,14.99,,medium,low,9,name.com,,,
+d9286322-d101-4173-929e-19ee666276ac,announced.lease,available,58.98,73.98,low,low,9,namecheap,,,22/09/2026 05:10
 1a21d004-d207-45a9-a638-6f3887846006,rich.lease,premium,128.7,128.7,medium,low,4,namecheap,,,19/09/2026 18:40
 c74b481e-0a81-4eb1-b084-5ca1683fc50e,supporting.lease,available,14.99,,high,low,10,name.com,,,
 15c89b40-5a4f-48cc-b85e-7a97d85cd8a9,adulterous.lease,available,14.99,71.99,low,low,10,name.com,,,
@@ -975,12 +972,12 @@ d7e95c16-45cf-464c-a47e-2205777e47a1,north.lease,premium,118.8,118.8,high,low,5,
 d6ac684b-f6bd-4995-ae2a-4c121c5aef1f,behindhand.lease,available,14.99,71.99,low,low,10,name.com,,,09/08/2026 12:12
 36ade3f2-20e9-4789-8795-f8acdee89778,climbable.lease,available,14.99,71.99,low,low,9,name.com,,,07/08/2026 00:10
 0286b800-08c9-494c-8e92-49aae02f7e87,breakoutroom.lease,available,14.99,,medium,low,13,name.com,,,
-045be178-0fd9-4538-9d9a-6e66c6547452,australian.lease,available,14.99,,high,low,10,name.com,,,
+045be178-0fd9-4538-9d9a-6e66c6547452,australian.lease,available,58.98,73.98,low,low,10,namecheap,,,22/09/2026 13:30
 5751d5b7-3991-43e0-802d-9e9377c5ba73,netherlands.lease,available,,,medium,low,11,,,,
 87d354ef-50fa-479d-854f-aeb19553cfad,reunion.lease,available,14.99,,high,medium,7,name.com,,,
 a8dc14c0-0ec6-4760-9b26-2dbf8affbeca,justification.lease,available,14.99,,medium,low,13,name.com,,,
-ec5b5452-b7db-4652-9f3d-ad07c2532787,adult.lease,premium,123.75,123.75,high,low,5,name.com,,,
-6a4d09d1-5aba-426c-bd11-5209c66745f8,altruistic.lease,available,14.99,71.99,high,low,10,name.com,,,
+ec5b5452-b7db-4652-9f3d-ad07c2532787,adult.lease,premium,128.7,128.7,medium,low,5,namecheap,,,21/09/2026 19:57
+6a4d09d1-5aba-426c-bd11-5209c66745f8,altruistic.lease,available,56.99,56.99,medium,low,10,namesilo,,,22/09/2026 02:48
 0127d029-b8d8-4796-aeab-bb122178f1cd,family.lease,premium,500,,high,medium,6,name.com,,,
 c58c8c94-2193-494e-a780-7375a47ed77d,ala.lease,available,14.99,,high,low,3,name.com,,,
 dcb84a5c-d6fd-4797-ba5e-ee5217b981db,alexander.lease,available,14.99,,medium,low,9,name.com,,,
@@ -999,3 +996,6 @@ db0246ab-c7fc-4ed7-b2f3-4dea0508d081,save.lease,premium,118.8,118.8,high,low,4,n
 3f6abe41-4470-454f-a647-71daab2d5de7,cutrate.lease,available,14.99,71.99,low,low,8,name.com,,,08/08/2026 19:20
 aaf47d00-cdb7-4948-b659-70ddb8145c3d,sexual.lease,available,14.99,,high,low,6,name.com,,,
 bcd361b7-6537-4296-9e48-8270098237a8,ask.lease,available,14.99,,high,medium,3,name.com,,,
+356ac39e-95a6-49a5-9a59-7e8771ff130b,curtain.lease,available,14.99,,high,low,7,name.com,,,
+70a0e9cc-90e6-4539-a286-01ebadefadf1,stood.lease,available,14.99,,low,low,5,name.com,,,
+94078227-449c-4fb6-a217-f1bc4fd36965,purposes.lease,available,14.99,,low,low,8,name.com,,,
