@@ -1,10 +1,10 @@
-# Available .LEASE One-Word Domains (31,969)
+# Available .LEASE One-Word Domains (32,946)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C969%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C946%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .lease one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,969 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,946 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,969 domains · **Median ask:** $36.98 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 32,946 domains · **Median ask:** $37.93 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/lease`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| half.lease       | available | $14.99    | —             | high           | low    | 4      | name.com    |
-| ala.lease        | available | $14.99    | —             | high           | low    | 3      | name.com    |
-| air.lease        | resell    | $85.80    | $85.80        | medium         | low    | 3      | namecheap   |
-| aid.lease        | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo    |
-| ask.lease        | available | $14.99    | —             | high           | medium | 3      | name.com    |
-| commercial.lease | resell    | —         | —             | medium         | low    | 10     | Dynadot Inc |
-| and.lease        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo    |
-| aug.lease        | available | $14.99    | $71.99        | low            | low    | 3      | name.com    |
-| any.lease        | premium   | $123.75   | $123.75       | medium         | low    | 3      | name.com    |
-| axe.lease        | available | $14.99    | —             | medium         | low    | 3      | name.com    |
-| apt.lease        | premium   | $242      | $242          | low            | low    | 3      | namesilo    |
-| bce.lease        | available | $14.99    | —             | medium         | low    | 3      | name.com    |
-| big.lease        | premium   | $128.70   | $128.70       | medium         | low    | 3      | namecheap   |
-| bro.lease        | available | $14.99    | —             | medium         | low    | 3      | name.com    |
-| buy.lease        | premium   | $242      | $242          | medium         | low    | 3      | namesilo    |
-| bud.lease        | available | $14.99    | —             | high           | low    | 3      | name.com    |
-| fan.lease        | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo    |
-| cry.lease        | available | $14.99    | —             | high           | low    | 3      | name.com    |
-| fit.lease        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo    |
-| dji.lease        | available | $14.99    | —             | high           | low    | 3      | name.com    |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| ala.lease   | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| nest.lease  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
+| aid.lease   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| ann.lease   | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| chain.lease | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 16 |
+| and.lease   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
+| ash.lease   | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| bug.lease   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| ask.lease   | available | $14.99    | —             | high           | medium | 3      | name.com          |
+| job.lease   | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
+| aug.lease   | available | $14.99    | $71.99        | high           | low    | 3      | name.com          |
+| lol.lease   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| axe.lease   | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| men.lease   | premium   | $82.50    | —             | high           | low    | 3      | name.com          |
+| bce.lease   | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| rip.lease   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| bro.lease   | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| sun.lease   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo          |
+| bud.lease   | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| toy.lease   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,969 live domains                        |
+| 1,000-row public sample | 32,946 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LEASE One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LEASE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
