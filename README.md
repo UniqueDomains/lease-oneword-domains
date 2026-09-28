@@ -1,10 +1,10 @@
-# Available .LEASE One-Word Domains (24,284)
+# Available .LEASE One-Word Domains (24,872)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C284%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C872%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .lease one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,284 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,872 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,284 domains · **Median ask:** $43.61 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 24,872 domains · **Median ask:** $43.64 · **High-demand under $2,500:** 5
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/lease`
@@ -70,20 +70,20 @@ print(df.head())
 | auk.lease    | available | $56.99    | $56.99        | medium         | low    | 3      | namesilo    |
 | camp.lease   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo    |
 | bop.lease    | available | $56.99    | $56.99        | high           | low    | 3      | namesilo    |
-| film.lease   | premium   | $242      | $242          | high           | medium | 4      | namesilo    |
+| film.lease   | premium   | $242      | $242          | high           | low    | 4      | namesilo    |
 | btu.lease    | available | $56.99    | $56.99        | high           | low    | 3      | namesilo    |
 | plus.lease   | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo    |
-| clx.lease    | available | $14.99    | $71.99        | medium         | low    | 3      | name.com    |
+| caa.lease    | available | $8.24     | $46.23        | high           | low    | 3      | dynadot     |
 | rate.lease   | premium   | $260      | $260          | high           | low    | 4      | namecheap   |
-| dvd.lease    | available | $14.99    | —             | high           | low    | 3      | name.com    |
+| clx.lease    | available | $14.99    | $71.99        | medium         | low    | 3      | name.com    |
 | ross.lease   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo    |
-| egg.lease    | available | $14.99    | —             | high           | low    | 3      | name.com    |
+| dvd.lease    | available | $14.99    | —             | high           | low    | 3      | name.com    |
 | zone.lease   | premium   | $242      | $242          | high           | low    | 4      | namesilo    |
-| fog.lease    | available | $56.99    | $56.99        | high           | low    | 3      | namesilo    |
+| egg.lease    | available | $14.99    | —             | high           | low    | 3      | name.com    |
 | black.lease  | premium   | $128.70   | $128.70       | high           | medium | 5      | namecheap   |
+| fog.lease    | available | $56.99    | $56.99        | high           | low    | 3      | namesilo    |
+| games.lease  | premium   | $242      | $242          | high           | medium | 5      | namesilo    |
 | fry.lease    | available | $14.99    | $71.99        | high           | low    | 3      | name.com    |
-| blink.lease  | premium   | $1,040    | $1,040        | high           | medium | 5      | namecheap   |
-| hua.lease    | available | $56.99    | $56.99        | high           | low    | 3      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,284 live domains                        |
+| 1,000-row public sample | 24,872 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
