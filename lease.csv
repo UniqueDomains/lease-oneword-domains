@@ -14,11 +14,14 @@ d4fcc5d5-7501-415a-994a-b745ee82ef40,beethoven.lease,available,58.98,73.98,high,
 ba0bfa93-72a3-4221-ac4f-ba9c0caf5014,nub.lease,available,56.99,56.99,high,low,3,namesilo,,,14/09/2026 23:53
 0de9804e-38e2-43bb-8a38-75d6265d3193,black.lease,premium,128.7,128.7,high,medium,5,namecheap,,,22/09/2026 21:16
 fc9ab1df-4c1f-4adf-93ab-d489ca123fb5,belly.lease,available,56.99,56.99,high,low,5,namesilo,,,16/09/2026 14:48
+fbaa18db-6d82-47eb-8d7a-742cd43ec469,dane.lease,available,56.99,56.99,high,low,4,namesilo,,,29/09/2026 00:37
+ac767d4a-88e2-4e05-9901-36902beb355f,harness.lease,available,56.99,56.99,high,low,7,namesilo,,,29/09/2026 01:16
 3d79bdb8-9108-4673-bb19-79ff38bee5f2,sixthly.lease,available,14.99,71.99,medium,low,7,name.com,,,16/09/2026 02:03
 3ae0e8c6-e16f-4ba0-9345-cf01e748ae9c,excavate.lease,available,14.99,71.99,high,low,8,name.com,,,21/08/2026 10:33
 ca0fea45-91bb-45a3-a10d-70b7b8f7b32b,abasic.lease,available,14.99,71.99,medium,low,6,name.com,,,
 196b99ef-8730-4cbf-bbd1-4c43a1d8027c,dodge.lease,available,56.99,56.99,high,low,5,namesilo,,,28/09/2026 01:47
 ccba89ca-5809-44b2-b152-8e594b15695e,jungian.lease,available,14.99,71.99,medium,low,7,name.com,,,22/08/2026 14:24
+559d4c7c-31e3-4bdb-83cb-98d6d1671daa,childs.lease,available,44.71,44.71,medium,low,6,spaceship,,,28/09/2026 12:16
 0551e73f-a132-41bd-9840-599d802301f5,pastorale.lease,available,56.99,56.99,medium,low,9,namesilo,,,08/09/2026 10:10
 0c5b0f3a-eda0-435d-a00a-1b52a83b8e67,somber.lease,available,56.99,56.99,medium,low,6,namesilo,,,10/09/2026 14:00
 82314b0c-c301-4331-a74d-7c89d62c7f68,underestimated.lease,available,14.99,,medium,low,14,name.com,,,
@@ -28,7 +31,7 @@ a3185f3d-c27d-4465-8e18-323db9817c31,lavender.lease,available,14.99,71.99,high,l
 4a41500d-4392-48bc-a4dd-df6e08da84ad,detailed.lease,available,56.99,56.99,high,low,8,namesilo,,,24/09/2026 07:09
 ea3edda9-2617-4bdd-9e6e-1a94b32b8f2d,allosaur.lease,available,58.98,73.98,medium,low,8,namecheap,,,18/09/2026 12:04
 7da78f16-c2fb-46f6-bd45-546059cc2df0,sat.lease,available,14.99,,high,low,3,name.com,,,
-6ddf6341-cd1e-4036-988c-dbb66201347c,nowadays.lease,available,58.98,73.98,high,low,8,namecheap,,,27/09/2026 05:06
+6ddf6341-cd1e-4036-988c-dbb66201347c,nowadays.lease,available,43.2,43.2,medium,low,8,cloudflare,,,28/09/2026 22:43
 877b1e07-a240-4dd6-946d-91205a0bc933,agonus.lease,available,58.98,73.98,medium,low,6,namecheap,,,17/09/2026 18:59
 5315c1bb-43ac-4496-89ee-3f3300947258,godless.lease,available,14.99,71.99,medium,low,7,name.com,,,20/08/2026 16:02
 87d354ef-50fa-479d-854f-aeb19553cfad,reunion.lease,available,14.99,,high,medium,7,name.com,,,
@@ -44,7 +47,9 @@ e4d551c3-4861-425e-afb6-821665c1ed3d,unruly.lease,available,14.99,71.99,high,low
 b55d580d-d980-4857-af91-8a8ccf698480,birch.lease,available,14.99,71.99,high,low,5,name.com,,,10/08/2026 05:53
 be89eb64-6a35-4009-9a93-b7fa0c70c2d6,stands.lease,available,14.99,,medium,low,6,name.com,,,
 5ae463e2-3a0e-402b-bc2b-d42aa3cc3463,curiosity.lease,available,14.99,,high,low,9,name.com,,,
+d1a10303-d054-4634-a484-14d483544865,precambrian.lease,available,56.99,56.99,medium,low,11,namesilo,,,29/09/2026 04:02
 7fcb7e62-8afd-439e-92b7-0ea1157ead0a,azygos.lease,available,14.99,71.99,medium,low,6,name.com,,,08/08/2026 03:32
+92e59426-c47d-4e78-bf37-a8c45f58be47,terrain.lease,available,58.98,73.98,high,low,7,namecheap,,,28/09/2026 20:36
 efc76e2b-47df-4112-a8ab-bb863db191e1,pretty.lease,available,56.99,56.99,high,low,6,namesilo,,,25/09/2026 12:04
 02f18d5a-6f26-4288-9120-41d7a61c258e,moresque.lease,available,14.99,71.99,medium,low,8,name.com,,,25/08/2026 06:01
 d63e6188-ac39-4289-b73d-54946317eafd,canasta.lease,available,56.99,56.99,medium,low,7,namesilo,,,22/09/2026 11:16
@@ -65,6 +70,7 @@ f1138147-c0d1-4011-a71e-71732a7b34f3,estimable.lease,available,14.99,71.99,mediu
 4b86fa1c-9296-413d-a9c2-ea2c0aa8e3b2,thirties.lease,available,58.98,73.98,medium,low,8,namecheap,,,16/09/2026 12:05
 5cd17b06-0358-4f00-a2be-8117924ff2a6,committed.lease,available,56.99,56.99,high,low,9,namesilo,,,23/09/2026 15:46
 d7a56d59-3779-478f-8671-749846280aa4,michel.lease,available,56.99,56.99,high,low,6,namesilo,,,25/09/2026 12:46
+aa142759-c2d5-4447-9643-29db29e471ed,forbid.lease,available,58.98,73.98,medium,low,6,namecheap,,,28/09/2026 10:33
 931ce6aa-b4ab-44b7-b5df-1565dd527432,offenses.lease,available,56.99,56.99,low,low,8,namesilo,,,20/09/2026 10:35
 6ab591c8-28df-4ac0-b3c9-9da28739f739,appreciates.lease,available,58.98,73.98,medium,low,11,namecheap,,,20/09/2026 20:35
 883d6624-1238-44cb-b97c-84c45c9e2cdf,gyroscopic.lease,available,14.99,71.99,medium,low,10,name.com,,,20/08/2026 21:21
@@ -80,6 +86,7 @@ c98f9654-7e9a-46ab-9784-ee730d0c3ac5,qat.lease,available,56.99,56.99,medium,low,
 d44924f2-5b24-4b27-83e2-3fcbf3fe5416,yard.lease,available,56.99,56.99,high,low,4,namesilo,,,21/09/2026 11:13
 e870970b-3cfe-4ffa-9929-a2bf417c0c50,sneak.lease,available,56.99,56.99,high,low,5,namesilo,,,23/09/2026 12:44
 b3245c79-d7ba-4d02-b4ac-13dc0324d72f,haircut.lease,available,14.99,,high,low,7,name.com,,,
+fa91ba82-dd66-49a3-ae5b-ad7c9faa4742,iberia.lease,available,56.99,56.99,medium,low,6,namesilo,,,28/09/2026 14:29
 f342f8ac-afe9-482b-912b-09816ccf2673,titus.lease,available,58.98,73.98,high,low,5,namecheap,,,25/09/2026 05:37
 f35100da-a566-4293-82d7-e3992611021b,dvd.lease,available,14.99,,high,low,3,name.com,,,
 748eaea6-05e3-45ee-b027-3a3f5c474d3f,jockey.lease,available,58.98,73.98,high,low,6,namecheap,,,24/09/2026 14:26
@@ -91,21 +98,27 @@ a00c542f-c0b0-49e6-bf0a-d6ef779b6faa,screechy.lease,available,56.99,56.99,medium
 495cf688-1b87-408c-8c79-0af1470928a5,kurrat.lease,available,56.99,56.99,medium,low,6,namesilo,,,18/09/2026 11:14
 8e698da6-b937-45fa-b779-e17aa16e7691,stubby.lease,available,56.99,56.99,high,low,6,namesilo,,,10/09/2026 22:56
 9e3b041a-495b-45a4-b4bc-cbd761f9b9e8,meters.lease,available,56.99,56.99,medium,low,6,namesilo,,,28/09/2026 05:01
+d0cbbace-ebe5-4c79-a840-825a4b8f5c73,dulles.lease,available,56.99,56.99,medium,low,6,namesilo,,,28/09/2026 13:55
 4a7ca5aa-744a-41a6-8136-92304acfaacb,reverie.lease,available,56.99,56.99,high,low,7,namesilo,,,17/09/2026 21:59
 1cb284ec-7e03-4aae-8e31-ecf1f674b901,shenandoah.lease,available,44.71,44.71,medium,low,10,spaceship,,,27/09/2026 21:14
 e5683795-9631-4183-9a5f-96ef08d4d0b0,marang.lease,available,56.99,56.99,medium,low,6,namesilo,,,20/09/2026 12:01
+559d9915-f106-492d-b621-9fc525639d92,enthusiastic.lease,available,43.2,43.2,high,low,12,cloudflare,,,28/09/2026 11:14
 6e740533-1dce-4ee5-b21e-21a7c1990a69,orpin.lease,available,14.99,71.99,medium,low,5,name.com,,,24/08/2026 08:00
+4b80c8e6-1b82-4ad5-b844-5fc0ee0767eb,isaac.lease,available,58.98,73.98,high,low,5,namecheap,,,28/09/2026 19:31
 76babcec-50aa-4141-8d39-389e58cec2bf,eternity.lease,available,84.99,84.99,high,low,8,godaddy,,,28/09/2026 01:51
 4d04f1a3-4213-4e05-8fa4-c3166393dff9,order.lease,available,56.99,56.99,high,medium,5,namesilo,,,23/09/2026 20:44
 e0e5e512-5cf1-48b3-aef5-2fa88061761a,sulphur.lease,available,56.99,56.99,medium,low,7,namesilo,,,20/09/2026 22:29
 bfac5218-530b-4986-beb5-c4723046b675,alisma.lease,available,58.98,73.98,medium,low,6,namecheap,,,18/09/2026 08:02
+214493bc-3040-488b-b5bd-0d9b41071627,objections.lease,available,8.24,46.23,low,low,10,dynadot,,,28/09/2026 13:15
 66f23c43-7ca4-44b2-8e24-777905f4de85,barstow.lease,available,56.99,56.99,medium,low,7,namesilo,,,22/09/2026 08:54
 1c36fc2a-57cf-43b4-987c-9100cbc94a73,beechnut.lease,available,56.99,56.99,medium,low,8,namesilo,,,23/09/2026 00:13
 495152bb-6011-4951-b9fa-20118004a7d4,eighth.lease,available,14.99,71.99,high,low,6,name.com,,,
 87da90da-b5bf-46a3-aa3f-1a5b87dcdd5a,learnedly.lease,available,56.99,56.99,medium,low,9,namesilo,,,14/09/2026 16:04
+d230b599-0430-4694-84a4-d33617af6834,ignacio.lease,available,8.24,46.23,medium,low,7,dynadot,,,28/09/2026 08:56
 fbf4c1be-d8b9-43a3-81d6-12d8a680e253,oriented.lease,available,56.99,56.99,high,low,8,namesilo,,,26/09/2026 00:29
 92d2a669-d98b-48df-9eb0-892d24b12570,vial.lease,available,56.99,56.99,high,low,4,namesilo,,,18/09/2026 23:48
 a5ab681e-a1cb-4cfc-a527-7208bd944854,homy.lease,available,14.99,71.99,medium,low,4,name.com,,,21/08/2026 11:08
+f758b7f9-a076-4364-b63a-27e6529610b9,readiness.lease,available,8.24,44.8,high,low,9,porkbun,,,29/09/2026 01:53
 48af4267-f945-4df4-a302-cdfb721b4d9f,torpedo.lease,available,56.99,56.99,high,low,7,namesilo,,,28/09/2026 05:28
 fae3bc0a-1af5-43a2-8d6e-6640619610e8,road.lease,available,14.99,,high,low,4,name.com,,,
 fa8574da-29a8-43dd-94c9-762189e841d6,milliliter.lease,available,14.99,71.99,medium,low,10,name.com,,,11/08/2026 22:53
@@ -116,6 +129,7 @@ d8c23888-4e42-49ed-b066-2aaf3334a458,many.lease,available,56.99,56.99,high,low,4
 07a52c84-ffe9-4afd-960a-c768609cf4df,principled.lease,available,56.99,56.99,high,low,10,namesilo,,,27/09/2026 05:57
 8c4ea2ad-80f7-4f9e-b93a-432ccb7f5c21,aditya.lease,available,56.99,56.99,high,low,6,namesilo,,,17/09/2026 08:23
 54ba1734-9b61-4688-8a34-9c304795adfb,circus.lease,available,14.99,,high,low,6,name.com,,,
+201dd54c-0db6-476b-9466-f820500a7030,sexuality.lease,available,56.99,56.99,high,low,9,namesilo,,,28/09/2026 10:54
 03cdd415-8aeb-4cef-90a0-48d531384f15,traitor.lease,available,44.71,44.71,high,low,7,spaceship,,,27/09/2026 13:08
 d2d82392-ef25-4865-9b82-5329171c3eb5,expressly.lease,available,56.99,56.99,medium,low,9,namesilo,,,14/09/2026 17:09
 95990709-d889-41ef-82e4-a16896200d3c,edgeways.lease,available,56.99,56.99,medium,low,8,namesilo,,,14/09/2026 15:04
@@ -127,9 +141,11 @@ c66bb387-b62d-4568-ba44-2d19d0fe9130,lucky.lease,available,58.98,73.98,high,medi
 b1f9fd1d-be38-44ed-a629-2578c91d71b0,idol.lease,available,56.99,56.99,high,low,4,namesilo,,,22/09/2026 22:03
 7ee6bda0-4e21-4aab-9ab3-80a74c0cf14d,stella.lease,available,56.99,56.99,high,medium,6,namesilo,,,27/09/2026 04:03
 53edfd76-3438-4b23-ae24-358dee5117d0,corrugated.lease,available,14.99,71.99,medium,low,10,name.com,,,13/08/2026 02:13
+d714ac5f-a5bf-4061-9de3-601e7d360472,estelle.lease,available,56.99,56.99,medium,low,7,namesilo,,,29/09/2026 03:59
 442d57a5-91d6-4fbe-8b4e-35f9eb8f649d,albula.lease,available,58.98,73.98,medium,low,6,namecheap,,,18/09/2026 03:24
 749e9f6a-3285-4690-9520-493b36e02f5d,myeloid.lease,available,56.99,56.99,medium,low,7,namesilo,,,03/09/2026 12:06
 01bcca8e-4302-4ad8-b244-f0017ed9c9b7,implanted.lease,available,14.99,71.99,medium,low,9,name.com,,,13/08/2026 22:47
+77a9863f-39b0-426d-ad12-ac00970b1ea2,templeton.lease,available,8.24,46.23,medium,low,9,dynadot,,,28/09/2026 22:24
 ad25a5d8-6bf7-471d-99d4-d95e8bdf6a1a,grandmothers.lease,available,58.98,73.98,medium,low,12,namecheap,,,20/09/2026 18:06
 1a45514f-f565-4867-8c0c-7cae46b1f98a,babu.lease,available,56.99,56.99,medium,low,4,namesilo,,,21/09/2026 12:51
 98ff849a-9ece-42b1-bf48-46e63a545f64,molybdenum.lease,available,58.98,73.98,medium,low,10,namecheap,,,20/09/2026 23:05
@@ -144,16 +160,18 @@ a440e674-757b-44ec-a323-7a5c4cb6c2b1,amenities.lease,available,58.98,73.98,high,
 709a5d41-de53-4a73-b7e2-4336d5faab49,procedural.lease,available,56.99,56.99,high,low,10,namesilo,,,09/09/2026 02:31
 1bdb07f9-2205-4522-a686-a859adfaa62e,tellurian.lease,available,56.99,56.99,medium,low,9,namesilo,,,11/09/2026 10:37
 606f6eb8-a918-4aef-974d-12af39cbee8a,manganese.lease,available,56.99,56.99,medium,low,9,namesilo,,,20/09/2026 22:40
-be396332-1aab-4b54-87d1-22d7b0c3c89a,washington.lease,premium,118.8,118.8,high,low,10,namesilo,,,
+be396332-1aab-4b54-87d1-22d7b0c3c89a,washington.lease,premium,102.67,102.67,high,low,10,spaceship,,,28/09/2026 20:59
 0cc8e1fe-1707-43f9-8c16-997e2fd769ce,sculpted.lease,available,14.99,71.99,high,low,8,name.com,,,20/08/2026 18:50
 0234c2cc-5072-4cf0-b97d-061d808f13d6,suddenly.lease,available,14.99,71.99,medium,low,8,name.com,,,13/08/2026 19:19
 39c245c0-5f4c-411d-8037-33a2d9be0ccc,tactful.lease,available,14.99,71.99,high,low,7,name.com,,,22/08/2026 15:49
+b5a9b86e-9f2a-4c57-b285-7d4fc1f51b4f,langer.lease,available,56.99,56.99,medium,low,6,namesilo,,,29/09/2026 02:56
 16b98302-259b-4517-9499-e0a8a1c8f240,palermo.lease,available,44.71,44.71,high,low,7,spaceship,,,27/09/2026 15:11
 1f57c769-2a17-4080-8716-9ab52a986084,adductive.lease,available,14.99,71.99,medium,low,9,name.com,,,
 0fe8d9f3-96a8-43bf-873a-cc417a7699f4,testy.lease,available,14.99,71.99,medium,low,5,name.com,,,22/08/2026 10:29
 7a0be283-29df-4995-ab6c-063e53e76c99,burnett.lease,available,56.99,56.99,medium,low,7,namesilo,,,25/09/2026 03:44
 f0f5aa83-c29b-430e-bc48-4a892baba322,plaguy.lease,available,14.99,71.99,medium,low,6,name.com,,,
-761f387e-911a-4223-9432-1e9d3b1448bf,broadly.lease,available,14.99,,medium,low,7,name.com,,,
+5c91c25d-76f8-493d-9680-d193e39b19ce,elders.lease,available,56.99,56.99,low,low,6,namesilo,,,28/09/2026 08:45
+761f387e-911a-4223-9432-1e9d3b1448bf,broadly.lease,available,56.99,56.99,medium,low,7,namesilo,,,28/09/2026 13:32
 82cee74e-165a-4ceb-b7ea-adebcb06dd4e,taxa.lease,available,58.98,73.98,medium,low,4,namecheap,,,25/09/2026 17:29
 051962ef-aa98-49a9-957d-8f0a3755d2dd,gifted.lease,available,14.99,71.99,high,low,6,name.com,,,18/08/2026 23:27
 86276597-0cdc-4180-bdf0-52b630546b02,sideboard.lease,available,58.98,73.98,high,low,9,namecheap,,,24/09/2026 10:55
@@ -174,11 +192,12 @@ c912759a-f0f2-4525-bca7-1d42cece92ce,advection.lease,available,56.99,56.99,mediu
 1b6a56af-ac3d-400f-aa28-d5e9ed4af83e,artistic.lease,available,58.98,73.98,high,low,8,namecheap,,,22/09/2026 09:09
 61e52524-52c1-47b9-9631-1a3d3f448a6a,lay.lease,available,56.99,56.99,high,low,3,namesilo,,,25/09/2026 13:03
 10cee3f2-d061-415b-87e1-b1569ee43625,homophobic.lease,available,14.99,71.99,medium,low,10,name.com,,,21/08/2026 13:04
-9cb60906-cb55-4ceb-824e-0d5063bad4e4,adaptive.lease,available,56.99,56.99,high,low,8,namesilo,,,21/09/2026 16:55
+9cb60906-cb55-4ceb-824e-0d5063bad4e4,adaptive.lease,available,56.99,56.99,high,low,8,namesilo,,,28/09/2026 16:57
 8c1ef160-69a6-4e98-813e-46c5dfd6f692,developed.lease,available,56.99,56.99,high,low,9,namesilo,,,24/09/2026 07:51
 5c53ddfc-6944-4679-8949-98afebfa25aa,bascule.lease,available,56.99,56.99,medium,low,7,namesilo,,,22/09/2026 09:54
 c94b2734-e501-47c8-afc9-9e0586eb5d2d,circinate.lease,available,14.99,71.99,high,low,9,name.com,,,
 e2625784-f068-4357-8827-528ca8c0b657,deducible.lease,available,14.99,71.99,medium,low,9,name.com,,,13/08/2026 22:25
+f35687c2-7644-4971-8fab-91ef98c7298b,diver.lease,available,56.99,56.99,high,low,5,namesilo,,,29/09/2026 00:40
 d482dd94-3dd6-409c-8582-d5f6dca9fb10,analytical.lease,available,14.99,71.99,high,low,10,name.com,,,
 ed160168-4521-4b67-b890-3672736c7b32,backgammon.lease,available,56.99,56.99,high,low,10,namesilo,,,21/09/2026 15:34
 455f6467-91d8-4d0c-8272-e7d1ae262d22,necked.lease,available,56.99,56.99,medium,low,6,namesilo,,,03/09/2026 14:40
@@ -199,7 +218,7 @@ f4265468-f09b-425e-8d8f-9967f3890e51,supersize.lease,available,14.99,,high,low,9
 81f0b1f4-bd2e-44bc-8a99-c3117ae24ab3,midwinter.lease,available,14.99,,medium,low,10,name.com,,,
 9776047e-7a06-4393-a8f3-6ee235b141c9,bodyguard.lease,available,58.98,73.98,high,low,9,namecheap,,,24/09/2026 06:33
 f78e2baf-d708-4588-8dd6-b840dc296dd7,crushing.lease,available,14.99,71.99,high,low,8,name.com,,,13/08/2026 09:13
-8c8f23a6-90a1-4b3b-a694-0bba1dcbca4c,truth.lease,available,14.99,,high,medium,5,name.com,,,
+8c8f23a6-90a1-4b3b-a694-0bba1dcbca4c,truth.lease,available,56.99,56.99,high,medium,5,namesilo,,,28/09/2026 17:29
 2071277f-1e57-4977-884d-41092973efff,granth.lease,available,58.98,73.98,medium,low,6,namecheap,,,17/09/2026 08:05
 83c8dbc6-ce81-47f0-8567-37834f94c7e6,doubly.lease,available,56.99,56.99,medium,low,6,namesilo,,,14/09/2026 13:48
 faf7f33a-96c8-40f0-ad0f-6b9e1804bc69,allmouth.lease,available,56.99,56.99,medium,low,8,namesilo,,,18/09/2026 11:45
@@ -208,9 +227,11 @@ faf7f33a-96c8-40f0-ad0f-6b9e1804bc69,allmouth.lease,available,56.99,56.99,medium
 336e2220-f00c-47c4-9cae-9ceb3446bccb,italic.lease,available,14.99,71.99,high,low,6,name.com,,,22/08/2026 11:37
 4b8f4570-3c7a-4709-b0d5-1e8d7e78df4c,codes.lease,available,14.99,,high,low,5,name.com,,,
 d8b7a57a-e386-4cd4-9052-fe72fb72eb16,koran.lease,available,56.99,56.99,high,low,5,namesilo,,,18/09/2026 01:04
+31af82c6-8381-4ed9-9c55-fa4eea4c6b96,tennessee.lease,premium,118.8,118.8,high,low,9,namesilo,,,28/09/2026 11:00
 ecc80439-4eaf-44cb-9032-c1e73aa01974,natality.lease,available,58.98,73.98,medium,low,8,namecheap,,,23/09/2026 21:04
 1b025e19-8557-43b4-97a8-93de83f18288,bugbane.lease,available,58.98,73.98,medium,low,7,namecheap,,,18/09/2026 20:09
 a47e47e4-d349-49ac-8baa-6295bcea8bc8,eatable.lease,available,14.99,71.99,medium,low,7,name.com,,,12/08/2026 18:47
+a50543bb-6e33-4d21-b783-55e196f400fb,gmt.lease,available,56.99,56.99,medium,low,3,namesilo,,,28/09/2026 14:18
 ab79c9ee-e26a-47d0-bd8b-8cc08cb81094,glittery.lease,available,14.99,71.99,high,low,8,name.com,,,
 34b34039-a5fc-4087-bbe7-6760762324e9,honeymoons.lease,available,56.99,56.99,medium,low,10,namesilo,,,20/09/2026 01:32
 a92871c1-8046-474f-995e-aa4ef8a5452b,armlet.lease,available,56.99,56.99,medium,low,6,namesilo,,,20/09/2026 06:20
@@ -219,37 +240,45 @@ fb8e5d68-0610-4e40-8f45-9e27221e34a4,montrose.lease,available,8.24,46.23,medium,
 96c66ecd-ebfa-4748-9402-224521b545ef,acetone.lease,available,58.98,73.98,high,low,7,namecheap,,,17/09/2026 00:07
 2200dc51-5111-4d83-82d8-a96bf4a866d7,slashed.lease,available,56.99,56.99,medium,low,7,namesilo,,,10/09/2026 10:06
 6b3d08b8-d07a-4d39-bcae-e60d7d651a99,balfour.lease,available,56.99,56.99,medium,low,7,namesilo,,,16/09/2026 12:19
-358e91e2-1a42-47e2-89ec-132119704c69,humanities.lease,available,14.99,,high,low,10,name.com,,,
+358e91e2-1a42-47e2-89ec-132119704c69,humanities.lease,available,58.98,73.98,high,low,10,namecheap,,,28/09/2026 22:20
 418673d3-361f-48d6-83ca-5b65d312243c,quartet.lease,available,14.99,71.99,high,low,7,name.com,,,
 7929cc9e-cf79-45fc-96fd-c77ac5c8db33,halle.lease,available,56.99,56.99,high,low,5,namesilo,,,27/09/2026 04:25
 54d7c43b-93b1-4dd6-85af-13daa8f304fa,resort.lease,available,14.99,,high,low,6,name.com,,,
 64861d64-96e0-4d47-85ef-f8eaddf99771,untraveled.lease,available,56.99,56.99,medium,low,10,namesilo,,,12/09/2026 21:42
 d452df59-0855-4507-9ef5-e8374b9cb6f6,subvert.lease,available,14.99,71.99,medium,low,7,name.com,,,13/08/2026 02:15
+57add3ce-db87-4084-a5f3-91b5eb9bf1be,precinct.lease,available,44.71,44.71,medium,low,8,spaceship,,,28/09/2026 15:05
 74c490aa-2a3b-4063-8147-5cd6e9f499cc,lena.lease,available,56.99,56.99,high,low,4,namesilo,,,25/09/2026 08:55
+a3ae88ad-83a7-424d-aecb-492e48bb406b,outbreak.lease,available,44.71,44.71,medium,low,8,spaceship,,,28/09/2026 15:00
 55d29b61-5037-4195-8faa-6419f61369fd,sidesaddle.lease,available,56.99,56.99,medium,low,10,namesilo,,,16/09/2026 01:43
 4794b807-3c39-408e-b357-e773ee031799,thereafter.lease,available,56.99,56.99,high,low,10,namesilo,,,16/09/2026 08:38
 dc24a737-fd04-4003-852e-46f65908c83e,usefully.lease,available,56.99,56.99,medium,low,8,namesilo,,,16/09/2026 10:28
 4bfb687e-c2e0-4906-8da2-7f5eb3372b5c,obscurely.lease,available,56.99,56.99,medium,low,9,namesilo,,,15/09/2026 17:13
 9ee2b9cf-80d7-4b98-99a4-7fb5e163ec17,casebook.lease,available,56.99,56.99,high,low,8,namesilo,,,08/09/2026 03:38
+5946ece7-ac8c-453a-a551-d08387d3bbdd,soo.lease,available,43.2,43.2,medium,low,3,cloudflare,,,28/09/2026 21:20
 aa73d175-6c74-46d0-8aee-0de51165c765,ends.lease,available,56.99,56.99,high,low,4,namesilo,,,25/09/2026 13:13
 e123067e-09b5-4ef1-9754-a6998aaf829f,goody.lease,available,14.99,71.99,high,low,5,name.com,,,13/08/2026 15:54
 9cf67aae-d5ac-4c38-aeb6-6671a818dd28,bellman.lease,available,56.99,56.99,medium,low,7,namesilo,,,23/09/2026 06:01
+f8cc2172-14f1-48ee-8d35-0fe6670e0a8d,resource.lease,available,44.71,44.71,high,low,8,spaceship,,,28/09/2026 20:20
 8a827a1a-85a6-4a5f-bd24-4d1dad79c744,beriberi.lease,available,58.98,73.98,medium,low,8,namecheap,,,23/09/2026 09:23
 c242cbfe-de8c-417b-b9eb-bf0b55b088bc,shakable.lease,available,56.99,56.99,medium,low,8,namesilo,,,10/09/2026 05:32
 8803275c-42ba-4b9e-b587-b570d8e2753d,schneider.lease,available,14.99,,high,low,9,name.com,,,
 fc9ed9a4-bf1b-4593-a2c3-8e1d62c77fe4,recluse.lease,available,56.99,56.99,high,low,7,namesilo,,,09/09/2026 11:38
-d5900566-8a74-4dbc-ac65-fc6b472eda4b,bathe.lease,available,14.99,,high,low,5,name.com,,,
+d5900566-8a74-4dbc-ac65-fc6b472eda4b,bathe.lease,available,44.71,44.71,high,low,5,spaceship,,,29/09/2026 01:32
 aa7e54c9-65f6-40d0-97f0-ee531abaadff,amuck.lease,available,14.99,71.99,medium,low,5,name.com,,,
+83338172-fd0e-4c1f-8e0f-4d2fffea6a78,karim.lease,available,44.71,44.71,medium,low,5,spaceship,,,29/09/2026 03:37
 64caad70-39e0-4150-8c7c-b3996441fea9,seeming.lease,available,14.99,,high,low,7,name.com,,,
+610745a8-33b7-4016-badc-b13bdf140a74,genetically.lease,available,43.2,43.2,medium,low,11,cloudflare,,,28/09/2026 21:22
 e1bec80b-9f67-484e-b48c-755fd135368c,shame.lease,available,14.99,,high,low,5,name.com,,,
 8b082bce-3370-418c-a31c-c13548da88c3,character.lease,available,56.99,56.99,high,low,9,namesilo,,,24/09/2026 13:45
 4ee8d0e2-0e94-43c8-af4c-a123096c475f,untrustworthy.lease,available,14.99,,medium,low,13,name.com,,,
 bc4f2ed4-948d-4362-961e-9c6b89267b83,straws.lease,available,56.99,56.99,medium,low,6,namesilo,,,20/09/2026 08:03
 91e7abb6-1857-4ba5-b0fe-e84bae2b76fc,trial.lease,available,14.99,,high,low,5,name.com,,,
 a3727308-8de8-43d5-9e96-6f543970e824,alonso.lease,available,58.98,73.98,high,low,6,namecheap,,,18/09/2026 07:29
-9b39e264-bbd6-420d-adfd-dda92f365a69,trained.lease,available,14.99,,high,low,7,name.com,,,
+9b39e264-bbd6-420d-adfd-dda92f365a69,trained.lease,available,56.99,56.99,high,low,7,namesilo,,,28/09/2026 09:30
+4c40af12-7f68-4a6a-99d8-da668eab76b6,silesian.lease,available,56.99,56.99,medium,low,8,namesilo,,,29/09/2026 03:15
 3b2f36ba-32eb-4ba0-ab8c-f8b7023e926a,some.lease,available,56.99,56.99,high,low,4,namesilo,,,19/09/2026 12:35
 cb9f518f-8de6-4ac7-9882-bd4d7ffa9347,unselfish.lease,available,58.98,73.98,high,low,9,namecheap,,,12/09/2026 19:16
+bf521093-4d2f-4100-803a-346d6d35234c,punching.lease,available,56.99,56.99,medium,low,8,namesilo,,,29/09/2026 00:06
 9953c1df-812a-4f04-b9df-0dbb982e2b71,morally.lease,available,56.99,56.99,medium,low,7,namesilo,,,15/09/2026 15:25
 551e0ab4-346a-4086-af7a-b6c79c6f7df4,lil.lease,available,56.99,56.99,high,low,3,namesilo,,,27/09/2026 06:06
 ed2fe124-7a5f-4c08-98b7-4398682b87c8,kale.lease,available,56.99,56.99,high,low,4,namesilo,,,24/09/2026 06:48
@@ -258,16 +287,18 @@ a6020176-ba2b-4564-9bbb-83483c64626a,around.lease,available,56.99,56.99,high,low
 2a304639-f662-4bef-bcc9-a3b12f89d46d,mural.lease,available,56.99,56.99,high,low,5,namesilo,,,03/09/2026 11:00
 049d2723-121c-4887-8621-aa2c52712685,pursue.lease,available,43.2,43.2,high,low,6,cloudflare,,,28/09/2026 06:57
 3a983408-bfdf-4ba4-b577-ad6e5f5f8bdd,squealed.lease,available,56.99,56.99,low,low,8,namesilo,,,20/09/2026 17:30
+1131768c-a606-4588-a397-9b72805e10f3,gibbons.lease,available,8.24,46.23,medium,low,7,dynadot,,,29/09/2026 04:20
 2d0f1c83-ba1b-49e6-a7cf-1b2c13207275,outback.lease,available,56.99,56.99,high,low,7,namesilo,,,26/09/2026 03:21
 3f4778a1-e0ed-4ec4-86bc-517cb3634d80,bearwood.lease,available,58.98,73.98,medium,low,8,namecheap,,,22/09/2026 20:58
 efd94e93-4e6e-4dc3-a78b-b9ed7b3a6ce1,hotcake.lease,available,56.99,56.99,high,low,7,namesilo,,,22/09/2026 14:33
 61551535-b9c7-48fd-9f07-18a94f2c61fa,pyrrhic.lease,available,56.99,56.99,medium,low,7,namesilo,,,09/09/2026 07:12
 89cce370-48a6-4caf-b05a-a448b5ab900a,collision.lease,available,14.99,,high,low,9,name.com,,,
+6aaac196-bc06-4616-b31c-6a046944ac63,dispute.lease,available,43.2,43.2,medium,low,7,cloudflare,,,28/09/2026 13:42
 3224510b-ea24-451d-987e-07e775a10367,hua.lease,available,56.99,56.99,high,low,3,namesilo,,,18/09/2026 01:18
 0273da5e-8c9b-40e4-aa3e-c9584aca1382,multiplication.lease,available,14.99,,medium,low,14,name.com,,,
 838d305f-6d9d-42d9-a550-15abe0135e0a,unlisted.lease,available,56.99,56.99,medium,low,8,namesilo,,,12/09/2026 14:55
 093a386a-1556-4c3c-ba2a-0e989c6b7a67,diabetic.lease,available,14.99,71.99,high,low,8,name.com,,,14/08/2026 05:36
-5e62a974-d1ae-4deb-ae63-a66c1c21129e,yeah.lease,available,14.99,,high,low,4,name.com,,,
+5e62a974-d1ae-4deb-ae63-a66c1c21129e,yeah.lease,available,44.71,44.71,high,low,4,spaceship,,,28/09/2026 16:49
 4a592771-b3dc-4132-b9b7-d14863f22733,josiah.lease,available,58.98,73.98,medium,low,6,namecheap,,,27/09/2026 01:34
 fb06e177-0a2a-4845-99e0-ca1937c7b44c,blanche.lease,available,58.98,73.98,medium,low,7,namecheap,,,26/09/2026 03:36
 f1c90b10-ee38-4439-81a3-f99bec396c79,volcanic.lease,available,56.99,56.99,high,low,8,namesilo,,,13/09/2026 06:48
@@ -288,8 +319,9 @@ bc50971d-30d7-4a33-8f73-4055368d77de,goddamn.lease,available,14.99,71.99,medium,
 6a9d8055-d1d7-4ada-ab4e-9ab36d0634ad,gobs.lease,available,56.99,56.99,high,low,4,namesilo,,,14/09/2026 23:34
 a39ec1ba-327f-4b3b-a97b-7b7e7b2f37ce,onshore.lease,available,14.99,71.99,high,low,7,name.com,,,22/08/2026 06:55
 16a2b2ef-54fa-4ca3-a89c-fb840f09b420,opulent.lease,available,14.99,71.99,high,low,7,name.com,,,14/08/2026 00:58
+d98e4ac2-696d-4dcb-a44c-8c7403c15e4e,athletes.lease,available,56.99,56.99,medium,low,8,namesilo,,,29/09/2026 00:04
 4cbebd08-797d-41ad-96ee-194acd86c90d,wikimedia.lease,available,,,high,high,9,,,,
-a63b3753-67af-48a5-b86c-62650a75ad56,beneath.lease,available,14.99,,medium,low,7,name.com,,,
+a63b3753-67af-48a5-b86c-62650a75ad56,beneath.lease,available,8.24,44.8,medium,low,7,porkbun,,,28/09/2026 12:25
 0f730950-8eec-43e9-96a2-571b8917ee41,herald.lease,available,56.99,56.99,high,low,6,namesilo,,,16/09/2026 22:39
 db7ae668-e59b-4070-94b7-2a81f192cb95,whacky.lease,available,14.99,71.99,medium,low,6,name.com,,,06/08/2026 21:32
 a0963aad-c28e-4460-844f-72e72ce488fb,elected.lease,available,14.99,71.99,high,low,7,name.com,,,16/08/2026 02:35
@@ -302,6 +334,7 @@ c86bd298-8d56-482e-9e60-2c2e94562819,grandad.lease,available,14.99,,high,low,7,n
 b8a3c1bb-cb5f-4cab-95a2-c6232a995744,bombproof.lease,available,14.99,71.99,high,low,9,name.com,,,10/08/2026 18:09
 52bdd41a-03db-4e27-9252-ab2f92c16d8b,barony.lease,available,56.99,56.99,medium,low,6,namesilo,,,22/09/2026 07:36
 2667a6ab-93b0-4426-83d9-c1914f6ddece,holey.lease,available,14.99,71.99,medium,low,5,name.com,,,21/08/2026 10:23
+6d821e27-d2f6-4a77-a74b-6deed722ba21,hicks.lease,available,56.99,56.99,medium,low,5,namesilo,,,28/09/2026 12:48
 95770ade-9775-4982-b334-d3fde286f9e8,footballers.lease,available,58.98,73.98,medium,low,11,namecheap,,,20/09/2026 13:07
 28ff7309-1907-4931-b893-3a5f9ce1d5e0,masterless.lease,available,14.99,71.99,medium,low,10,name.com,,,24/08/2026 09:55
 898fac2c-ff07-45fd-a1b2-95fbf3dfd2d3,cleanly.lease,available,14.99,71.99,high,low,7,name.com,,,12/08/2026 10:21
@@ -317,6 +350,7 @@ d441320e-31e2-4f52-b7f7-412eb4ef3323,kabul.lease,available,44.71,44.71,high,low,
 5f2eea52-a24c-453e-81aa-a35c050f4cdb,oaxaca.lease,available,44.71,44.71,high,low,6,spaceship,,,28/09/2026 06:30
 aab188cd-c72f-432a-a752-dcbc98568caf,ametria.lease,available,58.98,73.98,medium,low,7,namecheap,,,18/09/2026 21:07
 00e3c376-5654-4cd2-9ea1-b12d5e18845c,promptly.lease,available,58.98,73.98,high,low,8,namecheap,,,09/09/2026 08:42
+3b161331-3bc1-416b-a214-39b43bea7bb4,thrace.lease,available,8.24,44.8,medium,low,6,porkbun,,,28/09/2026 20:38
 3bff2cb9-bd5d-4e3d-aabc-c7fa93ffa608,telly.lease,available,56.99,56.99,high,low,5,namesilo,,,24/09/2026 06:44
 46a12c8d-a255-4395-8414-2525f6b68fb4,avaram.lease,available,58.98,73.98,medium,low,6,namecheap,,,21/09/2026 08:40
 5d531db4-2882-4cfd-b615-63e538a485b8,multiply.lease,available,56.99,56.99,high,low,8,namesilo,,,15/09/2026 15:37
@@ -364,6 +398,7 @@ a8875474-6020-4624-ac44-1c913ba027c8,curator.lease,available,56.99,56.99,high,lo
 16927607-da20-41d9-966a-4650a2b598a0,aorta.lease,available,56.99,56.99,medium,low,5,namesilo,,,19/09/2026 16:04
 dd03d67f-2b06-4592-9a69-cb1ea60a29c4,glossary.lease,available,14.99,,high,low,8,name.com,,,
 bb4762cf-4599-4290-b614-f611c6be951c,hollering.lease,available,56.99,56.99,medium,low,9,namesilo,,,23/09/2026 06:21
+0ee5768e-345b-45b7-9e8b-cb45fa6f3cc1,maxine.lease,available,58.98,73.98,medium,low,6,namecheap,,,28/09/2026 22:02
 01b73183-11d9-475d-9d83-d73a41fb1b38,follicular.lease,available,14.99,71.99,medium,low,10,name.com,,,18/08/2026 10:20
 09ad10c1-a8f0-4de0-a371-d90ef44eaf8d,creativity.lease,available,58.98,73.98,high,low,10,namecheap,,,24/09/2026 19:19
 c6e80ca5-e328-40d3-b028-5909617bd88e,knowing.lease,available,56.99,56.99,high,low,7,namesilo,,,25/09/2026 10:04
@@ -371,21 +406,26 @@ c6e80ca5-e328-40d3-b028-5909617bd88e,knowing.lease,available,56.99,56.99,high,lo
 d91902be-f0e1-41ad-b640-67e980d2b0f6,playaround.lease,available,56.99,56.99,medium,low,11,namesilo,,,17/09/2026 06:03
 c3e8c4d9-16a4-45cf-b49b-c29352a2b1cf,nights.lease,available,56.99,56.99,high,low,6,namesilo,,,17/09/2026 22:10
 d5830030-68a8-4617-a07a-94bf61a73f9d,unrequited.lease,available,56.99,56.99,medium,low,10,namesilo,,,12/09/2026 00:45
-81ee9e84-4e11-4362-b242-d64926d05571,soccer.lease,premium,118.8,118.8,high,low,6,namesilo,,,
+81ee9e84-4e11-4362-b242-d64926d05571,soccer.lease,premium,128.7,128.7,high,low,6,namecheap,,,28/09/2026 22:49
 aad7c137-5799-4736-92da-cad715c35a81,seamless.lease,available,14.99,71.99,high,low,8,name.com,,,10/09/2026 00:47
 585e74b1-4cb8-406c-984e-f1119a7eb6ba,suffering.lease,available,14.99,71.99,high,low,9,name.com,,,25/08/2026 01:27
 282eb265-5e9e-4fdf-a5f2-0ea604ad6963,tress.lease,available,58.98,73.98,medium,low,5,namecheap,,,24/09/2026 07:57
 0fa41a6f-8384-44db-b7a7-5b27cc2107bf,bifid.lease,available,14.99,71.99,medium,low,5,name.com,,,09/08/2026 19:59
 9772674c-1bfd-46f3-aec0-ec474d108a37,consult.lease,available,14.99,,high,low,7,name.com,,,
-c7986e06-57bf-4b14-9924-3fe99aada85e,optionally.lease,available,14.99,,medium,low,10,name.com,,,
+c7986e06-57bf-4b14-9924-3fe99aada85e,optionally.lease,available,43.2,43.2,medium,low,10,cloudflare,,,28/09/2026 16:29
 697c9f60-8394-4031-b3dd-5a7a04357153,burbling.lease,available,14.99,71.99,medium,low,8,name.com,,,11/08/2026 10:10
 c8bce61a-3776-482a-a163-c2f78b1ec13e,wwii.lease,available,8.24,44.8,medium,low,4,porkbun,,,28/09/2026 07:36
+b3d950a4-f4c4-4c18-ac9d-fa6d120a0f5a,bradbury.lease,available,43.2,43.2,high,low,8,cloudflare,,,28/09/2026 13:35
 904393c2-cb10-4b72-b40e-bec503cbc858,briss.lease,available,56.99,56.99,medium,low,5,namesilo,,,23/09/2026 09:30
+de72772c-f147-487e-9481-812e3ff0833b,lyme.lease,available,8.24,46.23,medium,low,4,dynadot,,,28/09/2026 21:33
 5599452f-c703-4a5d-8a5e-7ac32bfe0255,tagged.lease,available,14.99,71.99,high,low,6,name.com,,,22/08/2026 17:17
 919e8099-6aa5-4853-b895-1455e0bbae73,attracted.lease,available,14.99,71.99,medium,low,9,name.com,,,26/09/2026 03:10
 5cd9cfa9-a47d-45e2-a4d8-504ac5a1672b,pervious.lease,available,58.98,73.98,medium,low,8,namecheap,,,08/09/2026 18:09
 38d5372e-a6d4-48f1-b30d-9a92cf55bdc8,dromedary.lease,available,56.99,56.99,medium,low,9,namesilo,,,19/09/2026 23:32
+48531a9d-3aa0-4bd0-91d1-4777d3c8725e,cora.lease,available,56.99,56.99,high,low,4,namesilo,,,28/09/2026 18:45
+3234a260-2a80-4c08-9ee8-414f5368e729,flute.lease,available,8.24,46.23,high,low,5,dynadot,,,28/09/2026 13:41
 ad9bfc73-a3fc-4940-8069-25eb0f1ea073,affect.lease,available,56.99,56.99,high,low,6,namesilo,,,27/09/2026 05:35
+b94dcc1b-9143-4289-94e4-e9b07c2f5ea5,keyes.lease,available,56.99,56.99,medium,low,5,namesilo,,,28/09/2026 16:42
 bacd8c00-68e7-47b4-91ee-7aa43decad40,lorraine.lease,available,58.98,73.98,high,low,8,namecheap,,,25/09/2026 09:09
 f16aaa6f-5442-4291-b119-ba41897dcc56,respectively.lease,available,14.99,,medium,low,12,name.com,,,
 fdea87d2-1f6c-4506-81bd-44013c8b3c77,colourize.lease,available,14.99,71.99,medium,low,9,name.com,,,12/08/2026 17:40
@@ -393,7 +433,6 @@ fdea87d2-1f6c-4506-81bd-44013c8b3c77,colourize.lease,available,14.99,71.99,mediu
 88108449-82e2-4bdd-86d1-522e214f3867,export.lease,available,14.99,,high,low,6,name.com,,,
 360b2216-15f0-4a40-b02a-a76ba6dca4da,baronage.lease,available,56.99,56.99,medium,low,8,namesilo,,,22/09/2026 07:18
 237a1d4f-f46b-4816-a06c-276c8a87ca59,chalkboards.lease,available,56.99,56.99,low,low,11,namesilo,,,19/09/2026 23:25
-4122581a-a680-4244-bb21-a3e83e33aad1,mastercard.lease,available,,,high,medium,10,,,,
 b3c136bf-8d94-4c2c-a6a6-daa8a229a199,enlarged.lease,available,56.99,56.99,high,low,8,namesilo,,,22/09/2026 22:37
 aac132c7-9424-4e63-9119-fc8e04568b1a,looney.lease,available,14.99,71.99,medium,low,6,name.com,,,13/08/2026 05:34
 887cb3d4-a583-4d49-b19e-43b641810ed3,approached.lease,available,58.98,73.98,medium,low,10,namecheap,,,17/09/2026 16:13
@@ -405,6 +444,7 @@ b5edd733-18f7-4575-8ecd-6f5858a17040,sauciness.lease,available,56.99,56.99,mediu
 c1cc2eba-056b-4de3-bd65-413689371728,glooming.lease,available,14.99,71.99,medium,low,8,name.com,,,20/08/2026 14:41
 c8ae6eea-c9f2-40bd-9d93-de338f9cb1ea,mesolithic.lease,available,14.99,71.99,medium,low,10,name.com,,,24/08/2026 21:17
 4c324159-1d4e-4389-8b56-0f9c2c176a52,sullivan.lease,available,56.99,56.99,high,low,8,namesilo,,,19/09/2026 10:20
+dc936886-56f9-4c6e-8378-d5dbd1d209f5,zane.lease,available,44.71,44.71,high,low,4,spaceship,,,29/09/2026 04:01
 6a196e00-b615-41f4-b4e1-60c0eaa27423,aidoneus.lease,available,58.98,73.98,medium,low,8,namecheap,,,17/09/2026 20:53
 be3db651-09ad-426a-adfd-b9803837293d,placate.lease,available,14.99,71.99,high,low,7,name.com,,,18/08/2026 22:12
 e281b6c7-9945-4e30-8a1d-123b73f21c4a,aurelius.lease,available,56.99,56.99,medium,low,8,namesilo,,,19/09/2026 15:35
@@ -443,21 +483,26 @@ d4617b4b-07f5-44a8-ba5c-b1c8f6331483,airtight.lease,available,14.99,71.99,high,l
 8ba7545e-c27f-4dc0-b9cc-dda6c5894bad,lagos.lease,available,44.71,44.71,high,low,5,spaceship,,,27/09/2026 14:38
 802d4a75-d1e4-4396-90f3-e71f5305bcbd,calf.lease,available,14.99,,high,low,4,name.com,,,
 f94ec968-4bda-41f1-aa56-558f6325d6aa,legitimate.lease,available,14.99,71.99,high,low,10,name.com,,,22/08/2026 23:04
+0c325727-f1ca-4efc-83be-8542e44fec13,missions.lease,available,43.2,43.2,medium,low,8,cloudflare,,,28/09/2026 23:16
 8b72fc5a-e15b-4c34-8dda-31c79caa4e78,powered.lease,available,56.99,56.99,high,low,7,namesilo,,,27/09/2026 04:51
 2987f4cd-f2be-4de4-af5c-c06463116dcf,insert.lease,available,56.99,56.99,high,low,6,namesilo,,,24/09/2026 20:42
 3344a2ad-4434-407f-93e4-892112d2e792,lotto.lease,available,58.98,73.98,high,low,5,namecheap,,,22/09/2026 20:35
 c1933812-5f08-4ef1-b62c-a1937cb8d939,lowest.lease,available,14.99,71.99,medium,low,6,name.com,,,22/08/2026 20:22
 ef2209bd-be02-47c5-a61c-7d294dc77e23,blackfish.lease,available,56.99,56.99,medium,low,9,namesilo,,,24/09/2026 01:55
 2bf6e011-5ac2-4971-b49c-11d00d5a502c,dotted.lease,available,14.99,71.99,medium,low,6,name.com,,,13/08/2026 18:28
-4ee73322-7cc4-4fd2-97d7-49a2bb1ac99e,accusation.lease,available,14.99,,high,low,10,name.com,,,
+4ee73322-7cc4-4fd2-97d7-49a2bb1ac99e,accusation.lease,available,44.71,44.71,medium,low,10,spaceship,,,28/09/2026 17:30
 e450dacd-1372-401b-a317-1832c60d71d3,spoken.lease,available,44.71,44.71,high,low,6,spaceship,,,28/09/2026 00:14
 613d00d2-3ac0-49bf-a00d-e5e18a696213,luanda.lease,available,58.98,73.98,medium,low,6,namecheap,,,19/09/2026 06:58
 adb79fc9-810d-4dc7-9246-1e5f8b1c7517,choke.lease,available,56.99,56.99,medium,low,5,namesilo,,,24/09/2026 14:43
+f9efcd1b-f97b-4034-b50f-277264aa6560,tex.lease,available,44.71,44.71,medium,low,3,spaceship,,,29/09/2026 03:26
 dce7429c-94c6-4138-9888-33193f64ae29,reginald.lease,available,56.99,56.99,high,low,8,namesilo,,,25/09/2026 15:10
 e0842a52-eed7-4e57-9e6c-b5c5679b1338,pier.lease,available,58.98,73.98,high,low,4,namecheap,,,28/09/2026 06:35
+984c8f0d-d09a-444e-b887-4311abf529a8,propeller.lease,available,56.99,56.99,high,low,9,namesilo,,,29/09/2026 01:54
 427a8960-3a4a-42df-b55c-ce07916a38bb,haircuts.lease,available,56.99,56.99,medium,low,8,namesilo,,,21/09/2026 07:16
 d11d5b76-dfa9-4bf5-9d6a-b2a9dc328ccb,expenses.lease,available,56.99,56.99,high,low,8,namesilo,,,27/09/2026 22:47
+3338d22a-10a9-44d5-8efa-2d8cfb827e73,steals.lease,available,58.98,73.98,medium,low,6,namecheap,,,28/09/2026 23:24
 74929893-c78f-46ca-9c8d-55335a1726bd,bennington.lease,available,56.99,56.99,high,low,10,namesilo,,,23/09/2026 08:33
+2bc79344-1c98-40d0-a926-c8a25970366f,inherit.lease,available,58.98,73.98,high,low,7,namecheap,,,28/09/2026 20:51
 80f54bbc-b4ee-4572-9883-68c760e0a75f,grumble.lease,available,14.99,71.99,high,low,7,name.com,,,20/08/2026 20:38
 5f50d4b4-d9f2-49a4-aeeb-85cb5d0d3dd7,vaccination.lease,available,14.99,,high,low,11,name.com,,,
 2de684a5-42c6-4e5c-9131-6e29540fd74b,amun.lease,available,58.98,73.98,medium,low,4,namecheap,,,18/09/2026 18:29
@@ -469,10 +514,11 @@ ee65394c-586c-4c8e-831d-0b6c176e1cd3,asimov.lease,available,56.99,56.99,high,low
 5e3c540f-605d-4cbc-ba7a-1122607868c4,favorably.lease,available,14.99,71.99,high,low,9,name.com,,,14/09/2026 18:00
 ab0ce602-6f28-4a21-948a-af4c4c5e9d78,ronnie.lease,available,58.98,73.98,high,low,6,namecheap,,,27/09/2026 07:42
 12c9c129-b8bd-4c43-932e-0f1ae5cf40fe,unstressed.lease,available,56.99,56.99,medium,low,10,namesilo,,,12/09/2026 20:37
+b626bcd8-a911-414c-8411-b1aa2abbf96b,ignorance.lease,available,43.2,43.2,medium,low,9,cloudflare,,,28/09/2026 10:08
 f9aea734-bd87-4747-8fda-38158a50d1d1,beat.lease,available,58.98,73.98,high,low,4,namecheap,,,22/09/2026 18:37
 e77306d8-26dd-40d3-bed9-a1a5d67abe43,adultery.lease,available,56.99,56.99,medium,low,8,namesilo,,,17/09/2026 10:25
 366389b8-8c9d-4006-9ce0-8b287a9113fd,masculine.lease,available,56.99,56.99,high,low,9,namesilo,,,25/09/2026 17:05
-2bee06fa-9be3-404c-8bea-411bea1c6795,cosmos.lease,available,14.99,,high,low,6,name.com,,,
+2bee06fa-9be3-404c-8bea-411bea1c6795,cosmos.lease,available,44.71,44.71,high,medium,6,spaceship,,,28/09/2026 10:55
 720fcab1-0cdd-419e-a545-0185fa993485,balmy.lease,available,56.99,56.99,high,low,5,namesilo,,,22/09/2026 08:11
 8a16b0c6-9bfc-4436-a525-4b41e52f0782,hourlong.lease,available,14.99,71.99,medium,low,8,name.com,,,21/08/2026 14:22
 e0d17177-892a-4bd7-8358-8dbf0a48b48d,signs.lease,available,56.99,56.99,high,low,5,namesilo,,,17/09/2026 04:39
@@ -482,9 +528,11 @@ d4cdcf7c-a717-48f1-935c-b829633fe47c,assured.lease,available,14.99,71.99,high,lo
 7a58d1ea-f2ce-4ab1-8efa-7847d10c91e0,embedded.lease,available,14.99,71.99,high,low,8,name.com,,,16/08/2026 08:42
 5c2f3af5-4287-4418-9dd1-1525b896c1dd,plus.lease,premium,118.8,118.8,high,medium,4,namesilo,,,27/09/2026 04:17
 c708558f-80ec-4518-a4f5-b002fb3bcedb,dyadic.lease,available,14.99,71.99,medium,low,6,name.com,,,14/08/2026 21:52
+8cb7900a-b2ad-4f6d-a40c-95950b99e870,pcb.lease,available,43.2,43.2,high,low,3,cloudflare,,,28/09/2026 17:13
 8ac31348-37b5-4c17-8030-df7736a342ad,leigh.lease,available,14.99,71.99,high,low,5,name.com,,,25/09/2026 08:55
 ab75f24d-b922-4f1e-8963-aa661028cd8a,mongoloid.lease,available,14.99,71.99,medium,low,9,name.com,,,25/08/2026 04:49
 559c1f9f-79c9-4b8c-825c-74c1fffa746c,usaf.lease,available,56.99,56.99,high,low,4,namesilo,,,25/09/2026 10:56
+956de68a-0c08-4cf2-9d82-56501fdf7f90,questioned.lease,available,56.99,56.99,low,low,10,namesilo,,,28/09/2026 08:50
 e1bc34ae-4db0-4817-9e0f-12bf4c5b57f2,winsome.lease,available,56.99,56.99,high,low,7,namesilo,,,13/09/2026 12:37
 232096c5-3977-4578-9e4c-701a05f0da38,acinic.lease,available,14.99,71.99,medium,low,6,name.com,,,
 cebbd751-5729-483f-8357-f61fbbd3afbc,submersed.lease,available,56.99,56.99,medium,low,9,namesilo,,,10/09/2026 23:32
@@ -499,6 +547,7 @@ bb54b89d-c871-423b-b430-5a5ec4df83a2,trapped.lease,available,14.99,71.99,medium,
 81e273ad-5f99-41a3-94b7-56c111dd983a,selfless.lease,available,56.99,56.99,high,low,8,namesilo,,,22/09/2026 02:51
 b01f50e2-b94b-44bb-9cd1-d42a6828d7ec,asshole.lease,available,14.99,71.99,medium,low,7,name.com,,,08/08/2026 23:24
 47901c12-74fc-4286-a9d5-7d129d4a04f3,depository.lease,available,56.99,56.99,high,low,10,namesilo,,,24/09/2026 21:58
+96019522-e700-4f3a-9025-ad2c139217da,celebrities.lease,available,44.71,44.71,medium,low,11,spaceship,,,28/09/2026 23:49
 2899de99-d13a-4c03-9a49-d701b6dbaea2,webmasters.lease,available,56.99,56.99,medium,low,10,namesilo,,,18/09/2026 23:06
 d034c37a-0a55-4b52-bc2d-560b76c57b02,algorism.lease,available,56.99,56.99,medium,low,8,namesilo,,,18/09/2026 07:14
 49f61923-18ce-4b75-b26c-f65c4852dffa,rook.lease,available,56.99,56.99,high,low,4,namesilo,,,14/09/2026 07:54
@@ -516,7 +565,9 @@ a6a714ca-445f-466e-810e-07d588de88db,helpful.lease,available,14.99,71.99,high,lo
 07d7e51f-a5d5-4086-bcf5-c2e3f0b1fdd2,typic.lease,available,56.99,56.99,medium,low,5,namesilo,,,11/09/2026 22:29
 6437a2d9-a8aa-4554-8102-482f6cdc48d5,introspections.lease,available,14.99,,low,low,14,name.com,,,
 8252b6bc-9f7e-4f71-9d82-2b4b55df8a07,unreserved.lease,available,58.98,73.98,medium,low,10,namecheap,,,12/09/2026 18:21
-84e73039-cf46-4263-a3df-2d1f667bed32,bird.lease,available,14.99,,high,medium,4,name.com,,,
+7d24387d-2c33-432c-b470-0b4058202062,functioning.lease,available,44.71,44.71,medium,low,11,spaceship,,,28/09/2026 21:19
+84e73039-cf46-4263-a3df-2d1f667bed32,bird.lease,available,56.99,56.99,high,medium,4,namesilo,,,29/09/2026 02:46
+db50cc83-f433-4bf4-9cb5-a5a0625232ac,stratigraphy.lease,available,8.24,46.23,medium,low,12,dynadot,,,28/09/2026 22:57
 c9cc7b4f-e39d-4b13-b9e9-1da26376e14a,hashtag.lease,available,14.99,,high,low,7,name.com,,,
 2293d7b7-6023-4416-9b76-a6268d960975,durable.lease,available,56.99,56.99,high,low,7,namesilo,,,24/09/2026 12:29
 f62dd4c0-bb70-44ed-bf35-0d35889c3bb0,casteless.lease,available,14.99,71.99,medium,low,9,name.com,,,11/08/2026 20:25
@@ -528,8 +579,9 @@ daa881cb-2da3-47d3-afa7-2c038b5389bb,genesee.lease,available,44.71,44.71,medium,
 2b5d73d4-0e54-4fa4-b66f-572a60048956,highest.lease,available,58.98,73.98,medium,low,7,namecheap,,,25/09/2026 16:49
 260d6fa8-f16a-45c6-b2bd-892cbeff6688,amora.lease,available,58.98,73.98,high,low,5,namecheap,,,18/09/2026 22:38
 579ac678-9666-4a17-ac15-03073536f1a8,aucuba.lease,available,56.99,56.99,medium,low,6,namesilo,,,21/09/2026 02:47
-b49d02b3-df3c-4df8-9f38-005e4fbae582,bolster.lease,available,14.99,,high,low,7,name.com,,,
+b49d02b3-df3c-4df8-9f38-005e4fbae582,bolster.lease,available,43.2,43.2,medium,low,7,cloudflare,,,29/09/2026 03:17
 a6207c61-d2cc-4f6a-aa85-e42c9a3b266d,dastard.lease,available,14.99,71.99,medium,low,7,name.com,,,13/08/2026 18:32
+1e22d209-0b7a-466c-bcff-f22502008baf,missouri.lease,premium,118.8,118.8,high,low,8,namesilo,,,28/09/2026 10:24
 848c5185-fcdc-491f-8beb-0fc213f79462,underwear.lease,available,14.99,,high,low,9,name.com,,,
 a9ea059d-681f-43ce-9b40-c64e941d68a6,nilpotent.lease,available,56.99,56.99,medium,low,9,namesilo,,,03/09/2026 17:28
 86395463-a975-494c-b2d5-9e490c2bd46b,giraffe.lease,available,14.99,,high,low,7,name.com,,,
@@ -544,18 +596,22 @@ f28a1da1-3fb7-4713-845d-1151a8f70da8,bureau.lease,available,56.99,56.99,high,low
 9cf98aaf-76e2-47d1-8e8d-4832ed521912,wizardly.lease,available,14.99,71.99,medium,low,8,name.com,,,24/08/2026 13:02
 5a206d05-a5fc-4bed-bbc3-2e2adc5705b6,indicates.lease,available,56.99,56.99,medium,low,9,namesilo,,,28/09/2026 08:19
 9aabf4a3-c846-44d2-9def-70551941fc2b,moonlike.lease,available,14.99,71.99,medium,low,8,name.com,,,25/08/2026 05:49
+3301879f-223b-48ad-a979-9d1a5be43bc2,orientation.lease,available,8.24,46.23,medium,low,11,dynadot,,,28/09/2026 22:40
 4ac1d019-4b36-4a82-8765-d81da04b4e87,irons.lease,available,14.99,,medium,low,5,name.com,,,
 2e3993f7-a12b-40e2-9947-1c1366c27459,limestone.lease,available,14.99,,high,low,9,name.com,,,
 71e33a0f-ec49-4de1-ba15-213204c73584,papered.lease,available,56.99,56.99,medium,low,7,namesilo,,,21/09/2026 10:14
 66942ba8-294c-4584-8143-27b966f53bde,pointer.lease,available,56.99,56.99,high,low,7,namesilo,,,20/09/2026 09:27
 bb399e00-508b-48f2-abe5-f5a9ed4bb884,batter.lease,available,56.99,56.99,high,low,6,namesilo,,,22/09/2026 14:16
 261c5bd0-72b5-4f9f-b962-57b8dea8ffd1,biro.lease,available,56.99,56.99,medium,low,4,namesilo,,,21/09/2026 23:23
+ce4831d5-cb06-4a59-9815-f817ae60b876,immunity.lease,available,56.99,56.99,high,low,8,namesilo,,,28/09/2026 14:20
 a14ac7a5-104c-4ca9-bc12-a563db8bce67,cryptic.lease,available,14.99,71.99,high,low,7,name.com,,,11/08/2026 12:17
 8bc67ce3-273b-4615-89aa-d40f255c9633,textile.lease,available,43.2,43.2,high,low,7,cloudflare,,,28/09/2026 02:25
+e663eb69-3f47-4d99-96bf-e3df85428a4d,elf.lease,available,56.99,56.99,high,low,3,namesilo,,,28/09/2026 13:59
 6fb7c91e-8ad6-446f-b3b4-ed7b0b26376d,organic.lease,premium,118.8,118.8,high,low,7,namesilo,,,08/09/2026 11:55
 cbbc9b59-40bc-4923-a9d6-893d4ba661eb,insightful.lease,available,14.99,71.99,high,low,10,name.com,,,22/08/2026 07:06
 3c2a38eb-f488-433a-9891-6e9d83631666,pies.lease,available,14.99,,medium,low,4,name.com,,,
-5dadeeaa-da42-41e8-9606-ce208427b27f,punter.lease,available,14.99,,medium,low,6,name.com,,,
+4539b0b5-6528-405d-b082-b7ed35b285b2,petra.lease,available,44.71,44.71,high,low,5,spaceship,,,28/09/2026 11:54
+5dadeeaa-da42-41e8-9606-ce208427b27f,punter.lease,available,43.2,43.2,medium,low,6,cloudflare,,,29/09/2026 02:17
 f05f9f3e-b87c-4f03-8220-b94d252ee9ab,tersely.lease,available,56.99,56.99,medium,low,7,namesilo,,,16/09/2026 08:13
 e14a2e86-880a-4b4c-8114-d9fe60d6b5fa,abele.lease,available,56.99,56.99,medium,low,5,namesilo,,,16/09/2026 15:02
 a085a349-24ba-4337-bbc4-3d383a719fd6,balletic.lease,available,14.99,71.99,medium,low,8,name.com,,,08/08/2026 10:26
@@ -570,13 +626,16 @@ a1733c19-35bd-4379-9d4f-2199ebe9437d,health.lease,premium,128.7,128.7,high,mediu
 8e44d6e3-857e-48f6-9c07-6283b98129c1,backyard.lease,available,56.99,56.99,high,low,9,namesilo,,,21/09/2026 16:22
 c4e59d49-af8e-4009-a023-bc644d22fe58,hands.lease,available,56.99,56.99,high,low,5,namesilo,,,08/09/2026 04:01
 bc3adac3-6a7f-4a7a-8f71-d1ec2dd29936,film.lease,premium,242,242,high,low,4,namesilo,,,28/09/2026 03:29
+d94e56b4-dbdb-46b8-91fe-0b8290c4d7d2,scenery.lease,available,56.99,56.99,medium,low,7,namesilo,,,28/09/2026 15:20
 5ebc2b3d-1d2f-4287-afcd-162969013674,unbalanced.lease,available,14.99,71.99,medium,low,10,name.com,,,11/08/2026 01:50
+4c7abd45-c785-4640-9f67-8793a71025b8,inuit.lease,available,56.99,56.99,medium,low,5,namesilo,,,28/09/2026 09:42
 b39bf084-e419-477c-8f79-7e551e8d7968,ferdinand.lease,available,56.99,56.99,high,low,9,namesilo,,,25/09/2026 05:57
 bbfaee33-48df-4365-bb54-d55905addbe3,pal.lease,available,14.99,,high,low,3,name.com,,,
 198d716a-dc16-483f-b8ce-fc653d1fe5b6,crochet.lease,available,56.99,56.99,high,low,7,namesilo,,,24/09/2026 19:40
 c027f374-fcf5-48af-bcbd-563ce621bf84,reticular.lease,available,56.99,56.99,medium,low,9,namesilo,,,09/09/2026 15:34
 e7c8f416-5994-4081-823f-35b06cc38c27,germicidal.lease,available,14.99,71.99,medium,low,10,name.com,,,08/08/2026 07:07
 82d4b8cb-5c06-4e7b-9839-40adacb4f4cd,intelligence.lease,available,44.71,44.71,high,medium,12,spaceship,,,28/09/2026 04:17
+e6a29adc-d903-4c38-aad9-7b877ba3a627,casa.lease,premium,218.8,437.19,high,low,4,porkbun,,,28/09/2026 20:54
 2fdeddff-4d7b-4437-8995-ad4d6949ff75,arkansan.lease,available,56.99,56.99,medium,low,8,namesilo,,,20/09/2026 06:11
 0fef6a47-92c8-4541-8a8c-fa4644483df8,calming.lease,available,58.98,73.98,high,low,7,namecheap,,,19/09/2026 20:28
 007a05e9-4176-44e0-b1a8-fac8ec19b399,uncordial.lease,available,56.99,56.99,medium,low,9,namesilo,,,12/09/2026 06:13
@@ -584,23 +643,27 @@ e7c8f416-5994-4081-823f-35b06cc38c27,germicidal.lease,available,14.99,71.99,medi
 94b08b6e-7ee7-4119-9984-6b1f78c338c9,auric.lease,available,14.99,71.99,medium,low,5,name.com,,,07/08/2026 17:36
 f9eb8cec-f6ca-4563-ae6e-da9b4567cf9a,rail.lease,available,14.99,,high,low,4,name.com,,,
 7445b4d1-42ea-4467-afba-935af1fac5e5,humanly.lease,available,56.99,56.99,high,low,7,namesilo,,,15/09/2026 01:20
+50ed3a20-888d-44a2-a57e-fcdbc41c663e,handicapped.lease,available,44.71,44.71,medium,low,11,spaceship,,,29/09/2026 03:14
 1575f264-a7ed-4060-8e50-daed0c8f58af,rolled.lease,available,14.99,71.99,high,low,6,name.com,,,18/08/2026 18:46
+849be0d4-690f-4668-9894-ff6bb2aaec6f,exploit.lease,available,44.71,44.71,high,low,7,spaceship,,,28/09/2026 19:08
 c0357922-a391-4e92-b72c-4ec6141d8501,contextual.lease,available,14.99,71.99,high,low,10,name.com,,,12/08/2026 23:13
 bd3d4f8c-74e8-429a-ac47-7af60e25d936,sanctum.lease,available,14.99,71.99,high,low,7,name.com,,,21/08/2026 10:47
 bb12e442-837b-4b16-88e3-b3f4186ce4dc,scouts.lease,available,8.24,46.23,high,low,6,dynadot,,,28/09/2026 04:05
 043c9ee1-5ccd-4739-8ec0-fa48fc911bc6,flame.lease,available,58.98,73.98,high,low,5,namecheap,,,24/09/2026 19:16
-28bb53a1-7436-41bb-8101-969609c6e5dc,large.lease,available,56.99,56.99,high,low,5,namesilo,,,23/09/2026 09:13
+28bb53a1-7436-41bb-8101-969609c6e5dc,large.lease,available,56.99,56.99,high,low,5,namesilo,,,28/09/2026 08:32
 e0e056b3-dead-44c1-8986-96213474b55b,goldberg.lease,available,56.99,56.99,high,low,8,namesilo,,,25/09/2026 06:35
 e488a34f-ddd9-4714-a918-028a16d7a33f,radioed.lease,available,56.99,56.99,medium,low,7,namesilo,,,20/09/2026 15:44
 6bc85bab-c084-4139-b165-adda5af480cf,smelling.lease,available,44.71,44.71,high,low,8,spaceship,,,27/09/2026 22:56
 980f13c3-654f-4f05-b3ff-bc8b23344135,belau.lease,available,56.99,56.99,medium,low,5,namesilo,,,23/09/2026 04:30
+18bb1a98-119f-40d8-819f-cb5573756ab6,politically.lease,available,56.99,56.99,medium,low,11,namesilo,,,28/09/2026 11:12
 ef22d15d-fafb-4be9-b051-11ee70e134d6,powerhouse.lease,available,56.99,56.99,high,low,10,namesilo,,,21/09/2026 22:33
 7f6f034c-38be-40e2-b6cd-15b2aed1fd49,marin.lease,available,56.99,56.99,high,low,5,namesilo,,,25/09/2026 15:45
-38008c30-1519-4757-bfdf-46056465866e,jointly.lease,available,14.99,,high,low,7,name.com,,,
+38008c30-1519-4757-bfdf-46056465866e,jointly.lease,available,56.99,56.99,medium,low,7,namesilo,,,28/09/2026 14:08
 14f24f17-d0c1-44a3-9a0a-134a0fd989ea,chirp.lease,available,56.99,56.99,high,low,5,namesilo,,,24/09/2026 14:08
 4da245ad-083e-44e9-8e58-0cc9f5a3fba6,imperative.lease,available,56.99,56.99,high,low,10,namesilo,,,08/09/2026 04:44
 b317b681-c106-427b-b383-992e886c42d8,bigness.lease,available,56.99,56.99,medium,low,7,namesilo,,,23/09/2026 15:14
 60e96196-d25e-40e5-b578-e16d0575eab1,comal.lease,available,14.99,71.99,medium,low,5,name.com,,,12/08/2026 18:23
+4e0999ac-37fe-4264-a159-8d516c824e5b,adirondack.lease,available,56.99,56.99,medium,low,10,namesilo,,,28/09/2026 21:35
 4c11e0b9-063d-477a-b47d-61dcb97c7d8f,dorchester.lease,available,58.98,73.98,medium,low,10,namecheap,,,27/09/2026 07:30
 0c1b760e-1f95-42e4-8584-9eb6383cb51d,glaucous.lease,available,14.99,71.99,medium,low,8,name.com,,,20/08/2026 14:16
 89f80f6d-8365-4c05-bbe8-7765f35c8817,cephalopod.lease,available,14.99,71.99,medium,low,10,name.com,,,12/08/2026 00:21
@@ -611,12 +674,13 @@ b317b681-c106-427b-b383-992e886c42d8,bigness.lease,available,56.99,56.99,medium,
 09ae55fc-467b-4a66-bb3b-029fef485cea,feline.lease,available,14.99,71.99,high,low,6,name.com,,,18/08/2026 00:53
 215384d9-23f4-4453-ae7d-da4668c679c3,aldebaran.lease,available,58.98,73.98,medium,low,9,namecheap,,,18/09/2026 04:20
 8ee5044f-9e10-4197-8418-e511758db703,owe.lease,available,14.99,,high,low,3,name.com,,,
-fd947dca-9911-423f-a98d-ecbeb7d5d04e,library.lease,premium,123.75,123.75,high,low,7,name.com,,,23/09/2026 17:30
+fd947dca-9911-423f-a98d-ecbeb7d5d04e,library.lease,premium,102.67,102.67,high,low,7,spaceship,,,28/09/2026 08:46
 bc8a5346-1736-43b6-a30c-238265927198,matches.lease,available,56.99,56.99,high,low,7,namesilo,,,18/09/2026 17:25
 58e642cb-2cdc-4698-996d-4c3242219461,activator.lease,available,56.99,56.99,high,low,9,namesilo,,,17/09/2026 05:10
 e78cbe57-732b-4e23-8617-8c7f96942812,wegener.lease,available,58.98,73.98,medium,low,7,namecheap,,,18/09/2026 06:39
 5f740003-7731-43a5-a92e-b161166e9c3d,embarrassed.lease,available,58.98,73.98,medium,low,11,namecheap,,,27/09/2026 06:32
 001b58d3-3280-4f2f-99df-2c15bf4821e5,office.lease,resell,,,high,medium,6,Porkbun LLC,03/12/2019 12:43,03/12/2026 12:43,28/09/2026 05:35
+5dc59042-d0dd-4a15-a975-c47d65ff9e3d,tian.lease,available,56.99,56.99,medium,low,4,namesilo,,,28/09/2026 16:02
 b8cc362e-193e-4818-8af3-e2a3d97989d9,schematic.lease,available,56.99,56.99,high,low,9,namesilo,,,09/09/2026 23:02
 21cdaed3-5bdb-4d6b-a88c-cd3ab4937511,bipolar.lease,available,14.99,71.99,high,low,7,name.com,,,10/08/2026 05:30
 f19e8ab6-65be-406f-a925-75d459ee093a,feminism.lease,available,14.99,,high,low,8,name.com,,,
@@ -630,22 +694,25 @@ dd26d677-dc3b-4897-a89a-3ba86be3e11a,francisca.lease,available,14.99,,high,low,9
 cba48538-b8e4-4521-bc0c-9d75cc72e680,anson.lease,available,8.24,46.23,medium,low,5,dynadot,,,28/09/2026 07:57
 649da051-7cf3-45e4-afe8-308749f4ae00,bionic.lease,available,14.99,71.99,high,low,6,name.com,,,10/08/2026 02:17
 62d54af0-1374-4613-9b7e-b48a05271e1f,paint.lease,available,14.99,,high,low,5,name.com,,,
-9cc1e50c-e1ff-45aa-b4d7-fc46671055a1,maybe.lease,available,14.99,,high,low,5,name.com,,,
+9cc1e50c-e1ff-45aa-b4d7-fc46671055a1,maybe.lease,available,58.98,73.98,high,low,5,namecheap,,,28/09/2026 16:19
 193b2d8e-ae85-4b33-a67e-417e5c0f26e0,baldachin.lease,available,58.98,73.98,medium,low,9,namecheap,,,21/09/2026 21:30
 0908290e-d8e0-4f60-8b6a-8dba46cb10eb,uniquely.lease,available,58.98,73.98,high,low,8,namecheap,,,16/09/2026 10:06
 39abd0e9-1628-4d6e-a548-f455d86da1fc,showing.lease,available,56.99,56.99,high,low,7,namesilo,,,25/09/2026 10:36
 24796586-75c8-4bfe-b799-4fc3588672d6,http.lease,available,,,high,high,4,,,,
 5a13ae30-b0d2-41e1-b455-b808edea6cd6,tatum.lease,available,14.99,71.99,high,low,5,name.com,,,20/09/2026 10:00
+70150300-d4e0-40b6-872b-03ff8b55f406,mates.lease,available,8.24,46.23,high,low,5,dynadot,,,28/09/2026 10:21
 65708b53-8aed-48da-8d4e-34e1dd58b0cc,als.lease,available,56.99,56.99,high,low,3,namesilo,,,18/09/2026 14:14
+fdd8e257-10f5-4d09-9737-d37869f766ed,intern.lease,available,44.71,44.71,high,low,6,spaceship,,,28/09/2026 14:28
 09867963-d5a9-4688-a371-753cdb5381fd,hagen.lease,available,43.2,43.2,high,low,5,cloudflare,,,27/09/2026 20:14
 ed0f9b43-e524-45a8-8683-191be8760c50,california.lease,premium,242,242,high,low,10,namesilo,,,
 2497d79e-dc79-4f21-84fb-6fd88dd0c51a,counts.lease,available,58.98,73.98,high,low,6,namecheap,,,18/09/2026 18:14
 dcd91059-721d-45ce-8ba7-d1929378cf78,mention.lease,available,14.99,,high,low,7,name.com,,,
-74ac3e13-dd94-4f40-838d-6953f8d423d8,egg.lease,available,14.99,,high,low,3,name.com,,,
+ebd5f16f-bfd7-4b94-b927-398feb5e3532,comrades.lease,available,43.2,43.2,medium,low,8,cloudflare,,,28/09/2026 13:07
+74ac3e13-dd94-4f40-838d-6953f8d423d8,egg.lease,available,43.2,43.2,high,low,3,cloudflare,,,29/09/2026 00:46
 810abf45-be8d-4304-b0f7-50bf5cd1852d,snappy.lease,available,14.99,71.99,high,low,6,name.com,,,11/08/2026 04:32
 e026443c-2ca5-4666-b2c7-a569e7878436,curatorial.lease,available,14.99,71.99,medium,low,10,name.com,,,13/08/2026 11:03
 45f7cf82-bab4-4654-93c7-6c08c2b2a3c2,beamish.lease,available,14.99,71.99,medium,low,7,name.com,,,09/08/2026 04:08
-76539a60-634e-4ebf-a1dd-279dd000c487,treating.lease,available,58.98,73.98,high,low,8,namecheap,,,23/09/2026 18:53
+76539a60-634e-4ebf-a1dd-279dd000c487,treating.lease,available,44.71,44.71,medium,low,8,spaceship,,,28/09/2026 08:47
 66259831-c5ae-45d6-b52f-46530750a95e,liberate.lease,available,14.99,71.99,high,low,8,name.com,,,18/08/2026 14:32
 f06f4012-5145-4be3-8d61-69ead0a8482d,ncaa.lease,available,58.98,73.98,high,low,4,namecheap,,,27/09/2026 07:11
 484589a4-c8fe-45a4-8037-25348e8fbafc,thirteen.lease,available,56.99,56.99,high,low,8,namesilo,,,21/09/2026 11:32
@@ -682,19 +749,23 @@ f5fa92ab-d2a0-4693-a2f1-29676642f10c,acrostic.lease,available,56.99,56.99,medium
 130612cb-4585-453b-8c5b-2c32a006675d,endovenous.lease,available,14.99,71.99,medium,low,10,name.com,,,17/08/2026 01:21
 71ecab36-0f5e-4992-a8d1-685c916f66a1,accordant.lease,available,14.99,71.99,high,low,9,name.com,,,
 af795a06-013e-4349-9ad4-fe51290fd521,bandsaw.lease,available,56.99,56.99,high,low,7,namesilo,,,22/09/2026 00:49
+683e255b-6d29-46ef-917b-b5e62891cd28,eunice.lease,available,44.71,44.71,medium,low,6,spaceship,,,29/09/2026 03:57
 aa71565f-94aa-4023-933e-6142160a186c,jabiru.lease,available,56.99,56.99,medium,low,6,namesilo,,,23/09/2026 23:50
 1807af14-0635-45c1-be02-7c44d5786453,semipublic.lease,available,56.99,56.99,medium,low,10,namesilo,,,10/09/2026 03:17
 8b7a044c-a7b3-43d9-beca-2ec7ee692894,comfy.lease,available,56.99,56.99,high,low,5,namesilo,,,23/09/2026 15:10
 e473cabf-678b-41ca-b8b3-67ff9f882b7c,colorfast.lease,available,14.99,71.99,medium,low,9,name.com,,,12/08/2026 17:50
+73d8da52-873d-4050-b9cd-964bf232b474,helicopters.lease,available,44.71,44.71,low,low,11,spaceship,,,28/09/2026 18:00
 1b23386a-5c44-4209-a038-c5773439d9c2,favored.lease,available,58.98,73.98,high,low,7,namecheap,,,22/09/2026 20:01
 c776bea0-af33-494a-87de-a8bd96d42421,aficionado.lease,available,58.98,73.98,high,low,10,namecheap,,,17/09/2026 15:01
 30e2d819-d039-47be-8e93-2a6578f3b9d8,sinless.lease,available,14.99,71.99,medium,low,7,name.com,,,21/08/2026 21:57
 b69891d7-d32c-45a2-89f5-50992ae9613b,militant.lease,available,14.99,71.99,high,low,8,name.com,,,
 7f0ae7af-444a-47cd-8f79-ca78973ee107,hoard.lease,available,14.99,71.99,medium,low,5,name.com,,,12/08/2026 16:57
+8cdb301b-6d26-4e0d-807a-58a3b3fb80e4,wrath.lease,available,44.71,44.71,medium,low,5,spaceship,,,28/09/2026 20:48
+4e698fef-5111-4157-9073-c2ce56d4ac04,temptation.lease,available,56.99,56.99,high,low,10,namesilo,,,28/09/2026 09:41
 16be5a08-cf1b-474a-9d08-5baf513f26aa,acceptor.lease,available,56.99,56.99,high,low,8,namesilo,,,16/09/2026 22:02
 f79a6ae8-b7cc-469f-84f3-325652009486,unfunny.lease,available,56.99,56.99,medium,low,7,namesilo,,,12/09/2026 11:05
-8e007c8a-c206-41d0-9f4d-ac7344136451,mentoring.lease,available,56.99,56.99,high,low,9,namesilo,,,26/09/2026 00:53
-1117a2db-f1fa-4a1a-92be-184e69bc389c,ally.lease,available,,,high,high,4,,,,
+f770f6c7-d323-40d5-a8cf-944bea4f36f9,toilets.lease,available,56.99,56.99,low,low,7,namesilo,,,28/09/2026 23:58
+8e007c8a-c206-41d0-9f4d-ac7344136451,mentoring.lease,available,56.99,56.99,high,low,9,namesilo,,,28/09/2026 22:55
 8977c304-d4e9-4e7f-b87c-adf445396da7,tenner.lease,available,58.98,73.98,medium,low,6,namecheap,,,21/09/2026 10:53
 2326ea60-b8e4-406e-b007-fb460fac54a6,alienated.lease,available,14.99,71.99,medium,low,9,name.com,,,
 8b7eab5f-24cc-4604-9b6a-02b1c0b4c8ef,copyright.lease,available,58.98,73.98,high,low,9,namecheap,,,24/09/2026 18:10
@@ -713,9 +784,11 @@ c42556e7-7efb-4ff2-b182-4c6c3faadf56,villainous.lease,available,56.99,56.99,medi
 2795ca83-39d1-4684-8017-f223534f5cf5,hausen.lease,available,58.98,73.98,medium,low,6,namecheap,,,17/09/2026 01:50
 5f7579e7-27b6-4dc3-8bd4-558d719fe49e,transaction.lease,available,56.99,56.99,high,low,11,namesilo,,,28/09/2026 02:31
 efd803ff-c51b-401f-8473-13db9a8fe18d,ruddy.lease,available,14.99,71.99,high,low,5,name.com,,,10/08/2026 14:59
+0dc34e9b-d03e-4a34-acbd-44afb88d6c77,takeover.lease,premium,,,high,low,8,,,,28/09/2026 18:48
 2aba4243-48eb-4122-b4dd-0ae7a5db6e46,pellucid.lease,available,14.99,71.99,high,low,8,name.com,,,13/08/2026 09:44
 a3e43cf0-8af4-40e7-a298-9af382164617,loony.lease,available,14.99,71.99,medium,low,5,name.com,,,06/08/2026 21:17
 d94d1169-9b9b-4054-9670-591edd17d533,surfers.lease,available,58.98,73.98,medium,low,7,namecheap,,,20/09/2026 02:01
+35ded755-059e-4d64-803a-1b69421c1009,nat.lease,available,56.99,56.99,high,low,3,namesilo,,,28/09/2026 15:51
 5585a80c-e860-40ba-8e1a-bbf4247f32e1,breakthrough.lease,available,44.71,44.71,high,low,12,spaceship,,,28/09/2026 07:10
 8954b460-39b3-4709-86af-f308003c51df,apodeme.lease,available,58.98,73.98,medium,low,7,namecheap,,,19/09/2026 18:17
 24fba6b9-c7f7-4913-983a-32404e3c1002,mournfully.lease,available,56.99,56.99,medium,low,10,namesilo,,,15/09/2026 15:33
@@ -724,8 +797,9 @@ ef472186-676d-4016-9806-9f91bf884a8a,chris.lease,available,56.99,56.99,high,medi
 3b8c7178-f301-4152-a4b0-4e49b7da5232,guillaume.lease,available,56.99,56.99,high,low,9,namesilo,,,28/09/2026 04:52
 0960a96f-f4e1-4edd-ac55-fb14aa4fa3ec,described.lease,available,56.99,56.99,high,low,9,namesilo,,,24/09/2026 06:37
 86c078db-ec87-40b3-b8a6-5773fd0a2037,watch.lease,premium,242,242,high,low,5,namesilo,,,
-bb407d04-42a5-4216-a036-414a690f8f83,opera.lease,available,56.99,56.99,high,low,5,namesilo,,,25/09/2026 02:37
+bb407d04-42a5-4216-a036-414a690f8f83,opera.lease,available,56.99,56.99,high,low,5,namesilo,,,28/09/2026 10:47
 4930e172-8bbe-47a5-aca8-8a125647901c,oxidised.lease,available,56.99,56.99,medium,low,8,namesilo,,,04/09/2026 22:28
+4d1799ad-fb77-41e1-8ff5-6951f8e01560,locations.lease,premium,118.8,118.8,medium,low,9,namesilo,,,28/09/2026 17:11
 74fc789a-0865-4084-9867-c6f97a2bf549,meditative.lease,available,14.99,71.99,high,low,10,name.com,,,11/08/2026 05:56
 9d0f2030-e92a-4b09-967f-0c9e4cab4b42,personnel.lease,available,58.98,73.98,high,low,9,namecheap,,,27/09/2026 15:14
 7aabfa90-1563-4f83-8a43-bc40243209cf,yank.lease,available,56.99,56.99,high,low,4,namesilo,,,13/09/2026 14:14
@@ -742,6 +816,7 @@ bbbbdd2b-6c44-4e29-ae5f-1d10d73d6f41,lutetium.lease,available,56.99,56.99,medium
 813e38ee-b522-465b-ad6b-cbce9250d4c5,crossways.lease,available,56.99,56.99,medium,low,9,namesilo,,,14/09/2026 09:48
 659c3bc9-ce8d-4d2e-8b25-6dab444c286e,avocation.lease,available,58.98,73.98,medium,low,9,namecheap,,,21/09/2026 09:37
 212f385e-ecb2-485e-ba78-2c8812b4a8fc,browne.lease,available,56.99,56.99,high,low,6,namesilo,,,20/09/2026 10:27
+3c076680-9d92-47a4-9eb1-f73123b052ba,cfr.lease,available,43.2,43.2,medium,low,3,cloudflare,,,28/09/2026 11:55
 fb224798-a8ae-4812-8c38-c95af650fdd4,camouflage.lease,available,14.99,,high,low,10,name.com,,,
 6f8fac3c-74f1-484b-b0ed-5077bede3f6b,capacious.lease,available,14.99,71.99,medium,low,9,name.com,,,11/08/2026 17:47
 87fb3236-bb88-4600-88b2-9daff989d58f,wimpy.lease,available,56.99,56.99,medium,low,5,namesilo,,,13/09/2026 12:06
@@ -753,6 +828,8 @@ cb37c4b7-7376-4a9c-b0f2-810d0ef79750,lovable.lease,available,14.99,71.99,high,lo
 df929c7c-957d-42f4-94bb-345430f113ca,schuyler.lease,available,44.71,44.71,medium,low,8,spaceship,,,28/09/2026 04:05
 7d88ae87-7494-4e68-915a-bb0481771517,fizzing.lease,available,14.99,71.99,medium,low,7,name.com,,,18/08/2026 06:02
 463b78ae-2c0e-40da-96bf-e0d715614c8c,fucking.lease,available,56.99,56.99,high,low,7,namesilo,,,24/09/2026 22:07
+1b54b988-0dea-45c4-a646-2cf6d3df3c04,periods.lease,available,58.98,73.98,medium,low,7,namecheap,,,28/09/2026 18:01
+44843a26-9cb7-4cef-ace5-308f437b5aca,patty.lease,available,44.71,44.71,high,low,5,spaceship,,,28/09/2026 20:09
 4ad2e363-a0f3-4d4b-b9bf-d29b9e1b6f6f,bitis.lease,available,56.99,56.99,medium,low,5,namesilo,,,23/09/2026 22:37
 aeee09c9-6841-412e-b315-9dfc3fac15cd,chapter.lease,available,58.98,73.98,high,low,7,namecheap,,,24/09/2026 13:43
 04ebcbc2-a3fa-43f5-8133-187d94fd5a07,centenary.lease,available,14.99,71.99,high,low,9,name.com,,,11/08/2026 23:54
@@ -761,6 +838,7 @@ aeee09c9-6841-412e-b315-9dfc3fac15cd,chapter.lease,available,58.98,73.98,high,lo
 9ceba409-8baf-4d4d-8651-f42b0ad0f9ad,kidney.lease,available,14.99,,high,low,6,name.com,,,
 a2eb2534-bee9-4d7f-8665-53b75ba86228,arouet.lease,available,56.99,56.99,medium,low,6,namesilo,,,20/09/2026 08:30
 f112675e-61ec-4e73-b4d1-fc4e2ff9eda1,ceaseless.lease,available,14.99,71.99,medium,low,9,name.com,,,11/08/2026 23:01
+787cff4c-921f-4517-948b-9a84e8903203,convoy.lease,available,56.99,56.99,medium,low,6,namesilo,,,28/09/2026 13:45
 04dde9b2-7b30-44e7-9469-05b70aa144c4,argali.lease,available,56.99,56.99,medium,low,6,namesilo,,,20/09/2026 04:09
 de0b3549-e95a-497b-9635-1bddd91cbc3b,ableism.lease,available,56.99,56.99,medium,low,7,namesilo,,,16/09/2026 16:10
 518d0b1c-2dd0-434c-8eeb-fa982c64dbee,tarry.lease,available,56.99,56.99,medium,low,5,namesilo,,,09/09/2026 15:16
@@ -768,13 +846,16 @@ de0b3549-e95a-497b-9635-1bddd91cbc3b,ableism.lease,available,56.99,56.99,medium,
 6f979eba-1235-4c07-91cf-c0e75096f36a,mann.lease,available,58.98,73.98,high,low,4,namecheap,,,25/09/2026 07:33
 309e307f-1a2d-4c89-ba40-0adbc496266f,plucked.lease,available,58.98,73.98,medium,low,7,namecheap,,,08/09/2026 21:28
 c67adb10-2e19-4d5b-bd09-7cc4f8e50fc8,samples.lease,available,56.99,56.99,medium,low,7,namesilo,,,20/09/2026 18:39
+d4d8d89a-c723-4c3f-9f21-a82c8937c910,bromley.lease,available,58.98,73.98,medium,low,7,namecheap,,,28/09/2026 17:16
 56427a77-1ae5-4b7d-861b-b2131c845de0,mutually.lease,available,56.99,56.99,medium,low,8,namesilo,,,15/09/2026 15:56
 34dcd988-dd71-4002-9315-31ad7cd6e76b,fry.lease,available,14.99,71.99,high,low,3,name.com,,,25/08/2026 00:16
 a1b7ce96-9f38-4d86-b06c-77263d85e52e,ghostly.lease,available,14.99,71.99,medium,low,7,name.com,,,06/08/2026 05:28
 d0798304-0ea3-495b-92b9-00be49f634c4,benefactor.lease,available,56.99,56.99,high,low,10,namesilo,,,23/09/2026 07:53
 43d9a421-2575-416d-8832-94d655c12ef0,tusked.lease,available,58.98,73.98,medium,low,6,namecheap,,,11/09/2026 21:29
 5905a722-954b-4310-a3c4-d50a4903fc87,bbc.lease,available,,,high,medium,3,,,,
+7aa52101-fc8a-4812-8797-1231a292f66e,inclined.lease,available,44.71,44.71,medium,low,8,spaceship,,,28/09/2026 21:12
 93be8047-b549-42a4-9676-0b32d336f56d,standby.lease,available,56.99,56.99,high,low,8,namesilo,,,10/09/2026 18:37
+22eaa34e-5519-4cb0-9ff7-349a2bc994bb,hobson.lease,available,56.99,56.99,medium,low,6,namesilo,,,28/09/2026 12:14
 41abdc53-d3ee-410c-92a1-8fa8a5cb2210,labored.lease,available,14.99,71.99,medium,low,7,name.com,,,22/08/2026 17:34
 f93867b4-80a3-4861-a952-fd147965902c,colbert.lease,available,44.71,44.71,medium,low,7,spaceship,,,27/09/2026 12:41
 47f9ce62-8477-415f-a1c2-8adcedc0552f,strengths.lease,available,56.99,56.99,medium,low,9,namesilo,,,18/09/2026 22:25
@@ -787,8 +868,10 @@ e3f7b3ef-a006-4277-862e-cd2815e5a249,acores.lease,available,58.98,73.98,medium,l
 913833d9-db50-4850-90d3-706c4e495bad,nutcase.lease,available,14.99,71.99,medium,low,7,name.com,,,13/08/2026 05:36
 b2b63673-c4b7-4524-95c5-94f65887ea00,desecrated.lease,available,14.99,71.99,medium,low,10,name.com,,,14/08/2026 03:18
 edc33998-372f-49a0-aa5a-18ec41278a6e,cheddar.lease,available,14.99,71.99,high,low,7,name.com,,,18/09/2026 19:29
+b20df87f-f1f8-4616-99d3-b618b8f98e20,bala.lease,available,56.99,56.99,medium,low,4,namesilo,,,28/09/2026 22:20
 b910d049-98f9-491a-af98-f5607dbded01,towns.lease,available,43.2,43.2,high,low,5,cloudflare,,,28/09/2026 07:32
 35495a78-95f2-4230-ad1a-a6485fb2b91e,remembers.lease,available,56.99,56.99,medium,low,9,namesilo,,,28/09/2026 00:17
+a630389a-3181-474c-b996-4ed46a0efcde,shifts.lease,available,44.71,44.71,medium,low,6,spaceship,,,28/09/2026 09:05
 04e32496-6846-450e-81f3-5c57eb8b5f6e,ricardo.lease,available,56.99,56.99,high,low,7,namesilo,,,25/09/2026 04:47
 6c6d5603-ec10-408f-93a1-21b6e2c6e768,treed.lease,available,14.99,71.99,medium,low,5,name.com,,,07/08/2026 11:13
 0bbd1197-e84e-406c-8eff-b5d6deda3062,pops.lease,available,58.98,73.98,high,low,4,namecheap,,,18/09/2026 21:55
@@ -800,12 +883,14 @@ da79c818-69ad-47a3-9bf3-6f1cd57df2aa,backward.lease,available,56.99,56.99,high,l
 67191e95-5bcb-473a-b5f1-441f9b8fc593,parve.lease,available,56.99,56.99,medium,low,5,namesilo,,,08/09/2026 01:27
 03e479b0-bea9-416e-9d7d-107867462ff9,tantric.lease,available,56.99,56.99,high,low,7,namesilo,,,11/09/2026 08:05
 17e38b24-5269-416a-b28b-7731b9ba9c97,ensure.lease,available,14.99,,high,low,6,name.com,,,
+ad091be1-eace-4ec8-b893-6835c93cc875,timetable.lease,available,44.71,44.71,high,low,9,spaceship,,,28/09/2026 20:39
 964b914e-a6d9-4630-b9db-2c51ebee02f5,infatuated.lease,available,14.99,71.99,high,low,10,name.com,,,16/08/2026 21:11
 83060053-9d51-4d6a-ab03-42dbe272d42d,autotroph.lease,available,56.99,56.99,medium,low,9,namesilo,,,21/09/2026 07:36
 36d960c9-2f62-46e8-8054-327fd5663b97,diagram.lease,available,56.99,56.99,high,low,7,namesilo,,,24/09/2026 22:08
 32e092c3-e2b4-489c-9481-12723135fce4,braided.lease,available,14.99,71.99,high,low,7,name.com,,,11/08/2026 01:28
 3ec816e1-c2c9-47ca-8e96-eccd64d7c095,veto.lease,available,56.99,56.99,high,low,4,namesilo,,,03/09/2026 15:01
 17ea2826-085c-47ab-8aee-4092f1269347,erotic.lease,available,14.99,71.99,high,low,6,name.com,,,17/08/2026 12:42
+a6622c9b-593e-433d-b478-1d2ecd707171,hopper.lease,available,44.71,44.71,high,low,6,spaceship,,,28/09/2026 09:55
 61af2a73-e9e6-4500-999a-839aae498c51,carotid.lease,available,14.99,71.99,high,low,7,name.com,,,11/08/2026 19:33
 6ed73daf-099d-4961-afae-0089393405d8,dysprosium.lease,available,58.98,73.98,medium,low,10,namecheap,,,20/09/2026 23:28
 5c24040e-0999-454a-a4ff-ab3c64c36655,pertinence.lease,available,56.99,56.99,medium,low,10,namesilo,,,19/09/2026 21:52
@@ -821,7 +906,9 @@ d87078c6-f67b-471e-a03a-bc71cc90cf28,immortal.lease,available,14.99,71.99,high,l
 f4971331-72a5-492d-8f01-59bffe1960cb,tamable.lease,available,56.99,56.99,medium,low,7,namesilo,,,11/09/2026 07:36
 258617c8-8794-4b8e-a826-2f37e1c5140e,carven.lease,available,14.99,71.99,medium,low,6,name.com,,,11/08/2026 19:59
 51af5666-952a-42ea-9b2c-3125423ef3a3,francois.lease,available,56.99,56.99,high,low,8,namesilo,,,27/09/2026 07:39
+d436760a-999a-4627-9e4e-407d45fc9850,della.lease,available,44.71,44.71,medium,low,5,spaceship,,,29/09/2026 04:03
 2077b5cd-7300-4de1-afdb-78ed4de29c99,devoting.lease,available,58.98,73.98,medium,low,8,namecheap,,,17/09/2026 17:04
+1ff5ca93-e34c-4cbc-bb68-6fc8438e9060,propaganda.lease,available,44.71,44.71,high,low,10,spaceship,,,28/09/2026 15:08
 a7844469-9648-41bf-83c0-b8ab1348430d,backside.lease,available,14.99,71.99,medium,low,8,name.com,,,09/08/2026 10:44
 9a827f18-5c7a-4a0b-8ccf-aa5d38b2efb8,bounteous.lease,available,14.99,71.99,high,low,9,name.com,,,09/08/2026 20:50
 37f68fb4-271b-45eb-a9fc-03e73e25422d,peaceable.lease,available,14.99,71.99,high,low,9,name.com,,,08/09/2026 11:08
@@ -850,6 +937,7 @@ e3337712-f77e-4634-9349-4314294b67fb,poultry.lease,available,58.98,73.98,high,lo
 f21dd8b5-88c5-4965-970d-3ec9e550ed37,redberry.lease,available,56.99,56.99,medium,low,8,namesilo,,,17/09/2026 04:20
 54cbbd24-4962-4c5f-ae2a-fd370e23886e,sweetsop.lease,available,58.98,73.98,medium,low,8,namecheap,,,19/09/2026 10:27
 2f1541da-8a8a-4938-b794-ee0a2b24fac1,perceived.lease,available,56.99,56.99,high,low,9,namesilo,,,27/09/2026 03:28
+bea74d5e-22e2-43a4-b7f6-320f41352337,plaque.lease,available,56.99,56.99,high,low,6,namesilo,,,29/09/2026 01:38
 2f0a9c85-2a7f-4f42-8a4a-db46bfce52d7,tasman.lease,available,56.99,56.99,medium,low,6,namesilo,,,16/09/2026 14:58
 d55cc00a-4cd1-4bf9-bf34-46dc94af0fd6,cult.lease,available,58.98,73.98,high,medium,4,namecheap,,,24/09/2026 19:17
 90ba1284-35df-48cb-b8c1-25631147eb00,aggregator.lease,available,56.99,56.99,high,low,10,namesilo,,,17/09/2026 17:29
@@ -861,19 +949,21 @@ a5caa92a-6928-4dcf-a9e3-c9bdf19abb6e,inevitably.lease,available,56.99,56.99,medi
 dc267d2e-3f88-40a7-8ed5-07b5bb9f6b6f,ailing.lease,available,14.99,71.99,high,low,6,name.com,,,
 f1200d2a-506b-4bdb-98be-c738d146d560,amphibious.lease,available,14.99,71.99,medium,low,10,name.com,,,
 8eb3f2b9-7ec3-456c-984e-8bd6ffec1439,babylonia.lease,available,58.98,73.98,high,low,9,namecheap,,,21/09/2026 13:51
-4949ad19-f817-4d12-a12d-be5cc919ac8e,wound.lease,available,14.99,,high,low,5,name.com,,,
+4949ad19-f817-4d12-a12d-be5cc919ac8e,wound.lease,available,56.99,56.99,high,low,5,namesilo,,,28/09/2026 11:06
 ff68e780-8158-42a2-ae98-531d5a8b00c9,haunted.lease,available,14.99,71.99,high,low,7,name.com,,,21/08/2026 01:31
 d64fb7b9-dd8b-4cf6-95f5-b5206d2ef4f8,recreate.lease,available,56.99,56.99,high,low,8,namesilo,,,24/09/2026 14:10
 84a6d41e-88e1-4da4-8e2b-de94aa50f6a7,studs.lease,available,14.99,,high,low,5,name.com,,,
 396128ae-8aaa-46b8-8e13-600584380fec,cone.lease,available,14.99,,high,low,4,name.com,,,
 30990348-dc20-463f-95a5-054b6f6cbeb9,bizet.lease,available,56.99,56.99,medium,low,5,namesilo,,,23/09/2026 23:23
 36a0a5df-6b35-419c-ba03-c2bd085e664d,nonlinear.lease,available,14.99,71.99,medium,low,9,name.com,,,03/09/2026 19:44
+4f4ece9d-8b92-4dfe-9362-fdcce97c52ba,producers.lease,available,43.2,43.2,medium,low,9,cloudflare,,,28/09/2026 23:09
 c95c7b98-715c-4494-b981-79c6b2b84a7e,bigger.lease,available,58.98,73.98,high,low,6,namecheap,,,22/09/2026 20:34
 ae306cda-47a5-4789-82bb-c037e9a790bf,pavlova.lease,available,58.98,73.98,medium,low,7,namecheap,,,19/09/2026 10:01
 9594dc21-4ac9-41e5-abde-419beba57aa7,senior.lease,available,56.99,56.99,high,low,6,namesilo,,,21/09/2026 22:36
 82f72ee5-af87-4d88-8205-868f3772d5c0,pungent.lease,available,14.99,71.99,medium,low,7,name.com,,,
 04a22eeb-6410-43b4-824e-4fca205d4933,holyoke.lease,available,56.99,56.99,medium,low,7,namesilo,,,28/09/2026 08:11
 81d203b0-1ea3-4f01-aaaa-57daa44bbd30,apadana.lease,available,56.99,56.99,medium,low,7,namesilo,,,19/09/2026 16:10
+f7fd2f39-d63d-4631-b8bc-f1d6cd04df33,ics.lease,available,56.99,56.99,high,low,3,namesilo,,,28/09/2026 21:49
 5c09bc94-b79e-4ada-895a-dd7cb339b0ec,arriviste.lease,available,56.99,56.99,medium,low,9,namesilo,,,03/09/2026 22:17
 1f2e14a7-be3f-407b-acb5-a13ddc82e851,lyrate.lease,available,14.99,71.99,medium,low,6,name.com,,,24/08/2026 12:39
 a0cdf5c9-a739-4ba0-bfbf-0b82a5c3756c,xliv.lease,available,14.99,71.99,medium,low,4,name.com,,,
@@ -883,10 +973,12 @@ dd5e3ed1-6ee0-4b22-917b-84c1cc706db1,fiscally.lease,available,56.99,56.99,medium
 f47c83a4-5202-4d7d-8e0d-7727e6f696d0,shelton.lease,available,56.99,56.99,medium,low,7,namesilo,,,27/09/2026 01:50
 e34313f6-429f-40bd-b4e9-df845430d729,conk.lease,available,14.99,71.99,medium,low,4,name.com,,,17/08/2026 21:08
 f492fd90-7a4b-4583-8d86-8af80f821594,robotic.lease,available,56.99,56.99,high,low,7,namesilo,,,22/09/2026 14:05
+335b6870-f5cd-46cd-8aeb-57f59cb0650d,pits.lease,available,44.71,44.71,low,low,4,spaceship,,,28/09/2026 23:33
 e9db6416-f3ff-468c-a724-1e70b1d85cf3,cactus.lease,available,58.98,73.98,high,low,6,namecheap,,,24/09/2026 11:36
 cbe5e37e-ee96-4b1a-8f31-550e39188741,zone.lease,premium,242,242,high,low,4,namesilo,,,
 84cf0860-79cb-4196-b436-53df5662cd9f,authorial.lease,available,14.99,71.99,medium,low,9,name.com,,,07/08/2026 16:19
 2361a424-b25c-4bf0-8fc7-4133503d2c4f,undesigned.lease,available,14.99,71.99,medium,low,10,name.com,,,12/09/2026 07:46
+87a51eb0-5a80-4a4e-9573-e294575525b9,crowe.lease,available,56.99,56.99,medium,low,5,namesilo,,,28/09/2026 12:13
 593b3ffe-5eba-49df-978c-7ba6f268ae71,asteroidea.lease,available,56.99,56.99,medium,low,10,namesilo,,,20/09/2026 17:14
 f0cc9e1c-c2bb-440f-8f73-2e2c05f71b77,waterfowl.lease,available,56.99,56.99,high,low,9,namesilo,,,19/09/2026 17:39
 853dbbaa-1aa3-4845-8efc-820336316b4f,beaujolais.lease,available,56.99,56.99,high,low,10,namesilo,,,22/09/2026 22:13
@@ -894,6 +986,7 @@ bed2dcf8-99e7-45d2-b033-f859b9f4e94f,coiled.lease,available,14.99,71.99,medium,l
 ce4e335d-60a2-499c-8358-fa7f3349e83a,haste.lease,available,58.98,73.98,high,low,5,namecheap,,,27/09/2026 17:08
 95f07397-6f7b-4c0c-8b3d-ecf0cd8e3cf1,arranger.lease,available,56.99,56.99,medium,low,8,namesilo,,,17/09/2026 06:29
 1b122d9b-3085-4c9c-8825-53877f5b4d2f,hans.lease,available,14.99,,high,low,4,name.com,,,
+b1134d89-a9ff-4cb3-b257-0950c968b2df,creeping.lease,available,44.71,44.71,medium,low,8,spaceship,,,29/09/2026 00:36
 d1faaacc-57ef-48b4-9e59-170f8e929705,impromptu.lease,available,14.99,71.99,high,low,9,name.com,,,
 1c613422-7948-4171-8b9e-449225dcf87d,tools.lease,premium,78.54,78.54,high,medium,5,namesilo,,,17/09/2026 15:46
 91c46fba-6a65-4556-8972-5973110ea48a,marsupial.lease,available,14.99,71.99,high,low,9,name.com,,,24/08/2026 16:32
@@ -906,96 +999,3 @@ ab3a722e-7a99-47a1-8b2e-3694c721e72e,asphodel.lease,available,56.99,56.99,medium
 71236603-5979-4c5c-a31f-151c290f0882,iceberg.lease,available,58.98,73.98,high,low,7,namecheap,,,23/09/2026 09:15
 931df305-e0ad-4bb3-841c-c75d9b2eaf5f,guiding.lease,available,14.99,71.99,high,low,7,name.com,,,14/08/2026 08:49
 b9ecce72-0761-404c-a498-8fcd03342155,provinces.lease,available,56.99,56.99,medium,low,9,namesilo,,,18/09/2026 15:35
-ece93d39-0fc3-4705-83fa-e0534a365a77,exactly.lease,available,56.99,56.99,high,low,7,namesilo,,,26/09/2026 00:15
-e39470d8-55ba-4d02-aec2-98453105b792,toothsome.lease,available,14.99,71.99,medium,low,9,name.com,,,14/08/2026 00:24
-9d071624-ab2a-4fe1-ac4c-790e90d31430,viscous.lease,available,14.99,71.99,high,low,7,name.com,,,20/08/2026 15:25
-64256640-9c0a-4241-905c-a098e6b7beda,alary.lease,available,14.99,71.99,medium,low,5,name.com,,,
-c982f711-f9af-481a-a8ec-4f4706e3e96b,compare.lease,premium,854,854,high,low,7,namesilo,,,24/09/2026 16:43
-cd7ff23a-dba0-4063-9801-3bbf416cccfc,tiddly.lease,available,56.99,56.99,medium,low,6,namesilo,,,11/09/2026 15:36
-cb601eae-ea90-4eac-aa6e-a73871552ffe,nauseous.lease,available,14.99,71.99,medium,low,8,name.com,,,24/08/2026 08:24
-4c7e9be0-7c3f-4bc9-8953-1f0a5c3f77d4,goonie.lease,available,56.99,56.99,medium,low,6,namesilo,,,23/09/2026 23:45
-6f48d620-0ccd-4282-bfce-3ae7582920b6,promise.lease,available,14.99,,high,low,7,name.com,,,
-c8d92c05-f8f9-4378-8458-251f1eaac2a8,bookkeeping.lease,available,44.71,44.71,high,low,11,spaceship,,,28/09/2026 02:35
-e6bf7301-7efb-4734-995b-ee3775a788c9,specialty.lease,available,14.99,71.99,high,low,9,name.com,,,18/08/2026 12:30
-e6c18cff-5bee-4e97-8d0e-36b178e5afce,unseasoned.lease,available,56.99,56.99,medium,low,10,namesilo,,,12/09/2026 18:46
-4fbbacaf-689c-4a80-9058-691e2c5cdbf2,scienter.lease,available,56.99,56.99,medium,low,8,namesilo,,,16/09/2026 00:44
-b83a0b1b-9810-4425-95b9-384c902ee898,israeli.lease,available,14.99,71.99,high,low,7,name.com,,,22/08/2026 11:32
-e70bec74-7999-4bcd-97d1-c3e5f243702b,softback.lease,available,56.99,56.99,medium,low,8,namesilo,,,05/09/2026 01:13
-4af743d8-c3f6-4988-a8f8-ea87a2a332a9,caprice.lease,available,58.98,73.98,high,low,7,namecheap,,,24/09/2026 12:38
-f09f398a-f191-47e0-a857-f6f0d3d10c52,alnico.lease,available,58.98,73.98,medium,low,6,namecheap,,,18/09/2026 12:50
-c075325f-5016-4be2-b02b-2e25a149b794,voyage.lease,available,44.71,44.71,high,low,6,spaceship,,,28/09/2026 02:51
-9e12e4a8-1278-4b1c-9899-fa5af0785158,ashen.lease,available,14.99,71.99,medium,low,5,name.com,,,07/08/2026 02:09
-1e29b27f-2b1b-4e1a-94e6-e0f7dff472b5,tehran.lease,available,56.99,56.99,high,low,6,namesilo,,,25/09/2026 22:03
-9a19a938-0f73-449e-981a-2768255f1761,pantry.lease,available,14.99,71.99,high,low,6,name.com,,,11/08/2026 11:54
-a25d01c1-f860-4160-8fde-1d7b3bde8f64,senseless.lease,available,58.98,73.98,medium,low,9,namecheap,,,03/09/2026 17:48
-da915596-20cb-4a84-a0a2-b0d3e28781ab,packet.lease,available,56.99,56.99,high,low,6,namesilo,,,24/09/2026 11:14
-c6babd16-92d1-4025-ab32-882eb08f50df,fuss.lease,available,56.99,56.99,high,low,4,namesilo,,,17/09/2026 09:21
-cb147b58-3d56-4576-861a-042be0a3d879,protozoan.lease,available,56.99,56.99,medium,low,9,namesilo,,,09/09/2026 04:12
-1357b87b-6797-4bf1-a8f9-589c8a45d2dd,plump.lease,available,14.99,71.99,high,low,5,name.com,,,12/08/2026 07:35
-35a88587-7c7d-42bc-9eb6-db8da95ebccf,albion.lease,available,56.99,56.99,high,low,6,namesilo,,,18/09/2026 02:58
-9ac3071b-98e2-459a-850e-849fd7d7bca5,anterior.lease,available,14.99,71.99,high,low,8,name.com,,,
-9359635b-4a90-4f51-b79d-c6d775d36fae,accurately.lease,available,14.99,,high,low,10,name.com,,,
-56b1605d-9ac0-4160-bbcc-6400672546dd,squeezable.lease,available,56.99,56.99,high,low,10,namesilo,,,10/09/2026 17:41
-fa2a0137-a4ef-461a-97c1-731f1399a60f,unlucky.lease,available,14.99,71.99,medium,low,7,name.com,,,21/08/2026 19:11
-893ad231-6d6d-4e3a-8ddd-ef8aad4c9573,thankless.lease,available,56.99,56.99,medium,low,9,namesilo,,,11/09/2026 12:28
-3b577180-b07e-4759-874b-0b854a80c899,treachery.lease,available,56.99,56.99,medium,low,9,namesilo,,,23/09/2026 11:23
-991c4096-3ca3-441e-8746-45d6fa0cda6f,profitable.lease,available,56.99,56.99,high,low,10,namesilo,,,27/09/2026 07:05
-2186bef9-bea8-4412-b940-4bd08702ebc2,ignoble.lease,available,14.99,71.99,medium,low,7,name.com,,,21/08/2026 18:23
-c99f4a57-0c09-4983-9d69-6e80b70f0cfd,phoenician.lease,available,58.98,73.98,high,low,10,namecheap,,,08/09/2026 19:00
-0a2ade0e-031c-4e1d-a0b4-df66dd8a0854,toothless.lease,available,56.99,56.99,medium,low,9,namesilo,,,11/09/2026 17:15
-6a90e42a-9bb1-47b8-aaff-651f235e86e6,vault.lease,available,58.98,73.98,high,medium,5,namecheap,,,22/09/2026 02:40
-9a0c23d1-efe0-41be-8a4a-51b3b3d9b2ff,rockbound.lease,available,58.98,73.98,medium,low,9,namecheap,,,09/09/2026 18:10
-4a2305d2-cfdb-4028-a3d4-8df031f6a1a6,crazily.lease,available,56.99,56.99,medium,low,7,namesilo,,,14/09/2026 09:15
-329f4ca7-5329-404f-b508-b7de0d384f1d,adapid.lease,available,56.99,56.99,low,low,6,namesilo,,,17/09/2026 06:24
-3ca357a4-3381-4b55-81ab-65f0ec84533f,fleeting.lease,available,14.99,71.99,high,low,8,name.com,,,18/08/2026 07:51
-16b3face-239e-4b0f-a02d-79aa5fdbd336,arum.lease,available,14.99,71.99,medium,low,4,name.com,,,06/08/2026 20:20
-802c9709-209a-4544-976c-0ea1ba0f268b,unsheared.lease,available,56.99,56.99,low,low,9,namesilo,,,12/09/2026 19:44
-6159ca0e-4db7-468f-802a-710c28b530fa,disclaimer.lease,available,56.99,56.99,high,low,10,namesilo,,,24/09/2026 22:28
-b56b5b59-de09-4f80-b1c2-cf9842341a59,boring.lease,available,56.99,56.99,high,low,6,namesilo,,,23/09/2026 00:20
-956f66d6-9f33-4e3d-a4b6-46430b16ad5e,sintered.lease,available,56.99,56.99,medium,low,8,namesilo,,,10/09/2026 08:34
-acbfcf71-6dae-4f0c-a9b1-30f683655cd2,veg.lease,available,14.99,,high,low,3,name.com,,,
-c64ce5ea-8eb0-495e-8503-85d2ce5287aa,bayesian.lease,available,14.99,71.99,medium,low,8,name.com,,,09/08/2026 03:13
-806abfe5-fce4-4118-9e98-07fa5fd8d0c1,gallium.lease,available,56.99,56.99,medium,low,7,namesilo,,,20/09/2026 22:50
-31c285cc-f3ac-428e-8a5f-c1fb702854ad,inanimate.lease,available,14.99,71.99,medium,low,9,name.com,,,22/08/2026 00:17
-16d29f4a-294a-46eb-8c91-a849341d77bf,wilder.lease,available,56.99,56.99,high,low,6,namesilo,,,23/09/2026 16:50
-d0f527ba-b345-4e32-a267-6ed68e0dfd8c,abies.lease,available,56.99,56.99,high,low,5,namesilo,,,16/09/2026 15:38
-e41ac4e8-06f0-4bdc-834b-85905c3f1163,humoring.lease,available,56.99,56.99,high,low,8,namesilo,,,05/09/2026 00:31
-b7031477-5a78-4703-be19-8df1b79d69b9,swindle.lease,available,56.99,56.99,medium,low,7,namesilo,,,14/09/2026 07:52
-4306d88a-e20e-4961-a976-0774c81378f6,manchurian.lease,available,14.99,71.99,high,low,10,name.com,,,24/08/2026 14:34
-9c7c4f30-38d7-4114-a610-5f30fe6cfe25,semisolid.lease,available,56.99,56.99,medium,low,9,namesilo,,,10/09/2026 03:26
-9f1de23b-eb53-405d-a8d1-837231026274,chatbot.lease,available,58.98,73.98,high,medium,7,namecheap,,,25/09/2026 09:04
-658daf46-8320-497e-8aea-de59148d4393,unacceptable.lease,available,14.99,,medium,low,12,name.com,,,
-ca514326-6ee6-4944-b5a0-1914ae05e5c7,geocentric.lease,available,14.99,71.99,medium,low,10,name.com,,,18/08/2026 22:16
-e9ab7c36-b7a6-4754-9bdb-3e57ba480979,exhaustion.lease,available,14.99,,medium,low,10,name.com,,,
-ba2727db-aaa7-4c5f-a0c7-e1fb22fd8064,sterility.lease,available,58.98,73.98,medium,low,9,namecheap,,,19/09/2026 15:04
-6a5d77fa-f4ee-461e-a89e-e7bac02ce150,cuddle.lease,available,58.98,73.98,high,low,6,namecheap,,,24/09/2026 20:09
-a2b7f186-c580-4f08-afd6-d397dc5c62b1,accuser.lease,available,14.99,,medium,low,7,name.com,,,
-e2658935-7681-4b8f-b39f-75244f786a72,techno.lease,available,14.99,,high,low,6,name.com,,,
-a632f7d5-00ea-4a7d-84aa-2b4e6dc4a56f,alabama.lease,premium,118.8,118.8,high,low,7,namesilo,,,
-3843768c-c024-47c2-b473-03a624783abe,unparallel.lease,available,56.99,56.99,medium,low,10,namesilo,,,12/09/2026 16:27
-aac1a39f-3827-4d16-ae30-94776282de86,consuming.lease,available,58.98,73.98,high,low,9,namecheap,,,23/09/2026 21:22
-c6923707-3d6f-4318-a106-a633f7889f81,beowulf.lease,available,14.99,71.99,medium,low,7,name.com,,,23/09/2026 09:04
-cc5a4527-9385-4efc-912f-428e79ed54ef,blowzy.lease,available,14.99,71.99,low,low,6,name.com,,,10/08/2026 15:41
-8cbad05b-1d0a-42f8-9525-dec0571d06a7,fake.lease,available,14.99,71.99,high,low,4,name.com,,,08/08/2026 23:02
-584938f2-12b8-460f-9aa5-c258bae933f3,applier.lease,available,56.99,56.99,medium,low,7,namesilo,,,19/09/2026 21:54
-1e4f1a10-b5ac-4a11-a9d2-204b0b53e643,volkswagen.lease,available,14.99,,high,low,10,name.com,,,
-032672e5-e176-4a49-93a0-d45a1a983d4d,unprovoked.lease,available,14.99,71.99,medium,low,10,name.com,,,25/08/2026 07:52
-a8b54f68-e7ea-4b87-9328-d1792d1ef34b,sites.lease,available,58.98,73.98,high,low,5,namecheap,,,18/09/2026 21:00
-8c394309-d8da-417a-a374-7227c10fef72,fluffy.lease,available,14.99,71.99,high,low,6,name.com,,,14/08/2026 17:46
-e5ba7a2e-b7fa-4f15-8d60-068164229540,options.lease,available,56.99,56.99,high,low,7,namesilo,,,19/09/2026 14:29
-4b54b070-31fe-4006-9744-d5dbc3a99172,overleaf.lease,available,58.98,73.98,medium,low,8,namecheap,,,15/09/2026 18:27
-377f4b43-7a0a-4c00-8468-6daf6976e923,muted.lease,available,14.99,71.99,high,low,5,name.com,,,21/08/2026 15:56
-976ff52b-87de-4149-8093-b1c9807dfee5,cyclosis.lease,available,56.99,56.99,medium,low,8,namesilo,,,10/09/2026 22:24
-f9f5e0bc-13a5-4e1f-a1e3-844d5741bd71,problems.lease,available,56.99,56.99,medium,low,8,namesilo,,,25/09/2026 17:11
-4b8189a6-93da-42f9-88d9-cadfb7deffa8,amazingly.lease,available,58.98,73.98,high,low,9,namecheap,,,13/09/2026 19:27
-59baff7a-ecf1-4460-bdb1-56c37b0da146,struck.lease,available,56.99,56.99,medium,low,6,namesilo,,,10/09/2026 11:50
-85dbf026-bcce-45a0-ad5b-d2b13478e722,lied.lease,available,56.99,56.99,high,low,4,namesilo,,,25/09/2026 08:58
-2ddb7253-9817-46b6-b4c3-9c3a1462a11c,cattie.lease,available,14.99,71.99,medium,low,6,name.com,,,11/08/2026 22:14
-82bf4814-14d2-4c4a-921b-b9e629293187,croat.lease,available,14.99,71.99,medium,low,5,name.com,,,13/08/2026 07:34
-f234fda7-2127-4b48-a5a4-451b52df5e2a,atresia.lease,available,56.99,56.99,medium,low,7,namesilo,,,21/09/2026 00:42
-24cc0c8b-3a03-48de-9d5e-5a8f5c5e7298,experimental.lease,available,14.99,,high,low,12,name.com,,,
-9fa1d805-af54-491e-b020-857eababc583,decayable.lease,available,14.99,71.99,low,low,9,name.com,,,13/08/2026 20:54
-bd6c29ee-3a20-4acb-9464-923d3c0b223b,inhibited.lease,available,14.99,71.99,medium,low,9,name.com,,,22/08/2026 05:07
-f4115a62-c597-469b-848b-487066db2527,romp.lease,available,58.98,73.98,high,low,4,namecheap,,,09/09/2026 19:26
-40152cc2-a3db-426e-ae8c-ba95106b6926,innovation.lease,available,56.99,56.99,high,medium,10,namesilo,,,28/09/2026 03:06
-7d83effb-981f-4296-9a1b-b2cfea7e3c63,cyclical.lease,available,14.99,71.99,high,low,8,name.com,,,13/08/2026 13:34
